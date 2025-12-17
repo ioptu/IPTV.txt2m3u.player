@@ -15,4 +15,9 @@ https://learn.microsoft.com/zh-cn/deployedge/microsoft-edge-manage-extensions-po
 
 
 ## .m3u8
-目前chrome已经原生支持播放.m3u8的链接
+目前chrome已经原生支持播放.m3u8的链接。即使不含.m3u8的hls类型视频链接也能原生支持播放。这些链接的共性是响应头中都含有“content-type application/vnd.apple.mpegurl”（hls的一种mime类型）字段。
+
+但是有些没有画面，只有声音；而使用其他播放器如potplayer和本扩展则不存在这个问题。
+
+一些非标准的hls目前chrome还是无法直接播放，比如不含.m3u8的hls类型视频链接，其响应体中content-type是text/plain。
+
