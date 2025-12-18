@@ -1,7 +1,7 @@
 name: txt2m3u
 on: 
   schedule: 
-    - cron: 00 05 * * *
+    - cron: 11 05 * * *
   workflow_dispatch:
 jobs:
   main:
