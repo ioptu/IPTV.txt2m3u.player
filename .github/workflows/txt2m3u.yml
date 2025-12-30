@@ -28,13 +28,13 @@ jobs:
           python ./scripts/extract.py --input tv1.m3u --output tv1op.m3u --eoru ',php.jdshipin.com/TVOD/iptv.php?id=' 
           python ./scripts/m3u_merger.py -i tv1op.m3u -o tv1op_merged.m3u
 
-          wget https://github.com/cm851228/my51228888/raw/refs/heads/main/catvod.txt -O tv2.txt  -t 2 --waitretry=5
-          node ./scripts/txt2m3u.js -i tv2.txt -o tv2.m3u
-          python ./scripts/extract.py --input tv2.m3u --output tv2ys.m3u --eoru '央视,' 
-          python ./scripts/extract.py --input tv2.m3u --output tv2ws.m3u --eoru '卫视,' 
-          python ./scripts/m3u_merger.py -i tv2ys.m3u tv2ws.m3u -o tv2op_merged.m3u
-          python ./scripts/m3u_mergerng.py -i tv2op_merged.m3u -o tv2op_merged_ng.m3u
-          python ./scripts/url_sorter.py -i tv2op_merged_ng.m3u -o tv2op_ms.m3u -k 'live.catvod.com,iptv.catvod.com'
+          #wget https://github.com/cm851228/my51228888/raw/refs/heads/main/catvod.txt -O tv2.txt  -t 2 --waitretry=5
+          #node ./scripts/txt2m3u.js -i tv2.txt -o tv2.m3u
+          #python ./scripts/extract.py --input tv2.m3u --output tv2ys.m3u --eoru '央视,' 
+          #python ./scripts/extract.py --input tv2.m3u --output tv2ws.m3u --eoru '卫视,' 
+          #python ./scripts/m3u_merger.py -i tv2ys.m3u tv2ws.m3u -o tv2op_merged.m3u
+          #python ./scripts/m3u_mergerng.py -i tv2op_merged.m3u -o tv2op_merged_ng.m3u
+          #python ./scripts/url_sorter.py -i tv2op_merged_ng.m3u -o tv2op_ms.m3u -k 'live.catvod.com,iptv.catvod.com'
 
           
           ls -al
