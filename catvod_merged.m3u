@@ -1,39 +1,69 @@
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视catvod",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1
 https://live.catvod.com/live.php?id=cctv1
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视catvod",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
+https://iptv.catvod.com/live.php?id=CCTV2
 https://live.catvod.com/live.php?id=cctv2
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视catvod",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
+https://iptv.catvod.com/live.php?id=CCTV3
 https://live.catvod.com/live.php?id=cctv3
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视catvod",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
+https://iptv.catvod.com/live.php?id=CCTV4
 https://live.catvod.com/live.php?id=Cctv4
 https://live.catvod.com/live.php?id=cctv4
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视catvod",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
+https://iptv.catvod.com/live.php?id=CCTV5
 https://live.catvod.com/live.php?id=cctv5
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视catvod",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
+https://iptv.catvod.com/live.php?id=CCTV5%2B
 https://live.catvod.com/live.php?id=cctv5plus
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视catvod",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
+https://iptv.catvod.com/live.php?id=CCTV6
 https://live.catvod.com/live.php?id=cctv6
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视catvod",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7
+https://iptv.catvod.com/live.php?id=CCTV7
 https://live.catvod.com/live.php?id=cctv7
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视catvod",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8
+https://iptv.catvod.com/live.php?id=CCTV8
 https://live.catvod.com/live.php?id=cctv8hd
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视catvod",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9
+https://iptv.catvod.com/live.php?id=CCTV9
 https://live.catvod.com/live.php?id=cctv9hd
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视catvod",CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10
+https://iptv.catvod.com/live.php?id=CCTV10
 https://live.catvod.com/live.php?id=cctv10hd
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视catvod",CCTV11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11
+https://iptv.catvod.com/live.php?id=CCTV11
 https://live.catvod.com/live.php?id=cctv11
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视catvod",CCTV-12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12
+https://iptv.catvod.com/live.php?id=CCTV12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
+https://iptv.catvod.com/live.php?id=CCTV13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14
+https://iptv.catvod.com/live.php?id=CCTV14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
+https://iptv.catvod.com/live.php?id=CCTV15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16
+https://iptv.catvod.com/live.php?id=CCTV16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
+https://iptv.catvod.com/live.php?id=CCTV17
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12
+https://iptv.catvod.com/live.php?id=CCTV-12
 https://live.catvod.com/live.php?id=cctv12
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视catvod",CCTV-13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13
+https://iptv.catvod.com/live.php?id=CCTV-13
 https://live.catvod.com/live.php?id=cctv13
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视catvod",CCTV-14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14
+https://iptv.catvod.com/live.php?id=CCTV-14
 https://live.catvod.com/live.php?id=cctv14
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视catvod",CCTV-15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15
+https://iptv.catvod.com/live.php?id=CCTV-15
 https://live.catvod.com/live.php?id=cctv15
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视catvod",CCTV-16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16
+https://iptv.catvod.com/live.php?id=CCTV-16
 https://live.catvod.com/live.php?id=cctv16
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视catvod",CCTV-17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17
+https://iptv.catvod.com/live.php?id=CCTV-17
 https://live.catvod.com/live.php?id=cctv17
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
 https://iptv.catvod.com/live.php?id=CCTV-1
@@ -61,122 +91,103 @@ https://iptv.catvod.com/live.php?id=CCTV-9
 https://iptv.catvod.com/live.php?id=CCTV-10
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11
 https://iptv.catvod.com/live.php?id=CCTV-11
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12
-https://iptv.catvod.com/live.php?id=CCTV-12
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13
-https://iptv.catvod.com/live.php?id=CCTV-13
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14
-https://iptv.catvod.com/live.php?id=CCTV-14
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15
-https://iptv.catvod.com/live.php?id=CCTV-15
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16
-https://iptv.catvod.com/live.php?id=CCTV-16
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17
-https://iptv.catvod.com/live.php?id=CCTV-17
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
-https://iptv.catvod.com/live.php?id=CCTV1
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
-https://iptv.catvod.com/live.php?id=CCTV3
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
-https://iptv.catvod.com/live.php?id=CCTV4
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
-https://iptv.catvod.com/live.php?id=CCTV5
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
-https://iptv.catvod.com/live.php?id=CCTV5%2B
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
-https://iptv.catvod.com/live.php?id=CCTV6
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7
-https://iptv.catvod.com/live.php?id=CCTV7
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8
-https://iptv.catvod.com/live.php?id=CCTV8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9
-https://iptv.catvod.com/live.php?id=CCTV9
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11
-https://iptv.catvod.com/live.php?id=CCTV11
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12
-https://iptv.catvod.com/live.php?id=CCTV12
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
-https://iptv.catvod.com/live.php?id=CCTV13
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14
-https://iptv.catvod.com/live.php?id=CCTV14
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
-https://iptv.catvod.com/live.php?id=CCTV15
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16
-https://iptv.catvod.com/live.php?id=CCTV16
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
-https://iptv.catvod.com/live.php?id=CCTV17
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视4K.png" group-title="香港catvod",深圳卫视4K
 https://live.catvod.com/iptv.php?id=szws4k
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视catvod",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
+https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
 https://live.catvod.com/live.php?id=hunan_twn
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视catvod",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
+https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 https://live.catvod.com/live.php?id=zhejiang_twn
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视catvod",江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
+https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
 https://live.catvod.com/live.php?id=jiangsu_twn
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视catvod",东方卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
+https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
 https://live.catvod.com/live.php?id=dongfangweishi_twn
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视catvod",北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
+https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
 https://live.catvod.com/live.php?id=beijing
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视catvod",深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
+https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
 https://live.catvod.com/live.php?id=shenzhen
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视catvod",广东卫视
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
+https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
 https://live.catvod.com/live.php?id=guangdongweishi_twn
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视catvod",大湾区卫视
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
+https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
+https://live.catvod.com/live.php?id=guangxi
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
+https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
+https://live.catvod.com/live.php?id=hubei
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
+https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
+https://live.catvod.com/live.php?id=sichuan_twn
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
+https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
+https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
+https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
+https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
+https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
+https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
+https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
+https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
+https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="中国教育1套" tvg-logo="https://live.fanmingming.com/tv/中国教育1套.png" group-title="卫视",中国教育1套
+https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%A5%97
+#EXTINF:-1 tvg-name="福建东南卫视" tvg-logo="https://live.fanmingming.com/tv/福建东南卫视.png" group-title="卫视",福建东南卫视
+https://iptv.catvod.com/live.php?id=%E7%A6%8F%E5%BB%BA%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
+https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
+https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
+https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
+https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
+https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
+https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
+https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
+https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
+https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
+https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
+https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="卫视",国学频道
+https://iptv.catvod.com/live.php?id=%E5%9B%BD%E5%AD%A6%E9%A2%91%E9%81%93
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="咪咕卫视",大湾区卫视
+https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
 https://live.catvod.com/live.php?id=nanfang_twn
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="咪咕卫视",三沙卫视
+https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="咪咕卫视",农林卫视
+https://iptv.catvod.com/live.php?id=%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="珠江" tvg-logo="https://live.fanmingming.com/tv/珠江.png" group-title="卫视catvod",珠江
 https://live.catvod.com/live.php?id=zhujiang
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视catvod",东南卫视
 https://live.catvod.com/live.php?id=fujian
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视catvod",广西卫视
-https://live.catvod.com/live.php?id=guangxi
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视catvod",湖北卫视
-https://live.catvod.com/live.php?id=hubei
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视catvod",四川卫视
-https://live.catvod.com/live.php?id=sichuan_twn
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="卫视catvod",CGTN
 https://live.catvod.com/live.php?id=CGTN
 #EXTINF:-1 tvg-name="卫视电影台" tvg-logo="https://live.fanmingming.com/tv/卫视电影台.png" group-title="台湾catvod",卫视电影台
 https://live.catvod.com/live.php?id=weishimovie_twn
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="咪咕卫视",湖南卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="咪咕卫视",浙江卫视
-https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="咪咕卫视",江苏卫视
-https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="咪咕卫视",东方卫视
-https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="咪咕卫视",广东卫视
-https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="咪咕卫视",湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="咪咕卫视",江西卫视
-https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="咪咕卫视",辽宁卫视
-https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="咪咕卫视",陕西卫视
-https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="咪咕卫视",河南卫视
-https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="咪咕卫视",海南卫视
-https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="咪咕卫视",三沙卫视
-https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="咪咕卫视",吉林卫视
-https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="咪咕卫视",青海卫视
-https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="咪咕卫视",农林卫视
-https://iptv.catvod.com/live.php?id=%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="咪咕卫视",内蒙古卫视
-https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="咪咕卫视",兵团卫视
-https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="咪咕卫视",大湾区卫视
-https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="北京卫视台" tvg-logo="https://live.fanmingming.com/tv/北京卫视台.png" group-title="卫视频道",北京卫视台
 https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="东方卫视台" tvg-logo="https://live.fanmingming.com/tv/东方卫视台.png" group-title="卫视频道",东方卫视台
@@ -237,73 +248,3 @@ https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B
 https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="西藏卫视台" tvg-logo="https://live.fanmingming.com/tv/西藏卫视台.png" group-title="卫视频道",西藏卫视台
 https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
-https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
-https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="中国教育1套" tvg-logo="https://live.fanmingming.com/tv/中国教育1套.png" group-title="卫视",中国教育1套
-https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%A5%97
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
-https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="福建东南卫视" tvg-logo="https://live.fanmingming.com/tv/福建东南卫视.png" group-title="卫视",福建东南卫视
-https://iptv.catvod.com/live.php?id=%E7%A6%8F%E5%BB%BA%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
-https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
-https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
-https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
-https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
-https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
-https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
-https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
-https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
-https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
-https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="卫视",国学频道
-https://iptv.catvod.com/live.php?id=%E5%9B%BD%E5%AD%A6%E9%A2%91%E9%81%93
