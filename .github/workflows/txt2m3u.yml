@@ -16,11 +16,11 @@ jobs:
       run: |
           ### wget https://github.com/zwc456baby/iptv_alive/raw/master/live.txt -O input.txt
           ## wget https://gitee.com/xxy002/zhiboyuan/raw/master/dsy -O input.txt
-          wget https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv6.m3u -O kkx_ipv6.m3u -t 2 --waitretry=5
+          #wget https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv6.m3u -O kkx_ipv6.m3u -t 2 --waitretry=5
           #wget http://www.lyyytv.cn/yt/zhibo/1.txt -O input.txt -t 2 --waitretry=5
           #node ./scripts/txt2m3u.js -i input.txt -o output.m3u
           #python ./scripts/m3u_merger.py -i output.m3u -o output_merged.m3u
-          python ./scripts/m3u_merger.py -i huuc_ipv6.m3u kkx_ipv6.m3u -o ipv6_merged.m3u
+          #python ./scripts/m3u_merger.py -i huuc_ipv6.m3u kkx_ipv6.m3u -o ipv6_merged.m3u
 
 
           wget https://github.com/hainantv/kk/raw/refs/heads/main/hainan.txt -O tv1.txt  -t 2 --waitretry=5
@@ -52,11 +52,11 @@ jobs:
         # 后续操作...
         #mv ../output.m3u ./t2m_output.m3u
         #mv ../output_merged.m3u ./t2m_output_merged.m3u
-        mv ../kkx_ipv6.m3u ./kakaxi-1_ipv6.m3u
-        mv ../ipv6_merged.m3u ./ipv6_merged.m3u
+        #mv ../kkx_ipv6.m3u ./kakaxi-1_ipv6.m3u
+        #mv ../ipv6_merged.m3u ./ipv6_merged.m3u
         mv ../tv1op.m3u ./php.jdshipin.com.m3u
         mv ../tv1op_merged.m3u ./php.jdshipin.com_merged.m3u
-        mv ../tv2op_ms.m3u ./catvod_merged.m3u
+        #mv ../tv2op_ms.m3u ./catvod_merged.m3u
 
         
         git add .
