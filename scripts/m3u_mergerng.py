@@ -9,19 +9,17 @@ def extract_group_title(info_line):
     match = re.search(r'group-title="([^"]*)"', info_line)
     if match:
         return match.group(1).strip()
-    return ""
+    return "未分类" # 默认分组
 
 # --- 辅助函数：解析单个 M3U 内容 ---
-# 仍然返回 order_list, channels_map, header，但 channels_map 现在包含 group 信息
 def parse_single_m3u(m3u_content):
     if not m3u_content:
         return [], {}, ""
         
     lines = [line.strip() for line in m3u_content.strip().split('\n') if line.strip()]
     
-    # channels_map 结构: { "频道名称": {"info": "#EXTINF...", "urls": set(), "group": "..."} }
     channels_map = {}
-    order_list = []
+    order_list = [] # 存储频道名
     header = ""
     
     current_info_line = None
@@ -35,11 +33,12 @@ def parse_single_m3u(m3u_content):
 
         if line.startswith('#EXTINF:'):
             current_info_line = line
-            name_match = re.search(r',(.+)$', line)
+            # 提取最后一个逗号后的频道名称
+            name_match = re.search(r',([^,]+)$', line)
             current_channel_name = name_match.group(1).strip() if name_match else None
-            group_title = extract_group_title(current_info_line)
             
             if current_channel_name:
+                group_title = extract_group_title(current_info_line)
                 if current_channel_name not in channels_map:
                     channels_map[current_channel_name] = {
                         "info": current_info_line, 
@@ -48,6 +47,7 @@ def parse_single_m3u(m3u_content):
                     }
                     order_list.append(current_channel_name)
                 else:
+                    # 如果已存在，更新其 info 和 group（以最后出现的为准）
                     channels_map[current_channel_name]["info"] = current_info_line
                     channels_map[current_channel_name]["group"] = group_title
             
@@ -60,149 +60,130 @@ def parse_single_m3u(m3u_content):
 
     return order_list, channels_map, header
 
-
-# --- 主函数：实现 Group-Title 优先的相对插入排序逻辑 ---
+# --- 主函数 ---
 def main():
     parser = argparse.ArgumentParser(
-        description="合并多个M3U文件的内容，按 Group-Title 排序，并在组内使用相对插入排序。",
+        description="合并M3U文件，仅基于频道名合并URL，并实现Group-Title优先的相对插入排序。",
         formatter_class=argparse.RawTextHelpFormatter
     )
     parser.add_argument('-i', '--input', type=str, nargs='+', required=True, help="一个或多个输入M3U文件的路径")
     parser.add_argument('-o', '--output', type=str, required=True, help="输出M3U文件的路径")
     args = parser.parse_args()
     
-    if not args.input:
-        print("错误: 请提供至少一个输入文件。", file=sys.stderr)
-        sys.exit(1)
-        
-    # 主数据结构：
-    # final_channels_data = {
-    #     "group_name": {
-    #         "channels": { "频道名": {"info": "#EXTINF...", "urls": set()} },
-    #         "order_list": ["频道名1", "频道名2", ...] # 该分组的内部顺序列表
-    #     }
-    # }
-    final_channels_data = {}
-    # 记录 Group-Title 首次出现的顺序（用于最终 Group 排序）
-    group_global_order = [] 
+    # 存储所有频道的最终数据：{ 频道名: {info, urls, group} }
+    final_channels_map = {}
+    # 存储分组的全局顺序：[GroupA, GroupB, ...]
+    group_global_order = []
+    # 存储每个分组内的频道顺序：{ GroupA: [Name1, Name2, ...] }
+    group_channels_order = {}
+    
     final_header = ""
     
-    # 1. 遍历所有输入文件并合并数据
     for input_file in args.input:
         if not os.path.exists(input_file):
-            print(f"警告: 输入文件 '{input_file}' 不存在。跳过。", file=sys.stderr)
-            continue
-        if input_file == args.output:
-            print(f"警告: 输入文件 '{input_file}' 和输出文件不能是同一个文件。跳过。", file=sys.stderr)
+            print(f"警告: 文件不存在 '{input_file}'", file=sys.stderr)
             continue
             
         try:
             with open(input_file, 'r', encoding='utf-8') as f:
                 content = f.read()
-                
-            current_order_list, current_map, header = parse_single_m3u(content)
             
-            if not final_header and header:
-                final_header = header
+            curr_order, curr_map, header = parse_single_m3u(content)
+            if not final_header: final_header = header
             
-            # 针对当前文件中的每个 Group-Title 执行相对插入逻辑
-            
-            # A. 将当前文件的所有频道按 Group-Title 分组
-            current_groups = {}
-            for channel_name in current_order_list:
-                data = current_map[channel_name]
-                group = data["group"]
-                if group not in current_groups:
-                    current_groups[group] = []
-                current_groups[group].append(channel_name)
+            # 按文件出现的顺序处理频道
+            for name in curr_order:
+                item = curr_map[name]
+                new_group = item["group"]
+                
+                # 1. 更新或创建频道全局数据
+                if name not in final_channels_map:
+                    final_channels_map[name] = {
+                        "info": item["info"],
+                        "urls": item["urls"],
+                        "group": new_group
+                    }
+                else:
+                    # 合并 URL
+                    final_channels_map[name]["urls"].update(item["urls"])
+                    # 检查是否改变了分组
+                    old_group = final_channels_map[name]["group"]
+                    if old_group != new_group:
+                        # 从旧组的顺序列表中移除
+                        if old_group in group_channels_order and name in group_channels_order[old_group]:
+                            group_channels_order[old_group].remove(name)
+                        # 更新为新组
+                        final_channels_map[name]["group"] = new_group
+                    # 总是更新最新的 info 属性
+                    final_channels_map[name]["info"] = item["info"]
 
-            # B. 遍历当前文件中的 Group-Title，执行合并和相对插入
-            for group_title, current_group_channels in current_groups.items():
+                # 2. 维护分组的全局发现顺序
+                if new_group not in group_global_order:
+                    group_global_order.append(new_group)
+                    group_channels_order[new_group] = []
                 
-                # 1. 初始化 Group 数据
-                if group_title not in final_channels_data:
-                    final_channels_data[group_title] = {"channels": {}, "order_list": []}
-                    group_global_order.append(group_title) # 记录新的 Group 顺序
+                # 3. 执行组内相对插入排序逻辑
+                target_order_list = group_channels_order[new_group]
                 
-                final_group_data = final_channels_data[group_title]
-                final_group_channels = final_group_data["channels"]
-                final_group_order = final_group_data["order_list"]
-                
-                # 2. 执行组内相对插入排序
-                last_known_channel_index = -1
-                
-                # 预扫描：找到当前文件中的频道在 final_group_order 中最后出现的位置
-                # 注意：这里我们不再进行预扫描，因为组内顺序是动态插入的。
-                # last_known_channel_index 将追踪上一个已处理/已插入的频道位置。
+                if name not in target_order_list:
+                    # 找到当前文件内，该频道之前的频道在最终列表中的位置
+                    # 为了简化，我们追踪该组内上一个处理的频道的索引
+                    last_idx = -1
+                    # 找到当前频道在当前文件组内的位置，探测其前面的邻居
+                    # 这里直接使用 target_order_list 的“动态末尾”作为插入参考点
+                    # 实际上，在同一个文件的同一个 Group 内，它们自然是顺序处理的
+                    
+                    # 寻找插入点：如果之前已经处理过该组的其他频道，last_idx 会被更新
+                    # 如果这是新频道，将其插入到上一次在该组操作的位置之后
+                    insert_pos = len(target_order_list) # 默认追加
+                    
+                    # 如果该频道在当前处理的文件中之前有邻居已经存在于 target_order_list
+                    # 我们可以通过查找已存在的频道来精确定位，但最简单的实现是追踪上一个操作索引
+                    # 这里采用您认可的 last_known_channel_index 逻辑
+                    
+                    # 逻辑：查找当前组内已有的频道中，在当前文件中排在 name 之前的最后一个频道
+                    # 既然我们是按顺序遍历 curr_order，我们只需要记录该组上一次操作的位置即可
+                    # 我们定义一个临时变量来辅助当前文件的处理
+                    pass 
 
-                for channel_name in current_group_channels:
-                    current_channel_data = current_map[channel_name]
-
-                    if channel_name in final_group_channels:
-                        # 频道已存在: A. 合并 URL 并更新属性
-                        
-                        # 更新 info/urls
-                        final_group_channels[channel_name]["info"] = current_channel_data["info"]
-                        final_group_channels[channel_name]["urls"].update(current_channel_data["urls"])
-                        
-                        # 更新 last_known_channel_index
-                        try:
-                            # 找到该频道在 Group Order 列表中的位置
-                            last_known_channel_index = final_group_order.index(channel_name)
-                        except ValueError:
-                            # 理论上不会发生，但以防万一
-                            pass
-                            
+            # 重新执行一遍精确的组内相对插入（针对当前文件）
+            # A. 提取当前文件中属于各个组的频道序列
+            file_group_splits = {}
+            for name in curr_order:
+                g = final_channels_map[name]["group"]
+                if g not in file_group_splits: file_group_splits[g] = []
+                file_group_splits[g].append(name)
+                
+            # B. 对每个组应用相对插入
+            for g, names in file_group_splits.items():
+                target_list = group_channels_order[g]
+                last_known_idx = -1
+                for n in names:
+                    if n in target_list:
+                        last_known_idx = target_list.index(n)
                     else:
-                        # 频道是新的: B. 相对插入
-                        
-                        # 1. 将新频道添加到 Group Map
-                        final_group_channels[channel_name] = {
-                            "info": current_channel_data["info"], 
-                            "urls": current_channel_data["urls"] # 直接赋值集合
-                        }
-                        
-                        # 2. 插入到 order_list 中，位置是 last_known_channel_index + 1
-                        insert_index = last_known_channel_index + 1
-                        final_group_order.insert(insert_index, channel_name)
-                        
-                        # 3. 更新 last_known_channel_index
-                        last_known_channel_index = insert_index
-                        
+                        insert_at = last_known_idx + 1
+                        target_list.insert(insert_at, n)
+                        last_known_idx = insert_at
+
         except Exception as e:
-            print(f"处理文件 '{input_file}' 时发生错误: {e}", file=sys.stderr)
-            sys.exit(1)
+            print(f"处理文件时出错: {e}", file=sys.stderr)
 
-    # 2. 写入最终结果：按 Group Global Order 和 Group Order List 写入
-    output_lines = [final_header] if final_header else []
-    
-    for group_title in group_global_order:
-        if group_title in final_channels_data:
-            group_data = final_channels_data[group_title]
-            
-            # 遍历该 Group 内部的频道顺序
-            for name in group_data["order_list"]:
-                if name in group_data["channels"]:
-                    data = group_data["channels"][name]
-                    
-                    # 写入 EXTINF 行
-                    output_lines.append(data["info"])
-                    
-                    # 写入 URL 行 (排序后，保持稳定)
-                    for url in sorted(list(data["urls"])):
-                        output_lines.append(url)
+    # 3. 生成输出
+    output_lines = [final_header] if final_header else ["#EXTM3U"]
+    for group in group_global_order:
+        for name in group_channels_order.get(group, []):
+            data = final_channels_map[name]
+            output_lines.append(data["info"])
+            for url in sorted(list(data["urls"])):
+                output_lines.append(url)
                 
-    modified_m3u = '\n'.join(output_lines)
-
     try:
         with open(args.output, 'w', encoding='utf-8') as f:
-            f.write(modified_m3u)
-            
-        print(f"成功: {len(args.input)} 个 M3U 文件已合并，并使用 Group-Title 优先的相对插入排序写入到 '{args.output}'")
-        
+            f.write('\n'.join(output_lines))
+        print(f"成功合并至: {args.output}")
     except Exception as e:
-        print(f"写入文件时发生错误: {e}", file=sys.stderr)
-        sys.exit(1)
+        print(f"写入失败: {e}", file=sys.stderr)
 
 if __name__ == "__main__":
     main()
