@@ -45,9 +45,8 @@ jobs:
           python ./scripts/m3u_merger.py -i tv1op.m3u -o tv1op_merged.m3u
           python ./scripts/url_sorter.py -i tv1op_merged.m3u -o tv1op_ms.m3u -k 'HD&auth=666858,auth=66615415'
 
-          wget https://github.com/iTCoffe/Collect-iTV/raw/refs/heads/main/LiTV.m3u -O tv2.m3u  -t 2 --waitretry=5
-          python ./scripts/extract.py --input tv2.m3u --output tv2op.m3u --eoru ',wmviv.com'
-          python ./scripts/deduplicate.py -i tv2op.m3u -o tv2output.m3u
+          wget https://github.com/5iClub/migu_video/raw/refs/heads/main/migu.txt -O mg.m3u  -t 2 --waitretry=5
+          python ./scripts/m3u_mergerng.py -i mg.m3u -o mg_merged.m3u
 
           
 
@@ -73,7 +72,7 @@ jobs:
         #mv ../t2merged.m3u ./t2m_output_merged.m3u
         mv ../t1output.m3u ./sh.lnott.top.m3u
         mv ../t2output.m3u ./huuc_ipv6.m3u
-        mv ../tv2output.m3u ./wmviv.com.m3u
+        mv ../mg_merged.m3u ./migu_merged.m3u
         mv ../tv1op.m3u ./yp.qqqtv.top.m3u
         mv ../tv1op_ms.m3u  ./yp.qqqtv.top_merged.m3u
 
