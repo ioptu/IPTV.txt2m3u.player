@@ -1,7 +1,7 @@
 name: M3u Fetch And Modify
 on: 
   schedule: 
-    - cron: 49 */3 * * *
+    - cron: 11 */3 * * *
   workflow_dispatch:
 jobs:
   main:
