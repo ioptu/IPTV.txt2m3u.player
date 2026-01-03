@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🌐央视频道",CCTV1
-https://iptv.catvod.com/live.php?id=CCTV1
-https://iptv.catvod.com/live.php?id=CCTV-1
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="🌐央视频道",CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2
-https://iptv.catvod.com/live.php?id=CCTV-2
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="🌐央视频道",CCTV3
 https://iptv.catvod.com/live.php?id=CCTV3
 https://iptv.catvod.com/live.php?id=CCTV-3
