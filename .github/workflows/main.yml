@@ -43,6 +43,7 @@ jobs:
 
           python ./scripts/extract.py --input lite.m3u --output t3op2.m3u --eoru ',catvod.com' -n 
           python ./scripts/m3u_merger.py -i t3op2.m3u -o t3op2_merged.m3u
+          python ./scripts/url_sorter.py -i t3op2_merged.m3u -o t3op2_ms.m3u -k 'CCTV,CCTV-'
 
           wget https://github.com/hainantv/kk/raw/refs/heads/main/hainan.txt -O hainan.txt  -t 2 --waitretry=5
           node ./scripts/txt2m3u.js -i hainan.txt -o t4op.m3u
