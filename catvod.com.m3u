@@ -91,9 +91,6 @@ https://iptv.catvod.com/live.php?id=CCTV-14
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="🌐央视频道",CCTV15
 https://iptv.catvod.com/live.php?id=CCTV15
 
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="🌐央视频道",CCTV15
-https://iptv.catvod.com/live.php?id=CCTV-15
-
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="🌐央视频道",CCTV16
 https://iptv.catvod.com/live.php?id=CCTV16
 
