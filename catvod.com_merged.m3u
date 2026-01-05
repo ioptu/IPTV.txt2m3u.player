@@ -44,6 +44,7 @@ https://iptv.catvod.com/live.php?id=CCTV14
 https://iptv.catvod.com/live.php?id=CCTV-14
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="🌐央视频道",CCTV15
 https://iptv.catvod.com/live.php?id=CCTV15
+https://iptv.catvod.com/live.php?id=CCTV-15
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="🌐央视频道",CCTV16
 https://iptv.catvod.com/live.php?id=CCTV16
 https://iptv.catvod.com/live.php?id=CCTV-16
@@ -171,7 +172,7 @@ https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
 https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="📡卫视频道",大湾区卫视
 https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="🏠地方频道",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="🏠地·方·台",上海新闻综合
 https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 https://live.catvod.com/iptv.php?id=0qijxcam
 https://live.catvod.com/iptv.php?id=ayjxepny
@@ -184,7 +185,7 @@ https://live.catvod.com/live.php?id=ci_twn&token=733521105eae497a22cfe24e61523d2
 https://live.catvod.com/live.php?id=ci_twn&token=a08ba42060e5e59ad57d3e018a3c4a768c11a007cbd82fce03c490196ac71339%3A1764226893%3AMTM1LjExOS4zOC4zMw%3D%3D
 https://live.catvod.com/live.php?id=ci_twn&token=a61368921ad4fc9e6b1e813c53aeb150a398f232aed0d2b4d67f08635459d76a%3A1764237684%3AMjAuMTcxLjUxLjIxNg%3D%3D
 https://live.catvod.com/live.php?id=ci_twn&token=c65933991a6d4fa0a5030d9dceb7d2cf1c888fd94d0ee078938eb6c0e36b129d%3A1764245017%3AMTcyLjE3Mi44Ny41MA%3D%3D
-#EXTINF:-1 group-title="🏠地方频道",广东珠江
+#EXTINF:-1 group-title="🏠地·方·台",广东珠江
 https://live.catvod.com/live.php?id=zhujiang&token=3111fd9296890a589b4acbea494fcb5eff3d0b260e37f97a0afac98986fd577a%3A1764237684%3AMjAuMTcxLjUxLjIxNg%3D%3D
 https://live.catvod.com/live.php?id=zhujiang&token=85d67b2796ee67984a50bfb6edb336d81defaab925a9626246dbcc59c6c64633%3A1764245017%3AMTcyLjE3Mi44Ny41MA%3D%3D
 https://live.catvod.com/live.php?id=zhujiang&token=95e29e4d8046b801400ac2fbc1650df20458932b0771485c78f4e3461274b6a8%3A1764228765%3AMTM1LjIzMi4xNzcuMTIz
