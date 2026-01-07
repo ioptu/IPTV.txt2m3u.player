@@ -1,252 +1,1569 @@
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1
-http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
-
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1
-http://yp.qqqtv.top/1/api.php?id=CCTV-1%E7%BB%BC%E5%90%88&auth=666858
-
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🌐央视频道",CCTV1
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-1+%E7%BB%BC%E5%90%88&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🌐央视频道",CCTV1
+http://yp.qqqtv.top/1/api.php?id=CCTV-1%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🌐央视频道",CCTV1
+http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🌐央视频道",CCTV1
+http://yp.qqqtv.top/1/api.php?id=CCTV-1&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="🌐央视频道",CCTV2
 http://yp.qqqtv.top/1/api.php?id=CCTV-2%E8%B4%A2%E7%BB%8F&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="🌐央视频道",CCTV2
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-2+%E8%B4%A2%E7%BB%8F&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV-3
-http://yp.qqqtv.top/bc/bc.php?id=CCTV-3+%E7%BB%BC%E8%89%BA&auth=66615415
-
-#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV-3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="🌐央视频道",CCTV3
 http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV-4
-http://yp.qqqtv.top/bc/bc.php?id=CCTV-4+%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85+%E6%AC%A7%E6%B4%B2&auth=66615415
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="🌐央视频道",CCTV3
+http://yp.qqqtv.top/bc/bc.php?id=CCTV-3+%E7%BB%BC%E8%89%BA&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV-4
-http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="🌐央视频道",CCTV3
+http://yp.qqqtv.top/1/api.php?id=CCTV-3&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV-4
-http://yp.qqqtv.top/1/api.php?id=CCTV-4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85&auth=666858
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="🌐央视频道",CCTV3
+http://yp.qqqtv.top/1/api.php?id=CCTV-3%E7%BB%BC%E8%89%BA&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🌐央视频道",CCTV4
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-4+%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🌐央视频道",CCTV4
+http://yp.qqqtv.top/bc/bc.php?id=CCTV-4+%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85+%E6%AC%A7%E6%B4%B2&auth=66615415
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🌐央视频道",CCTV4
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-4+%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85+%E7%BE%8E%E6%B4%B2&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道",CCTV-5
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🌐央视频道",CCTV4
+http://yp.qqqtv.top/1/api.php?id=CCTV-4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🌐央视频道",CCTV4
+http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🌐央视频道",CCTV4
+http://yp.qqqtv.top/1/api.php?id=CCTV-4&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🌐央视频道",CCTV4
+http://yp.qqqtv.top/1/api.php?id=CCTV-4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%E6%AC%A7%E6%B4%B2&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🌐央视频道",CCTV4
+http://yp.qqqtv.top/1/api.php?id=CCTV-4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%E7%BE%8E%E6%B4%B2&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🌐央视频道",CCTV5
 http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV-6
-http://yp.qqqtv.top/1/api.php?id=CCTV-6%E7%94%B5%E5%BD%B1&auth=666858
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🌐央视频道",CCTV5
+http://yp.qqqtv.top/1/api.php?id=CCTV-5&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV-6
-http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🌐央视频道",CCTV5
+http://yp.qqqtv.top/1/api.php?id=CCTV-5%E4%BD%93%E8%82%B2&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV-6
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🌐央视频道",CCTV5
+http://yp.qqqtv.top/bc/bc.php?id=CCTV-5+%E4%BD%93%E8%82%B2&auth=66615415
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🌐央视频道",CCTV5
+http://yp.qqqtv.top/1/api.php?id=CCTV-5%2B&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🌐央视频道",CCTV5
+http://yp.qqqtv.top/bc/bc.php?id=CCTV-5%2B+%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B&auth=66615415
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="🌐央视频道",CCTV6
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-6+%E7%94%B5%E5%BD%B1&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV-7
-http://yp.qqqtv.top/bc/bc.php?id=CCTV-7+%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B&auth=66615415
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="🌐央视频道",CCTV6
+http://yp.qqqtv.top/1/api.php?id=CCTV-6%E7%94%B5%E5%BD%B1&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV-7
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="🌐央视频道",CCTV6
+http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="🌐央视频道",CCTV6
+http://yp.qqqtv.top/1/api.php?id=CCTV-6&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="🌐央视频道",CCTV7
 http://yp.qqqtv.top/1/api.php?id=CCTV-7%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV-7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="🌐央视频道",CCTV7
 http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV-8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="🌐央视频道",CCTV7
+http://yp.qqqtv.top/bc/bc.php?id=CCTV-7+%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B&auth=66615415
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="🌐央视频道",CCTV7
+http://yp.qqqtv.top/1/api.php?id=CCTV-7&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="🌐央视频道",CCTV8
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-8+%E7%94%B5%E8%A7%86%E5%89%A7&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV-10
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="🌐央视频道",CCTV8
+http://yp.qqqtv.top/1/api.php?id=CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="🌐央视频道",CCTV8
+http://yp.qqqtv.top/1/api.php?id=CCTV-8&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="🌐央视频道",CCTV9
+http://yp.qqqtv.top/bc/bc.php?id=CCTV-9+%E7%BA%AA%E5%BD%95&auth=66615415
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="🌐央视频道",CCTV9
+http://yp.qqqtv.top/1/api.php?id=CCTV-9%E7%BA%AA%E5%BD%95&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="🌐央视频道",CCTV9
+http://yp.qqqtv.top/1/api.php?id=CCTV-9&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="🌐央视频道",CCTV10
+http://yp.qqqtv.top/1/api.php?id=CCTV-10%E7%A7%91%E6%95%99&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="🌐央视频道",CCTV10
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-10+%E7%A7%91%E6%95%99&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV-10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="🌐央视频道",CCTV10
 http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV-11
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="🌐央视频道",CCTV10
+http://yp.qqqtv.top/1/api.php?id=CCTV-10&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="🌐央视频道",CCTV11
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%88%8F%E6%9B%B2&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="🌐央视频道",CCTV11
+http://yp.qqqtv.top/1/api.php?id=CCTV-11&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="🌐央视频道",CCTV11
+http://yp.qqqtv.top/1/api.php?id=CCTV-11%E6%88%8F%E6%9B%B2&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="🌐央视频道",CCTV11
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-11+%E6%88%8F%E6%9B%B2&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV-12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="🌐央视频道",CCTV12
 http://yp.qqqtv.top/1/api.php?id=CCTV-12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV-12
-http://yp.qqqtv.top/1/api.php?id=CCTV-12HD&auth=666858
-
-#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV-12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="🌐央视频道",CCTV12
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-12+%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV-13
-http://yp.qqqtv.top/1/api.php?id=CCTV-13HD&auth=666858
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="🌐央视频道",CCTV12
+http://yp.qqqtv.top/1/api.php?id=CCTV-12&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV-13
-http://yp.qqqtv.top/1/api.php?id=CCTV-13%E6%96%B0%E9%97%BB&auth=666858
-
-#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV-13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="🌐央视频道",CCTV13
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-13+%E6%96%B0%E9%97%BB&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV-14
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="🌐央视频道",CCTV13
+http://yp.qqqtv.top/1/api.php?id=CCTV-13&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="🌐央视频道",CCTV13
+http://yp.qqqtv.top/1/api.php?id=CCTV-13%E6%96%B0%E9%97%BB&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="🌐央视频道",CCTV14
+http://yp.qqqtv.top/1/api.php?id=CCTV-14%E5%B0%91%E5%84%BF&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="🌐央视频道",CCTV14
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-14+%E5%B0%91%E5%84%BF&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV-14
-http://yp.qqqtv.top/1/api.php?id=CCTV-14HD&auth=666858
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="🌐央视频道",CCTV14
+http://yp.qqqtv.top/1/api.php?id=CCTV-14&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV-15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="🌐央视频道",CCTV15
 http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV-15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="🌐央视频道",CCTV15
+http://yp.qqqtv.top/1/api.php?id=CCTV-15%E9%9F%B3%E4%B9%90&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="🌐央视频道",CCTV15
+http://yp.qqqtv.top/1/api.php?id=CCTV-15&auth=666858
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="🌐央视频道",CCTV15
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-15+%E9%9F%B3%E4%B9%90&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV-17
-http://yp.qqqtv.top/1/api.php?id=CCTV-17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91&auth=666858
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="🌐央视频道",CCTV16
+http://yp.qqqtv.top/1/api.php?id=CCTV-16%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV-17
-http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="🌐央视频道",CCTV16
+http://yp.qqqtv.top/1/api.php?id=CCTV-16&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV-17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="🌐央视频道",CCTV17
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-17+%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91&auth=66615415
 
-#EXTINF:-1 tvg-name="CCTV-央视台球" group-title="央视频道",CCTV-央视台球
-http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83&auth=666858
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="🌐央视频道",CCTV17
+http://yp.qqqtv.top/1/api.php?id=CCTV-17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV-风云足球" group-title="央视频道",CCTV-风云足球
-http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=666858
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="🌐央视频道",CCTV17
+http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV-高尔夫网球" group-title="央视频道",CCTV-高尔夫网球
-http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83&auth=666858
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="🌐央视频道",CCTV17
+http://yp.qqqtv.top/1/api.php?id=CCTV-17&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV-风云音乐" group-title="央视频道",CCTV-风云音乐
-http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&auth=666858
-
-#EXTINF:-1 tvg-name="CCTV-怀旧剧场" group-title="央视频道",CCTV-怀旧剧场
-http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858
-
-#EXTINF:-1 tvg-name="CCTV-电视指南" group-title="央视频道",CCTV-电视指南
-http://yp.qqqtv.top/1/api.php?id=CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97&auth=666858
-
-#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV-8K
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="🌐央视频道",CCTV8K
 http://yp.qqqtv.top/1/api.php?id=CCTV-8K%E8%B6%85%E9%AB%98%E6%B8%85&auth=666858
 
-#EXTINF:-1 tvg-name="CCTV--新影-发现之旅" group-title="央视频道",CCTV--新影-发现之旅
-http://yp.qqqtv.top/1/api.php?id=%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%BD%B1-%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&auth=666858
+#EXTINF:-1 group-title="🌐央视频道",CCTV书画
+http://yp.qqqtv.top/1/api.php?id=%E4%B9%A6%E7%94%BB%E9%A2%91%E9%81%93&auth=666858
 
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://yp.qqqtv.top/bc/bc.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&auth=66615415
+#EXTINF:-1 group-title="🌐央视频道",CCTV文化精品
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81&auth=666858
 
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD&auth=666858
+#EXTINF:-1 group-title="🌐央视频道",CCTV兵器科技
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80&auth=666858
 
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
+#EXTINF:-1 group-title="🌐央视频道",CCTV央视台球
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83&auth=666858
 
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&auth=666858
+#EXTINF:-1 group-title="🌐央视频道",CCTV风云足球
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=666858
 
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86HD&auth=666858
+#EXTINF:-1 group-title="🌐央视频道",CCTV世界地理
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86&auth=666858
 
-#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&auth=666858
+#EXTINF:-1 group-title="🌐央视频道",CCTV风云音乐
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&auth=666858
 
-#EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道",云南卫视
-http://yp.qqqtv.top/1/api.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&auth=666858
+#EXTINF:-1 group-title="🌐央视频道",CCTV电视指南
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97&auth=666858
 
-#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
-http://yp.qqqtv.top/bc/bc.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&auth=66615415
+#EXTINF:-1 group-title="🌐央视频道",CCTV游戏风云
+http://yp.qqqtv.top/1/api.php?id=%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91&auth=666858
 
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&auth=666858
+#EXTINF:-1 group-title="🌐央视频道",CCTV中国天气
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94&auth=666858
 
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
+#EXTINF:-1 group-title="🌐央视频道",CCTV高尔夫网球
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83&auth=666858
+
+#EXTINF:-1 group-title="🌐央视频道",CCTV第一剧场
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA&auth=666858
+
+#EXTINF:-1 group-title="🌐央视频道",CCTV风云剧场
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA&auth=666858
+
+#EXTINF:-1 group-title="🌐央视频道",CCTV怀旧剧场
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858
+
+#EXTINF:-1 group-title="🌐央视频道",CCTV-
+http://yp.qqqtv.top/1/api.php?id=CCTV-4K%E8%B6%85%E9%AB%98%E6%B8%85&auth=666858
+
+#EXTINF:-1 group-title="🌐央视频道",CCTV-卫生健康
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7&auth=666858
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD&auth=666858
 
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86HD&auth=666858
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K&auth=666858
 
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://yp.qqqtv.top/bc/bc.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&auth=66615415
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&auth=666858
 
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&auth=666858
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD&auth=666858
 
-#EXTINF:-1 tvg-name="安多卫视" group-title="卫视频道",安多卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86&auth=666858
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K&auth=666858
 
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&auth=666858
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&auth=66615415
 
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86HD&auth=666858
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&auth=666858
 
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道",山西卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&auth=666858
 
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道",山西卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&auth=666858
-
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 tvg-name="延边卫视" group-title="卫视频道",延边卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86&auth=666858
-
-#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&auth=666858
-
-#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&auth=666858
-
-#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&auth=666858
-
-#EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://yp.qqqtv.top/bc/bc.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&auth=66615415
-
-#EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&auth=666858
-
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
-http://yp.qqqtv.top/1/api.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&auth=666858
-
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://yp.qqqtv.top/1/api.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
+#EXTINF:-1 group-title="📡卫视频道",重庆卫视
 http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD&auth=666858
 
-#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
-http://yp.qqqtv.top/1/api.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&auth=666858
+#EXTINF:-1 group-title="📡卫视频道",重庆卫视
+http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&auth=666858
 
-#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
-http://yp.qqqtv.top/bc/bc.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&auth=66615415
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E4%B8%9C4K%E8%B6%85%E9%AB%98%E6%B8%85&auth=666858
 
-#EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道",青海卫视
-http://yp.qqqtv.top/bc/bc.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&auth=66615415
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&auth=66615415
 
-#EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道",青海卫视
-http://yp.qqqtv.top/1/api.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&auth=666858
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&auth=666858
 
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://yp.qqqtv.top/1/api.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&auth=666858
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&auth=666858
 
-#EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 http://yp.qqqtv.top/bc/bc.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&auth=66615415
 
-#EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影频道",CHC家庭影院
-http://yp.qqqtv.top/1/api.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&auth=666858
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&auth=66615415
+
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&auth=666858
+
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&auth=66615415
+
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K&auth=666858
+
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K&auth=666858
+
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.cn/tv/农林卫视.png" group-title="📡卫视频道",农林卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&auth=66615415
+
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.cn/tv/农林卫视.png" group-title="📡卫视频道",农林卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.cn/tv/康巴卫视.png" group-title="📡卫视频道",康巴卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="📡卫视频道",安多卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&auth=666858
+
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&auth=66615415
+
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&auth=66615415
+
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="📡卫视频道",海峡卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="📡卫视频道",厦门卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="📡卫视频道",陕西卫视
+http://yp.qqqtv.top/1/api.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="📡卫视频道",陕西卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&auth=66615415
+
+#EXTINF:-1 group-title="📡卫视频道",辽宁卫视
+http://yp.qqqtv.top/1/api.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="📡卫视频道",辽宁卫视
+http://yp.qqqtv.top/1/api.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="📡卫视频道",辽宁卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&auth=66615415
+
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&auth=66615415
+
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+http://yp.qqqtv.top/1/api.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&auth=66615415
+
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
+http://yp.qqqtv.top/1/api.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="📡卫视频道",贵州卫视
+http://yp.qqqtv.top/1/api.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="📡卫视频道",甘肃卫视
+http://yp.qqqtv.top/1/api.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="📡卫视频道",兵团卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&auth=66615415
+
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&auth=66615415
+
+#EXTINF:-1 group-title="📡卫视频道",青海卫视
+http://yp.qqqtv.top/1/api.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="📡卫视频道",青海卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&auth=66615415
+
+#EXTINF:-1 group-title="📡卫视频道",西藏卫视
+http://yp.qqqtv.top/1/api.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="📡卫视频道",延边卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="📡卫视频道",大湾区卫视
+http://yp.qqqtv.top/bc/bc.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&auth=66615415
+
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="📡卫视频道",山东教育卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",北京新闻
+http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",北京生活
+http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",北京财经
+http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",北京文艺
+http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",北京影视
+http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&auth=666858
+
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="🏠地·方·台",上海新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="🏠地·方·台",上海新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB&auth=666858
+
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="🏠地·方·台",上海都市
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%8A%E6%B5%B7%E9%83%BD%E5%B8%82&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",上海第一财经
+http://yp.qqqtv.top/1/api.php?id=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",广东体育
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",广东少儿
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E4%B8%9C%E5%B0%91%E5%84%BF&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",广州法治
+http://yp.qqqtv.top/1/api.php?id=IPTV%E6%B3%95%E6%B2%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",汕头经济生活
+http://yp.qqqtv.top/1/api.php?id=%E6%B1%95%E5%A4%B4%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",茂名新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%8C%82%E5%90%8D%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",惠州公共
+http://yp.qqqtv.top/1/api.php?id=%E6%83%A0%E5%B7%9E%E5%85%AC%E5%85%B1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",河源公共
+http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E6%BA%90%E5%85%AC%E5%85%B1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",阳江新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%98%B3%E6%B1%9F%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",阳江公共
+http://yp.qqqtv.top/1/api.php?id=%E9%98%B3%E6%B1%9F%E5%85%AC%E5%85%B1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",揭阳新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%8F%AD%E9%98%B3%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",番禺综合
+http://yp.qqqtv.top/1/api.php?id=%E7%95%AA%E7%A6%BA%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",大埔综合
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E5%9F%94%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",丰顺综合
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%B0%E9%A1%BA%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",连山综合
+http://yp.qqqtv.top/1/api.php?id=%E8%BF%9E%E5%B1%B1%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",潮阳综合
+http://yp.qqqtv.top/1/api.php?id=%E6%BD%AE%E9%98%B3%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",南京教科
+http://yp.qqqtv.top/1/api.php?id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",南京新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",句容党建
+http://yp.qqqtv.top/1/api.php?id=%E5%8F%A5%E5%AE%B9%E5%85%9A%E5%BB%BA%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",句容生活
+http://yp.qqqtv.top/1/api.php?id=%E5%8F%A5%E5%AE%B9%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",姜堰新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%A7%9C%E5%A0%B0%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",常州公共
+http://yp.qqqtv.top/1/api.php?id=%E5%B8%B8%E5%B7%9E%E5%85%AC%E5%85%B1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",常州生活
+http://yp.qqqtv.top/1/api.php?id=%E5%B8%B8%E5%B7%9E%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",常州都市
+http://yp.qqqtv.top/1/api.php?id=%E5%B8%B8%E5%B7%9E%E9%83%BD%E5%B8%82&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",无锡娱乐
+http://yp.qqqtv.top/1/api.php?id=%E6%97%A0%E9%94%A1%E5%A8%B1%E4%B9%90&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",无锡生活
+http://yp.qqqtv.top/1/api.php?id=%E6%97%A0%E9%94%A1%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",无锡经济
+http://yp.qqqtv.top/1/api.php?id=%E6%97%A0%E9%94%A1%E7%BB%8F%E6%B5%8E&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",无锡都市资讯
+http://yp.qqqtv.top/1/api.php?id=%E6%97%A0%E9%94%A1%E9%83%BD%E5%B8%82%E8%B5%84%E8%AE%AF&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",武进新闻
+http://yp.qqqtv.top/1/api.php?id=%E6%AD%A6%E8%BF%9B%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",武进生活
+http://yp.qqqtv.top/1/api.php?id=%E6%AD%A6%E8%BF%9B%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",沛县新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B2%9B%E5%8E%BF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",沭阳综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B2%AD%E9%98%B3%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",泗阳资讯
+http://yp.qqqtv.top/1/api.php?id=%E6%B3%97%E9%98%B3%E8%B5%84%E8%AE%AF%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",涟水综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B6%9F%E6%B0%B4%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",淮安新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B7%AE%E5%AE%89%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",溧水新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%BA%A7%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",睢宁三农
+http://yp.qqqtv.top/1/api.php?id=%E7%9D%A2%E5%AE%81%E4%B8%89%E5%86%9C%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",睢宁综合
+http://yp.qqqtv.top/1/api.php?id=%E7%9D%A2%E5%AE%81%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",苏州文化生活
+http://yp.qqqtv.top/1/api.php?id=%E8%8B%8F%E5%B7%9E%E6%96%87%E5%8C%96%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",苏州新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%8B%8F%E5%B7%9E4K%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",苏州生活资讯
+http://yp.qqqtv.top/1/api.php?id=%E8%8B%8F%E5%B7%9E%E7%94%9F%E6%B4%BB%E8%B5%84%E8%AE%AF&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",苏州社会经济
+http://yp.qqqtv.top/1/api.php?id=%E8%8B%8F%E5%B7%9E%E7%A4%BE%E4%BC%9A%E7%BB%8F%E6%B5%8E&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",贾汪旅游
+http://yp.qqqtv.top/1/api.php?id=%E8%B4%BE%E6%B1%AA%E6%97%85%E6%B8%B8%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",赣榆新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%B5%A3%E6%A6%86%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",金坛新闻
+http://yp.qqqtv.top/1/api.php?id=%E9%87%91%E5%9D%9B%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",高邮综合
+http://yp.qqqtv.top/1/api.php?id=%E9%AB%98%E9%82%AE%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",张家港民生
+http://yp.qqqtv.top/1/api.php?id=%E5%BC%A0%E5%AE%B6%E6%B8%AF%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",滨海新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%BB%A8%E6%B5%B7%E6%96%B0%E9%97%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",浙江钱江都市
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E9%92%B1%E6%B1%9F%E9%83%BD%E5%B8%82&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",浙江经济生活
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",浙江新闻
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",浙江少儿
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",杭州综合
+http://yp.qqqtv.top/1/api.php?id=%E6%9D%AD%E5%B7%9E%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",杭州明珠
+http://yp.qqqtv.top/1/api.php?id=%E6%9D%AD%E5%B7%9E%E6%98%8E%E7%8F%A0&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",杭州生活
+http://yp.qqqtv.top/1/api.php?id=%E6%9D%AD%E5%B7%9E%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",杭州影视
+http://yp.qqqtv.top/1/api.php?id=%E6%9D%AD%E5%B7%9E%E5%BD%B1%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",浙江教科
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E6%95%99%E7%A7%91%E5%BD%B1%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",浙江国际
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E5%9B%BD%E9%99%85&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖州新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖州新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%B7%9E%E5%85%AC%E5%85%B1%E6%B0%91%E7%94%9F&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖州文化娱乐
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%B7%9E%E6%96%87%E5%8C%96%E5%A8%B1%E4%B9%90&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",金华新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%87%91%E5%8D%8E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",温州新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B8%A9%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",浙江民生休闲
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E6%B0%91%E7%94%9F%E4%BC%91%E9%97%B2&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",诸暨新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%AF%B8%E6%9A%A8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",龙游生活娱乐
+http://yp.qqqtv.top/1/api.php?id=%E9%BE%99%E6%B8%B8%E7%94%9F%E6%B4%BB%E5%A8%B1%E4%B9%90&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",遂昌综合
+http://yp.qqqtv.top/1/api.php?id=%E9%81%82%E6%98%8C%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",象山新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%B1%A1%E5%B1%B1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",衢江新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%A1%A2%E6%B1%9F%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",萧山新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%90%A7%E5%B1%B1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",苍南新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%8B%8D%E5%8D%97%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",缙云综合
+http://yp.qqqtv.top/1/api.php?id=%E7%BC%99%E4%BA%91%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",绍兴新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E7%BB%8D%E5%85%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",绍兴文化影视
+http://yp.qqqtv.top/1/api.php?id=%E7%BB%8D%E5%85%B4%E6%96%87%E5%8C%96%E5%BD%B1%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",绍兴公共
+http://yp.qqqtv.top/1/api.php?id=%E7%BB%8D%E5%85%B4%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",海宁新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%AE%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",洞头综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B4%9E%E5%A4%B4%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",武义新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%AD%A6%E4%B9%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",桐庐综合
+http://yp.qqqtv.top/1/api.php?id=%E6%A1%90%E5%BA%90%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",新昌生活
+http://yp.qqqtv.top/1/api.php?id=%E6%96%B0%E6%98%8C%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",新昌新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%96%B0%E6%98%8C%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",文成新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%96%87%E6%88%90%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",开化新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%BC%80%E5%8C%96%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",开化国家公园
+http://yp.qqqtv.top/1/api.php?id=%E5%BC%80%E5%8C%96%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",庆元新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%BA%86%E5%85%83%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",平湖新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%B3%E6%B9%96%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",嵊泗新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%B5%8A%E6%B3%97%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",余杭综合
+http://yp.qqqtv.top/1/api.php?id=%E4%BD%99%E6%9D%AD%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",余杭未来E
+http://yp.qqqtv.top/1/api.php?id=%E4%BD%99%E6%9D%AD%E6%9C%AA%E6%9D%A5E%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",余姚新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E4%BD%99%E5%A7%9A%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",余姚姚江文化
+http://yp.qqqtv.top/1/api.php?id=%E4%BD%99%E5%A7%9A%E5%A7%9A%E6%B1%9F%E6%96%87%E5%8C%96&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",东阳影视生活
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E9%98%B3%E5%BD%B1%E8%A7%86%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",上虞新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%8A%E8%99%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",上虞新商都
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%8A%E8%99%9E%E6%96%B0%E5%95%86%E9%83%BD&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",山东齐鲁
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E9%BD%90%E9%B2%81&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",山东新闻
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E6%96%B0%E9%97%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",山东综艺
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E7%BB%BC%E8%89%BA&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",山东生活
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",山东农科
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%86%9C%E7%A7%91&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",山东文旅
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E6%96%87%E6%97%85&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",山东少儿
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%B0%91%E5%84%BF&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",青岛城阳
+http://yp.qqqtv.top/1/api.php?id=%E9%9D%92%E5%B2%9B%E5%9F%8E%E9%98%B3%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",烟台新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E7%83%9F%E5%8F%B0%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",烟台公共
+http://yp.qqqtv.top/1/api.php?id=%E7%83%9F%E5%8F%B0%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",滨州新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%BB%A8%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",菏泽新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%8F%8F%E6%B3%BD%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",菏泽经济生活
+http://yp.qqqtv.top/1/api.php?id=%E8%8F%8F%E6%B3%BD%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",岱岳综合
+http://yp.qqqtv.top/1/api.php?id=%E5%B2%B1%E5%B2%B3%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",高密综合
+http://yp.qqqtv.top/1/api.php?id=%E9%AB%98%E5%AF%86%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",临朐综合
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%B4%E6%9C%90%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",四川经济
+http://yp.qqqtv.top/1/api.php?id=%E5%9B%9B%E5%B7%9D%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",四川文化旅游
+http://yp.qqqtv.top/1/api.php?id=%E5%9B%9B%E5%B7%9D%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",四川新闻
+http://yp.qqqtv.top/1/api.php?id=%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",四川影视文艺
+http://yp.qqqtv.top/1/api.php?id=%E5%9B%9B%E5%B7%9D%E5%BD%B1%E8%A7%86%E6%96%87%E8%89%BA&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",四川乡村
+http://yp.qqqtv.top/1/api.php?id=%E5%9B%9B%E5%B7%9D%E4%B9%A1%E6%9D%91&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",四川科教
+http://yp.qqqtv.top/1/api.php?id=%E5%9B%9B%E5%B7%9D%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",四川星空购物
+http://yp.qqqtv.top/1/api.php?id=%E5%9B%9B%E5%B7%9D%E6%98%9F%E7%A9%BA%E8%B4%AD%E7%89%A9&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",成都新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%88%90%E9%83%BD%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",绵阳新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E7%BB%B5%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",乐山新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E4%B9%90%E5%B1%B1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",乐山文旅生活
+http://yp.qqqtv.top/1/api.php?id=%E4%B9%90%E5%B1%B1%E6%96%87%E6%97%85%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",眉山文旅乡村
+http://yp.qqqtv.top/1/api.php?id=%E7%9C%89%E5%B1%B1%E6%96%87%E6%97%85%E4%B9%A1%E6%9D%91&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",宜宾新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%9C%E5%AE%BE%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",资阳新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%B5%84%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",简阳新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E7%AE%80%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",双流综合
+http://yp.qqqtv.top/1/api.php?id=%E5%8F%8C%E6%B5%81%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",仁寿综合
+http://yp.qqqtv.top/1/api.php?id=%E4%BB%81%E5%AF%BF%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",郑州新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%83%91%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",郑州文体旅游
+http://yp.qqqtv.top/1/api.php?id=%E9%83%91%E5%B7%9E%E6%96%87%E4%BD%93%E6%97%85%E6%B8%B8&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",开封新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%BC%80%E5%B0%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",焦作公共
+http://yp.qqqtv.top/1/api.php?id=%E7%84%A6%E4%BD%9C%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",平顶山新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%B3%E9%A1%B6%E5%B1%B1%E6%96%B0%E9%97%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",平顶山教育
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%B3%E9%A1%B6%E5%B1%B1%E6%95%99%E8%82%B2&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",驻马店新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%A9%BB%E9%A9%AC%E5%BA%97%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",驻马店公共
+http://yp.qqqtv.top/1/api.php?id=%E9%A9%BB%E9%A9%AC%E5%BA%97%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",驻马店科教
+http://yp.qqqtv.top/1/api.php?id=%E9%A9%BB%E9%A9%AC%E5%BA%97%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",漯河公共
+http://yp.qqqtv.top/1/api.php?id=%E6%BC%AF%E6%B2%B3%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",鹤壁新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%B9%A4%E5%A3%81%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",巩义新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%B7%A9%E4%B9%89%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",宜阳综合
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%9C%E9%98%B3%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",林州综合
+http://yp.qqqtv.top/1/api.php?id=%E6%9E%97%E5%B7%9E%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",汤阴综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B1%A4%E9%98%B4%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",内黄综合
+http://yp.qqqtv.top/1/api.php?id=%E5%86%85%E9%BB%84%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",卫辉综合
+http://yp.qqqtv.top/1/api.php?id=%E5%8D%AB%E8%BE%89%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",延津综合
+http://yp.qqqtv.top/1/api.php?id=%E5%BB%B6%E6%B4%A5%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",长垣综合
+http://yp.qqqtv.top/1/api.php?id=%E9%95%BF%E5%9E%A3%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",孟州综合
+http://yp.qqqtv.top/1/api.php?id=%E5%AD%9F%E5%B7%9E%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",温县综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B8%A9%E5%8E%BF%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",宝丰综合
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%9D%E4%B8%B0%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",鲁山综合
+http://yp.qqqtv.top/1/api.php?id=%E9%B2%81%E5%B1%B1%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",郏县综合
+http://yp.qqqtv.top/1/api.php?id=%E9%83%8F%E5%8E%BF%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",卢氏综合
+http://yp.qqqtv.top/1/api.php?id=%E5%8D%A2%E6%B0%8F%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",内乡综合
+http://yp.qqqtv.top/1/api.php?id=%E5%86%85%E4%B9%A1%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",淅川综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B7%85%E5%B7%9D%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",临颍综合
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%B4%E9%A2%8D%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",禹州综合
+http://yp.qqqtv.top/1/api.php?id=%E7%A6%B9%E5%B7%9E%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",鄢陵综合
+http://yp.qqqtv.top/1/api.php?id=%E9%84%A2%E9%99%B5%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",襄城综合
+http://yp.qqqtv.top/1/api.php?id=%E8%A5%84%E5%9F%8E%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",西华综合
+http://yp.qqqtv.top/1/api.php?id=%E8%A5%BF%E5%8D%8E%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",扶沟综合
+http://yp.qqqtv.top/1/api.php?id=%E6%89%B6%E6%B2%9F%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",太康综合
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%AA%E5%BA%B7%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",确山综合
+http://yp.qqqtv.top/1/api.php?id=%E7%A1%AE%E5%B1%B1%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",西平综合
+http://yp.qqqtv.top/1/api.php?id=%E8%A5%BF%E5%B9%B3%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",上蔡综合
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%8A%E8%94%A1%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",平舆综合
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%B3%E8%88%86%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",新蔡综合
+http://yp.qqqtv.top/1/api.php?id=%E6%96%B0%E8%94%A1%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",固始综合
+http://yp.qqqtv.top/1/api.php?id=%E5%9B%BA%E5%A7%8B%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",潢川综合
+http://yp.qqqtv.top/1/api.php?id=%E6%BD%A2%E5%B7%9D%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",光山综合
+http://yp.qqqtv.top/1/api.php?id=%E5%85%89%E5%B1%B1%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",新县综合
+http://yp.qqqtv.top/1/api.php?id=%E6%96%B0%E5%8E%BF%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",淮滨综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B7%AE%E6%BB%A8%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖南都市
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖南经视
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖南电视剧
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖南电影
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖南爱晚
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖南娱乐
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖南国际
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖南金鹰纪实
+http://yp.qqqtv.top/1/api.php?id=%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",长沙新闻
+http://yp.qqqtv.top/1/api.php?id=%E9%95%BF%E6%B2%99%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",长沙政法
+http://yp.qqqtv.top/1/api.php?id=%E9%95%BF%E6%B2%99%E6%94%BF%E6%B3%95%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",重庆科教
+http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",重庆社会与法
+http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",重庆文体娱乐
+http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",重庆少儿
+http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",重庆新农村
+http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",重庆汽摩
+http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",重庆红岩文化
+http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E7%BA%A2%E5%B2%A9%E6%96%87%E5%8C%96&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",重庆红叶
+http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E7%BA%A2%E5%8F%B6&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",合川综合
+http://yp.qqqtv.top/1/api.php?id=%E5%90%88%E5%B7%9D%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",巴南综合
+http://yp.qqqtv.top/1/api.php?id=%E5%B7%B4%E5%8D%97%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",天津都市
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%A9%E6%B4%A5%E9%83%BD%E5%B8%82&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",天津体育
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%A9%E6%B4%A5%E4%BD%93%E8%82%B2&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",天津教育
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%A9%E6%B4%A5%E6%95%99%E8%82%B2&auth=666858
+
+#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/湖北经视.png" group-title="🏠地·方·台",湖北经视
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E7%BB%8F%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖北综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖北影视
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E5%BD%B1%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖北生活
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",湖北教育
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E6%95%99%E8%82%B2&auth=666858
+
+#EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/湖北垄上.png" group-title="🏠地·方·台",湖北垄上
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E5%9E%84%E4%B8%8A&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",黄石新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%BB%84%E7%9F%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",十堰新闻
+http://yp.qqqtv.top/1/api.php?id=%E5%8D%81%E5%A0%B0%E6%96%B0%E9%97%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",宜昌综合
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%9C%E6%98%8C%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",宜昌旅游生活
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%9C%E6%98%8C%E6%97%85%E6%B8%B8%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",荆门新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%8D%86%E9%97%A8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",孝感新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%AD%9D%E6%84%9F%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",枝江综合
+http://yp.qqqtv.top/1/api.php?id=%E6%9E%9D%E6%B1%9F%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",松滋综合
+http://yp.qqqtv.top/1/api.php?id=%E6%9D%BE%E6%BB%8B%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",赤壁综合
+http://yp.qqqtv.top/1/api.php?id=%E8%B5%A4%E5%A3%81%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",咸宁综合
+http://yp.qqqtv.top/1/api.php?id=%E5%92%B8%E5%AE%81%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",孝感生活
+http://yp.qqqtv.top/1/api.php?id=%E5%AD%9D%E6%84%9F%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",恩施文旅
+http://yp.qqqtv.top/1/api.php?id=%E6%81%A9%E6%96%BD%E6%96%87%E6%97%85&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",武汉新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%AD%A6%E6%B1%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",武汉文体
+http://yp.qqqtv.top/1/api.php?id=%E6%AD%A6%E6%B1%89%E6%96%87%E4%BD%93%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",武汉科技生活
+http://yp.qqqtv.top/1/api.php?id=%E6%AD%A6%E6%B1%89%E7%A7%91%E6%8A%80%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",武汉电视剧
+http://yp.qqqtv.top/1/api.php?id=%E6%AD%A6%E6%B1%89%E7%94%B5%E8%A7%86%E5%89%A7&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",武汉外语
+http://yp.qqqtv.top/1/api.php?id=%E6%AD%A6%E6%B1%89%E5%A4%96%E8%AF%AD%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",仙桃新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E4%BB%99%E6%A1%83%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",云梦综合
+http://yp.qqqtv.top/1/api.php?id=%E4%BA%91%E6%A2%A6%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",安徽经济生活
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%89%E5%BE%BD%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",安徽影视
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%89%E5%BE%BD%E5%BD%B1%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",安徽公共
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%89%E5%BE%BD%E5%85%AC%E5%85%B1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",家家购物
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%B6%E5%AE%B6%E8%B4%AD%E7%89%A9&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",安徽国际
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%89%E5%BE%BD%E5%9B%BD%E9%99%85&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",蚌埠新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%9A%8C%E5%9F%A0%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",安庆新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%89%E5%BA%86%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",马鞍山新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%A9%AC%E9%9E%8D%E5%B1%B1%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",黄山新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%BB%84%E5%B1%B1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",六安新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%85%AD%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",宿州新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%BF%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",宣城新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%A3%E5%9F%8E%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",福州新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E7%A6%8F%E5%B7%9E%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",福州少儿
+http://yp.qqqtv.top/1/api.php?id=%E7%A6%8F%E5%B7%9E%E5%B0%91%E5%84%BF&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",宁德新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%81%E5%BE%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",宁德文化旅游
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%81%E5%BE%B7%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",大连新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E8%BF%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",大连生活
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E8%BF%9E%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",鞍山新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%9E%8D%E5%B1%B1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",盘锦新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E7%9B%98%E9%94%A6%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",葫芦岛新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%91%AB%E8%8A%A6%E5%B2%9B%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",金普新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%87%91%E6%99%AE%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",金普生活服务
+http://yp.qqqtv.top/1/api.php?id=%E9%87%91%E6%99%AE%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",陕西新闻资讯
+http://yp.qqqtv.top/1/api.php?id=%E9%99%95%E8%A5%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",陕西都市青春
+http://yp.qqqtv.top/1/api.php?id=%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",陕西银龄
+http://yp.qqqtv.top/1/api.php?id=%E9%99%95%E8%A5%BF%E9%93%B6%E9%BE%84%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",陕西秦腔
+http://yp.qqqtv.top/1/api.php?id=%E9%99%95%E8%A5%BF%E7%A7%A6%E8%85%94%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",陕西体育休闲
+http://yp.qqqtv.top/1/api.php?id=%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",陕西西部电影
+http://yp.qqqtv.top/1/api.php?id=%E9%99%95%E8%A5%BF%E8%A5%BF%E9%83%A8%E7%94%B5%E5%BD%B1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",陕西乐家购物
+http://yp.qqqtv.top/1/api.php?id=%E9%99%95%E8%A5%BF%E4%B9%90%E5%AE%B6%E8%B4%AD%E7%89%A9&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",铜川新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%93%9C%E5%B7%9D%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",河北经济生活
+http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8C%97%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",河北都市
+http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8C%97%E9%83%BD%E5%B8%82&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",河北影视剧
+http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8C%97%E5%BD%B1%E8%A7%86%E5%89%A7&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",河北少儿科教
+http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8C%97%E5%B0%91%E5%84%BF%E7%A7%91%E6%95%99&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",石家庄新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",石家庄都市
+http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%83%BD%E5%B8%82&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",保定生活健康
+http://yp.qqqtv.top/1/api.php?id=%E4%BF%9D%E5%AE%9A%E7%94%9F%E6%B4%BB%E5%81%A5%E5%BA%B7&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",江西都市
+http://yp.qqqtv.top/1/api.php?id=%E6%B1%9F%E8%A5%BF%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",江西新闻
+http://yp.qqqtv.top/1/api.php?id=%E6%B1%9F%E8%A5%BF%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",江西风尚购物
+http://yp.qqqtv.top/1/api.php?id=%E6%B1%9F%E8%A5%BF%E9%A3%8E%E5%B0%9A%E8%B4%AD%E7%89%A9&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",南昌资讯
+http://yp.qqqtv.top/1/api.php?id=%E5%8D%97%E6%98%8C%E8%B5%84%E8%AE%AF%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",南昌都市
+http://yp.qqqtv.top/1/api.php?id=%E5%8D%97%E6%98%8C%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",广西新闻
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E6%96%B0%E9%97%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",广西综艺旅游
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E7%BB%BC%E8%89%BA%E6%97%85%E6%B8%B8&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",广西影视
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%BD%B1%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",广西国际
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%9B%BD%E9%99%85&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",广西都市
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E9%83%BD%E5%B8%82&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",梧州新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%A2%A7%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",梧州公共
+http://yp.qqqtv.top/1/api.php?id=%E6%A2%A7%E5%B7%9E%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",防城港新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%98%B2%E5%9F%8E%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",防城港公共
+http://yp.qqqtv.top/1/api.php?id=%E9%98%B2%E5%9F%8E%E6%B8%AF%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",贵港新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%B4%B5%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",云南都市
+http://yp.qqqtv.top/1/api.php?id=%E4%BA%91%E5%8D%97%E9%83%BD%E5%B8%82&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",云南娱乐
+http://yp.qqqtv.top/1/api.php?id=%E4%BA%91%E5%8D%97%E5%A8%B1%E4%B9%90&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",昆明教育
+http://yp.qqqtv.top/1/api.php?id=%E6%98%86%E6%98%8E%E6%95%99%E8%82%B2&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",山西影视
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",山西社会与法治
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",山西文体生活
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E6%96%87%E4%BD%93%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",太原新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%AA%E5%8E%9F%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",太原经济生活
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%AA%E5%8E%9F%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",太原文体
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%AA%E5%8E%9F%E6%96%87%E4%BD%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",太原影视
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%AA%E5%8E%9F%E5%BD%B1%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",大同新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E5%90%8C%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",大同公共
+http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E5%90%8C%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",阳泉新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%98%B3%E6%B3%89%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",阳泉科教
+http://yp.qqqtv.top/1/api.php?id=%E9%98%B3%E6%B3%89%E7%A7%91%E6%95%99&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",长治新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%95%BF%E6%B2%BB%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",朔州新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E6%9C%94%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",运城新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%BF%90%E5%9F%8E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",忻州新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%BF%BB%E5%B7%9E%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",忻州公共
+http://yp.qqqtv.top/1/api.php?id=%E5%BF%BB%E5%B7%9E%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",临汾公共
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%B4%E6%B1%BE%E5%85%AC%E5%85%B1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",临汾科教
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%B4%E6%B1%BE%E7%A7%91%E6%95%99&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",吕梁新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%90%95%E6%A2%81%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",黎城综合
+http://yp.qqqtv.top/1/api.php?id=%E9%BB%8E%E5%9F%8E%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",黑龙江都市
+http://yp.qqqtv.top/1/api.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E9%83%BD%E5%B8%82&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",黑龙江影视
+http://yp.qqqtv.top/1/api.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%BD%B1%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",黑龙江文体
+http://yp.qqqtv.top/1/api.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%87%E4%BD%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",黑龙江新闻法治
+http://yp.qqqtv.top/1/api.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E9%97%BB%E6%B3%95%E6%B2%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",黑龙江少儿
+http://yp.qqqtv.top/1/api.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B0%91%E5%84%BF&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",黑龙江农业科教
+http://yp.qqqtv.top/1/api.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%86%9C%E4%B8%9A%E7%A7%91%E6%95%99&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",哈尔滨新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%93%88%E5%B0%94%E6%BB%A8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",哈尔滨生活
+http://yp.qqqtv.top/1/api.php?id=%E5%93%88%E5%B0%94%E6%BB%A8%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",哈尔滨影视
+http://yp.qqqtv.top/1/api.php?id=%E5%93%88%E5%B0%94%E6%BB%A8%E5%BD%B1%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",齐齐哈尔新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",齐齐哈尔经济法治
+http://yp.qqqtv.top/1/api.php?id=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E7%BB%8F%E6%B5%8E%E6%B3%95%E6%B2%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",吉林都市
+http://yp.qqqtv.top/1/api.php?id=%E5%90%89%E6%9E%97%E9%83%BD%E5%B8%82&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",吉林生活
+http://yp.qqqtv.top/1/api.php?id=%E5%90%89%E6%9E%97%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",长影
+http://yp.qqqtv.top/1/api.php?id=%E9%95%BF%E5%BD%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",长春综合
+http://yp.qqqtv.top/1/api.php?id=%E9%95%BF%E6%98%A5%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",吉林市新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%90%89%E6%9E%97%E5%B8%82%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",四平新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E5%9B%9B%E5%B9%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",辽源新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%BE%BD%E6%BA%90%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",白城新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E7%99%BD%E5%9F%8E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",松原公共
+http://yp.qqqtv.top/1/api.php?id=%E6%9D%BE%E5%8E%9F%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",双阳综合
+http://yp.qqqtv.top/1/api.php?id=%E5%8F%8C%E9%98%B3%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",九台综合
+http://yp.qqqtv.top/1/api.php?id=%E4%B9%9D%E5%8F%B0%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",德惠综合
+http://yp.qqqtv.top/1/api.php?id=%E5%BE%B7%E6%83%A0%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",永吉综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B0%B8%E5%90%89%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",桦甸综合
+http://yp.qqqtv.top/1/api.php?id=%E6%A1%A6%E7%94%B8%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",磐石综合
+http://yp.qqqtv.top/1/api.php?id=%E7%A3%90%E7%9F%B3%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",舒兰新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%88%92%E5%85%B0%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",双辽综合
+http://yp.qqqtv.top/1/api.php?id=%E5%8F%8C%E8%BE%BD%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",东辽综合
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E8%BE%BD%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",东丰综合
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E4%B8%B0%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",辉南新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%BE%89%E5%8D%97%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",柳河综合
+http://yp.qqqtv.top/1/api.php?id=%E6%9F%B3%E6%B2%B3%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",通化县综合
+http://yp.qqqtv.top/1/api.php?id=%E9%80%9A%E5%8C%96%E5%8E%BF%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",集安综合
+http://yp.qqqtv.top/1/api.php?id=%E9%9B%86%E5%AE%89%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",靖宇综合
+http://yp.qqqtv.top/1/api.php?id=%E9%9D%96%E5%AE%87%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",长白新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%95%BF%E7%99%BD%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",龙井综合
+http://yp.qqqtv.top/1/api.php?id=%E9%BE%99%E4%BA%95%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",敦化一套
+http://yp.qqqtv.top/1/api.php?id=%E6%95%A6%E5%8C%96%E4%B8%80%E5%A5%97&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",汪清综合
+http://yp.qqqtv.top/1/api.php?id=%E6%B1%AA%E6%B8%85%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",贵州公共
+http://yp.qqqtv.top/1/api.php?id=%E8%B4%B5%E5%B7%9E%E5%85%AC%E5%85%B1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",贵州影视文艺
+http://yp.qqqtv.top/1/api.php?id=%E8%B4%B5%E5%B7%9E%E5%BD%B1%E8%A7%86%E6%96%87%E8%89%BA&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",贵州大众生活
+http://yp.qqqtv.top/1/api.php?id=%E8%B4%B5%E5%B7%9E%E5%A4%A7%E4%BC%97%E7%94%9F%E6%B4%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",贵州科教健康
+http://yp.qqqtv.top/1/api.php?id=%E8%B4%B5%E5%B7%9E%E7%A7%91%E6%95%99%E5%81%A5%E5%BA%B7&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",安顺公共
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%89%E9%A1%BA%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",黔南新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E9%BB%94%E5%8D%97%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",黔南公共
+http://yp.qqqtv.top/1/api.php?id=%E9%BB%94%E5%8D%97%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",黔西南公共
+http://yp.qqqtv.top/1/api.php?id=%E9%BB%94%E8%A5%BF%E5%8D%97%E5%85%AC%E5%85%B1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",习水经济
+http://yp.qqqtv.top/1/api.php?id=%E4%B9%A0%E6%B0%B4%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",甘南藏语
+http://yp.qqqtv.top/1/api.php?id=%E7%94%98%E5%8D%97%E8%97%8F%E8%AF%AD%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",甘南综合
+http://yp.qqqtv.top/1/api.php?id=%E7%94%98%E5%8D%97%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",新疆少儿
+http://yp.qqqtv.top/1/api.php?id=%E6%96%B0%E7%96%86%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",海南新闻
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E6%96%B0%E9%97%BB&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",海南自贸
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",海南公共
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%85%AC%E5%85%B1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",海南文旅
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E6%96%87%E6%97%85&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",海南少儿
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%B0%91%E5%84%BF&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",三亚新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%89%E4%BA%9A%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",宁夏经济
+http://yp.qqqtv.top/1/api.php?id=%E5%AE%81%E5%A4%8F%E7%BB%8F%E6%B5%8E&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",吴忠公共
+http://yp.qqqtv.top/1/api.php?id=%E5%90%B4%E5%BF%A0%E5%85%AC%E5%85%B1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",西宁新闻综合
+http://yp.qqqtv.top/1/api.php?id=%E8%A5%BF%E5%AE%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",西宁生活服务
+http://yp.qqqtv.top/1/api.php?id=%E8%A5%BF%E5%AE%81%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",西藏影视文化
+http://yp.qqqtv.top/1/api.php?id=%E8%A5%BF%E8%97%8F%E5%BD%B1%E8%A7%86%E6%96%87%E5%8C%96&auth=666858
+
+#EXTINF:-1 group-title="🏠地·方·台",日喀则藏语综合
+http://yp.qqqtv.top/1/api.php?id=%E6%97%A5%E5%96%80%E5%88%99%E8%97%8F%E8%AF%AD%E7%BB%BC%E5%90%88&auth=666858
 
