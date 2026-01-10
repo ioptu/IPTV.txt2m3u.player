@@ -36,10 +36,10 @@ jobs:
             python ./scripts/extract.py --input live2.m3u --output t1op.m3u --eoru ',huuc' -n
             python ./scripts/deduplicate.py -i t1op.m3u -o t1output.m3u
 
-            wget http://www.lyyytv.cn/yt/zhibo/1.txt -O 1.txt -t 2 --waitretry=5
-            node ./scripts/txt2m3u.js -i 1.txt -o 1.m3u
-            python ./scripts/extract.py --input 1.m3u --output t2op.m3u --eoru ',lnott' -n
-            python ./scripts/deduplicate.py -i t2op.m3u -o t2output.m3u
+            #wget http://www.lyyytv.cn/yt/zhibo/1.txt -O 1.txt -t 2 --waitretry=5
+            #node ./scripts/txt2m3u.js -i 1.txt -o 1.m3u
+            #python ./scripts/extract.py --input 1.m3u --output t2op.m3u --eoru ',lnott' -n
+            #python ./scripts/deduplicate.py -i t2op.m3u -o t2output.m3u
 
             #wget https://github.com/xiaoran29/core/raw/refs/heads/main/output/lite.m3u -O lite.m3u  -t 2 --waitretry=5
             #python ./scripts/extract.py --input lite.m3u --output t3op.m3u --eoru ',qqqtv' -n
@@ -68,8 +68,9 @@ jobs:
             python ./scripts/extract.py --input t4op.m3u --output tv4output.m3u --eoru ',php.jdshipin.com/TVOD/iptv.php?id=' -n
             python ./scripts/m3u_merger.py -i tv4output.m3u -o tv4output_merged.m3u
 
-            python ./scripts/m3u_merger.py -i  t3op2_ms.m3u mg_m.m3u t1output.m3u t2output.m3u -o t0op_m.m3u
+            python ./scripts/m3u_merger.py -i  t3op2_ms.m3u mg_m.m3u t1output.m3u sh.lnott.top.m3u -o t0op_m.m3u
             python ./scripts/url_sorter.py -i t0op_m.m3u -o t0op_ms.m3u -k "catvod,luuc,miguvideo"
+            
           fi
           
     - name: CommitAndPush
@@ -96,7 +97,7 @@ jobs:
           #mv ../qtvop.m3u ./yp.qqqtv.top.m3u
           #mv ../qtvop_ms.m3u ./yp.qqqtv.top_merged.m3u
           mv ../t1output.m3u ./huuc_ipv6.m3u
-          mv ../t2output.m3u ./sh.lnott.top.m3u
+          #mv ../t2output.m3u ./sh.lnott.top.m3u
           mv ../tv4output.m3u ./php.jdshipin.com.m3u
           mv ../tv4output_merged.m3u ./php.jdshipin.com_merged.m3u
           mv ../t3op2.m3u ./catvod.com.m3u
