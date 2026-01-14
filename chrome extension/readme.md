@@ -1,5 +1,5 @@
 ---
- [下载](https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/blob/main/chrome%20extension/Flv.m3u8.player.zip)后解压处扩展文件夹，打开"开发者模式"后，"加载已解压的扩展"即可。
+ [下载](https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/blob/main/chrome%20extension/Flv.m3u8.player.zip)后解压出扩展文件夹，打开"开发者模式"后，"加载已解压的扩展"即可。
 
 ---
 
