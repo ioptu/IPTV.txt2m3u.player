@@ -103,7 +103,7 @@ jobs:
         python ./scripts/m3u_merger.py -i t3op2_ms.m3u mg_m.m3u huuc_ipv6.m3u sh.lnott.top.m3u php.jdshipin.com_merged.m3u -o t0op_m.m3u
         python ./scripts/url_sorter.py -i t0op_m.m3u -o t0op_ms.m3u -k "catvod,luuc,miguvideo"
         python ./scripts/url_sorter.py -i t0op_ms.m3u -o t0op_ms.m3u -k "CCTV-" -r
-        python ./scripts/m3u_header_tool.py -i t0op_ms.m3u -e "https://gh-proxy.org/raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"
+        python ./scripts/m3u_header_tool.py -i t0op_ms.m3u -c -e "https://gh-proxy.org/raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"
         
     - name: Final Merge 2
       if: env.ONLY_UPDATE_MIGU != 'true'
@@ -114,7 +114,7 @@ jobs:
         python ./scripts/m3u_merger.py -i ttvop_m.m3u -o ttvop_m.m3u 
         python ./scripts/url_sorter.py -i ttvop_m.m3u -o ttvop_ms.m3u -k "catvod,luuc,miguvideo" 
         python ./scripts/url_sorter.py -i ttvop_ms.m3u -o ttvop_ms.m3u -k "CCTV-" -r 
-        python ./scripts/m3u_header_tool.py -i ttvop_ms.m3u -e "https://gh-proxy.org/raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"
+        python ./scripts/m3u_header_tool.py -i ttvop_ms.m3u -c -e "https://gh-proxy.org/raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"
 
     # --- 块8: 提交推送 (这个步骤不建议加 continue-on-error，因为它是最终目标) ---
     - name: CommitAndPush
