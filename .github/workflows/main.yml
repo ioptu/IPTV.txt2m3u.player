@@ -56,12 +56,12 @@ jobs:
             python ./scripts/deduplicate.py -i t2op.m3u -o t2output.m3u
 
     # --- 块4: 101.qzz.io 源处理  ---
-    - name: Process jdshipin Files
+    - name: Process 101.qzz.io Files
       if: env.ONLY_UPDATE_MIGU != 'true'
       continue-on-error: true
       run: |
             #无需频繁更新
-            wget https://github.com/yishilaoxia/laoxia/blob/47a5dc7302327265fcf2610ae0951d1e41d6d0b4/output/gtdl0116.txt -O gtd.txt  -t 2 --waitretry=5
+            wget https://github.com/yishilaoxia/laoxia/raw/47a5dc7302327265fcf2610ae0951d1e41d6d0b4/output/gtdl0116.txt -O gtd.txt  -t 2 --waitretry=5
             node ./scripts/txt2m3u.js -i gtd.txt -o t4op.m3u
             python ./scripts/extract.py --input t4op.m3u --output tv4output.m3u --eoru ',cdn6.101.qzz.io' -n
             #python ./scripts/m3u_merger.py -i tv4output.m3u -o tv4output_merged.m3u
