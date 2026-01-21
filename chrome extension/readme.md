@@ -12,9 +12,8 @@
 ---
 
 ## .m3u8
-> chrome已经原生支持播放.m3u8的链接。某些m3u8使用chrome直接播放会出现只有声音，没有画面；某些非标准的hls视频链接目前chrome还是无法直接播放，例如链接中不含.m3u8关键字，同时其响应头中content-type不是标准的hls的MIME。
-> 而使用其他播放器如potplayer和本扩展则不存在这些问题（本扩展的播放能力上限取决于[hls.js-v1.6.15](https://github.com/video-dev/hls.js/blob/master/README.md)）。
-
+> Chrome 已原生支持 .m3u8 链接，但部分视频可能出现有声无画；此外，若链接不含 .m3u8 关键字且 Content-Type 非标准 HLS MIME，Chrome 亦无法播放。 相比之下，本扩展（基于 [hls.js-v1.6.15](https://github.com/video-dev/hls.js/blob/master/README.md)）兼容性更强，可规避上述问题。
+>
 
 ## http
 > 在浏览器地址栏输入的某些http开头的源播放失败可能与浏览器开启了自动https有关
