@@ -101,7 +101,7 @@ jobs:
 
     # --- 块6: Catvod 处理 ---
     - name: Process Catvod Files
-      if: env.ONLY_UPDATE_MIGU != 'true'
+      if: env.ONLY_UPDATE_MIGU != 'false'
       continue-on-error: true
       run: |
         wget https://github.com/xiaoran29/core/raw/refs/heads/main/output/lite.m3u -O lite.m3u -t 2 --waitretry=5
@@ -111,7 +111,7 @@ jobs:
         
     # --- 块7: 汇总处理 ---
     - name: Final Merge 1
-      if: env.ONLY_UPDATE_MIGU != 'true'
+      if: env.ONLY_UPDATE_MIGU != 'false'
       continue-on-error: true
       run: |
         python ./scripts/m3u_merger.py -i t3op2_ms.m3u mg_m.m3u huuc_ipv6.m3u sh.lnott.top.m3u cdn6.101.qzz.io.m3u -o t0op_m.m3u
