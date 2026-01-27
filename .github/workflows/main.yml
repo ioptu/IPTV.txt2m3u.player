@@ -40,9 +40,9 @@ jobs:
       if: env.ONLY_UPDATE_MIGU != 'true'    
       continue-on-error: true
       run: |
-            wget https://httop.top/hotel.m3u -O httop.m3u  -t 2 --waitretry=5
-            python ./scripts/m3u_merger.py -i httop.m3u -o httop_merged.m3u
-            python ./scripts/url_sorter.py -i httop_merged.m3u -o httop_merged.m3u -k '//175' -r
+            wget https://httop.top/hotel.m3u -O hp.m3u  -t 2 --waitretry=5
+            python ./scripts/m3u_merger.py -i hp.m3u -o hp_merged.m3u
+            python ./scripts/url_sorter.py -i hp_merged.m3u -o hp_merged.m3u -k '//175' -r
 
 
     # ---  huuc 源处理  ---
@@ -170,8 +170,8 @@ jobs:
           [ -f ../ttvop_ms.m3u ] && mv ../ttvop_ms.m3u ./ttv_merged.m3u || true
           [ -f ../tv5op.m3u ] && mv ../tv5op.m3u ./港澳.m3u || true
           [ -f ../tv5op_merged.m3u ] && mv ../tv5op_merged.m3u ./港澳_merged.m3u || true
-          [ -f ../httop.m3u ] && mv ../httop.m3u ./httop.m3u || true
-          [ -f ../httop_merged.m3u ] && mv ../httop_merged.m3u ./httop_merged.m3u || true          
+          [ -f ../hp.m3u ] && mv ../hp.m3u ./httop.m3u || true
+          [ -f ../hp_merged.m3u ] && mv ../hp_merged.m3u ./httop_merged.m3u || true          
         fi
 
         git add .
