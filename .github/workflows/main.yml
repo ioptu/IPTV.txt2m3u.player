@@ -42,9 +42,7 @@ jobs:
       run: |
             wget https://httop.top/hotel.m3u -O hp.m3u  -t 2 --waitretry=5
             python ./scripts/m3u_merger.py -i hp.m3u -o hp_merged.m3u
-            python ./scripts/url_sorter.py -i hp_merged.m3u -o hp_merged.m3u -k '//175' -r
-            python ./scripts/url_sorter.py -i hp_merged.m3u -o hp_merged.m3u -k '//42,//27,//182'
-            python ./scripts/url_sortergr.py -i hp_merged.m3u -o hp_merged.m3u -gr '其它' -gs -r
+            python ./scripts/url_sortergr.py -i hp_merged.m3u -o hp_merged.m3u -gr '央视,卫视,其它' -gs
 
 
     # ---  huuc 源处理  ---
