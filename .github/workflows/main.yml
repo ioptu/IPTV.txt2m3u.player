@@ -51,6 +51,7 @@ jobs:
       run: |
             wget https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.m3u -O gop.m3u  -t 2 --waitretry=5
             python ./scripts/extract.py --input gop.m3u --output gop.m3u --eoru ',//38.75.136.137' -n
+            python ./scripts/extract.py --input gop.m3u --output gop.m3u --eoru '更新时间,' -n -r
             python ./scripts/m3u_merger.py -i gop.m3u -o gop_merged.m3u
 
     # ---  huuc 源处理  ---
