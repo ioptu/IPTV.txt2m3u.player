@@ -6,6 +6,7 @@ http://119.39.198.199:808/hls/1/index.m3u8
 http://122.114.131.154:4001/hls/1/index.m3u8
 http://122.114.131.154:4007/hls/1/index.m3u8
 http://122.114.131.154:4021/hls/1/index.m3u8
+http://123.14.254.179:8888/hls/1/index.m3u8
 http://125.44.166.55:8888/hls/1/index.m3u8
 http://175.20.39.188:888/hls/1/index.m3u8
 http://183.221.211.20:808/hls/1/index.m3u8
@@ -22,6 +23,7 @@ http://119.39.198.199:808/hls/2/index.m3u8
 http://122.114.131.154:4001/hls/2/index.m3u8
 http://122.114.131.154:4007/hls/2/index.m3u8
 http://122.114.131.154:4021/hls/2/index.m3u8
+http://123.14.254.179:8888/hls/2/index.m3u8
 http://125.44.166.55:8888/hls/2/index.m3u8
 http://175.20.39.188:888/hls/2/index.m3u8
 http://183.221.211.20:808/hls/2/index.m3u8
@@ -38,6 +40,7 @@ http://119.39.198.199:808/hls/3/index.m3u8
 http://122.114.131.154:4001/hls/3/index.m3u8
 http://122.114.131.154:4007/hls/3/index.m3u8
 http://122.114.131.154:4021/hls/3/index.m3u8
+http://123.14.254.179:8888/hls/3/index.m3u8
 http://125.44.166.55:8888/hls/21/index.m3u8
 http://175.20.39.188:888/hls/3/index.m3u8
 http://183.221.211.20:808/hls/3/index.m3u8
@@ -52,6 +55,7 @@ http://119.39.198.199:808/hls/4/index.m3u8
 http://122.114.131.154:4001/hls/4/index.m3u8
 http://122.114.131.154:4007/hls/4/index.m3u8
 http://122.114.131.154:4021/hls/4/index.m3u8
+http://123.14.254.179:8888/hls/4/index.m3u8
 http://175.20.39.188:888/hls/19/index.m3u8
 http://175.20.39.188:888/hls/4/index.m3u8
 http://175.20.39.188:888/hls/98/index.m3u8
@@ -70,6 +74,7 @@ http://119.39.198.199:808/hls/5/index.m3u8
 http://122.114.131.154:4001/hls/5/index.m3u8
 http://122.114.131.154:4007/hls/5/index.m3u8
 http://122.114.131.154:4021/hls/5/index.m3u8
+http://123.14.254.179:8888/hls/5/index.m3u8
 http://175.20.39.188:888/hls/5/index.m3u8
 http://183.221.211.20:808/hls/5/index.m3u8
 http://219.139.124.61:8089/hls/5/index.m3u8
@@ -83,6 +88,7 @@ http://119.39.198.199:808/hls/6/index.m3u8
 http://122.114.131.154:4001/hls/6/index.m3u8
 http://122.114.131.154:4007/hls/6/index.m3u8
 http://122.114.131.154:4021/hls/6/index.m3u8
+http://123.14.254.179:8888/hls/6/index.m3u8
 http://125.44.166.55:8888/hls/23/index.m3u8
 http://175.20.39.188:888/hls/6/index.m3u8
 http://183.221.211.20:808/hls/6/index.m3u8
@@ -97,6 +103,7 @@ http://119.39.198.199:808/hls/7/index.m3u8
 http://122.114.131.154:4001/hls/7/index.m3u8
 http://122.114.131.154:4007/hls/7/index.m3u8
 http://122.114.131.154:4021/hls/7/index.m3u8
+http://123.14.254.179:8888/hls/7/index.m3u8
 http://125.44.166.55:8888/hls/4/index.m3u8
 http://175.20.39.188:888/hls/7/index.m3u8
 http://183.221.211.20:808/hls/7/index.m3u8
@@ -111,6 +118,7 @@ http://119.39.198.199:808/hls/8/index.m3u8
 http://122.114.131.154:4001/hls/8/index.m3u8
 http://122.114.131.154:4007/hls/8/index.m3u8
 http://122.114.131.154:4021/hls/8/index.m3u8
+http://123.14.254.179:8888/hls/8/index.m3u8
 http://175.20.39.188:888/hls/8/index.m3u8
 http://183.221.211.20:808/hls/8/index.m3u8
 http://219.139.124.61:8089/hls/8/index.m3u8
@@ -124,6 +132,7 @@ http://119.39.198.199:808/hls/9/index.m3u8
 http://122.114.131.154:4001/hls/9/index.m3u8
 http://122.114.131.154:4007/hls/9/index.m3u8
 http://122.114.131.154:4021/hls/9/index.m3u8
+http://123.14.254.179:8888/hls/9/index.m3u8
 http://125.44.166.55:8888/hls/5/index.m3u8
 http://175.20.39.188:888/hls/9/index.m3u8
 http://183.221.211.20:808/hls/9/index.m3u8
@@ -139,6 +148,7 @@ http://119.39.198.199:808/hls/10/index.m3u8
 http://122.114.131.154:4001/hls/10/index.m3u8
 http://122.114.131.154:4007/hls/10/index.m3u8
 http://122.114.131.154:4021/hls/10/index.m3u8
+http://123.14.254.179:8888/hls/10/index.m3u8
 http://125.44.166.55:8888/hls/6/index.m3u8
 http://175.20.39.188:888/hls/10/index.m3u8
 http://183.221.211.20:808/hls/10/index.m3u8
@@ -152,6 +162,7 @@ http://119.39.198.199:808/hls/11/index.m3u8
 http://122.114.131.154:4001/hls/11/index.m3u8
 http://122.114.131.154:4007/hls/11/index.m3u8
 http://122.114.131.154:4021/hls/11/index.m3u8
+http://123.14.254.179:8888/hls/11/index.m3u8
 http://175.20.39.188:888/hls/11/index.m3u8
 http://183.221.211.20:808/hls/11/index.m3u8
 http://222.140.17.192:8888/hls/11/index.m3u8
@@ -164,6 +175,7 @@ http://119.39.198.199:808/hls/12/index.m3u8
 http://122.114.131.154:4001/hls/12/index.m3u8
 http://122.114.131.154:4007/hls/12/index.m3u8
 http://122.114.131.154:4021/hls/12/index.m3u8
+http://123.14.254.179:8888/hls/12/index.m3u8
 http://125.44.166.55:8888/hls/7/index.m3u8
 http://175.20.39.188:888/hls/12/index.m3u8
 http://183.221.211.20:808/hls/12/index.m3u8
@@ -176,6 +188,7 @@ http://119.39.198.199:808/hls/13/index.m3u8
 http://122.114.131.154:4001/hls/13/index.m3u8
 http://122.114.131.154:4007/hls/13/index.m3u8
 http://122.114.131.154:4021/hls/13/index.m3u8
+http://123.14.254.179:8888/hls/13/index.m3u8
 http://175.20.39.188:888/hls/13/index.m3u8
 http://183.221.211.20:808/hls/13/index.m3u8
 http://222.140.17.192:8888/hls/13/index.m3u8
@@ -187,6 +200,7 @@ http://119.39.198.199:808/hls/14/index.m3u8
 http://122.114.131.154:4001/hls/14/index.m3u8
 http://122.114.131.154:4007/hls/14/index.m3u8
 http://122.114.131.154:4021/hls/14/index.m3u8
+http://123.14.254.179:8888/hls/14/index.m3u8
 http://125.44.166.55:8888/hls/8/index.m3u8
 http://175.20.39.188:888/hls/14/index.m3u8
 http://183.221.211.20:808/hls/14/index.m3u8
@@ -199,6 +213,7 @@ http://119.39.198.199:808/hls/15/index.m3u8
 http://122.114.131.154:4001/hls/15/index.m3u8
 http://122.114.131.154:4007/hls/15/index.m3u8
 http://122.114.131.154:4021/hls/15/index.m3u8
+http://123.14.254.179:8888/hls/15/index.m3u8
 http://175.20.39.188:888/hls/15/index.m3u8
 http://183.221.211.20:808/hls/15/index.m3u8
 http://222.140.17.192:8888/hls/15/index.m3u8
@@ -226,6 +241,7 @@ http://183.221.211.20:808/hls/17/index.m3u8
 http://106.46.169.202:9000/hls/13/index.m3u8
 http://122.114.131.154:4001/hls/17/index.m3u8
 http://122.114.131.154:4021/hls/39/index.m3u8
+http://123.14.254.179:8888/hls/17/index.m3u8
 http://125.44.166.55:8888/hls/9/index.m3u8
 http://175.20.39.188:888/hls/55/index.m3u8
 http://183.221.211.20:808/hls/41/index.m3u8
@@ -240,6 +256,7 @@ http://119.39.198.199:808/hls/30/index.m3u8
 http://122.114.131.154:4001/hls/18/index.m3u8
 http://122.114.131.154:4007/hls/24/index.m3u8
 http://122.114.131.154:4021/hls/30/index.m3u8
+http://123.14.254.179:8888/hls/30/index.m3u8
 http://125.44.166.55:8888/hls/10/index.m3u8
 http://175.20.39.188:888/hls/37/index.m3u8
 http://183.221.211.20:808/hls/21/index.m3u8
@@ -266,6 +283,7 @@ http://119.39.198.183:808/hls/39/index.m3u8
 http://119.39.198.199:808/hls/39/index.m3u8
 http://122.114.131.154:4001/hls/20/index.m3u8
 http://122.114.131.154:4021/hls/35/index.m3u8
+http://123.14.254.179:8888/hls/32/index.m3u8
 http://125.44.166.55:8888/hls/12/index.m3u8
 http://175.20.39.188:888/hls/40/index.m3u8
 http://183.221.211.20:808/hls/30/index.m3u8
@@ -291,6 +309,7 @@ http://ah2.sohu.blog:8000/hls/26/index.m3u8
 http://106.46.169.202:9000/hls/20/index.m3u8
 http://122.114.131.154:4001/hls/22/index.m3u8
 http://122.114.131.154:4021/hls/37/index.m3u8
+http://123.14.254.179:8888/hls/33/index.m3u8
 http://125.44.166.55:8888/hls/14/index.m3u8
 http://175.20.39.188:888/hls/44/index.m3u8
 http://183.221.211.20:808/hls/42/index.m3u8
@@ -347,6 +366,7 @@ http://119.39.198.199:808/hls/28/index.m3u8
 http://122.114.131.154:4001/hls/26/index.m3u8
 http://122.114.131.154:4007/hls/27/index.m3u8
 http://122.114.131.154:4021/hls/34/index.m3u8
+http://123.14.254.179:8888/hls/31/index.m3u8
 http://125.44.166.55:8888/hls/18/index.m3u8
 http://175.20.39.188:888/hls/34/index.m3u8
 http://183.221.211.20:808/hls/24/index.m3u8
@@ -362,6 +382,7 @@ http://119.39.198.199:808/hls/27/index.m3u8
 http://122.114.131.154:4001/hls/27/index.m3u8
 http://122.114.131.154:4007/hls/21/index.m3u8
 http://122.114.131.154:4021/hls/29/index.m3u8
+http://123.14.254.179:8888/hls/28/index.m3u8
 http://125.44.166.55:8888/hls/19/index.m3u8
 http://175.20.39.188:888/hls/38/index.m3u8
 http://183.221.211.20:808/hls/20/index.m3u8
@@ -376,6 +397,7 @@ http://119.39.198.199:808/hls/33/index.m3u8
 http://122.114.131.154:4001/hls/28/index.m3u8
 http://122.114.131.154:4007/hls/26/index.m3u8
 http://122.114.131.154:4021/hls/31/index.m3u8
+http://123.14.254.179:8888/hls/29/index.m3u8
 http://125.44.166.55:8888/hls/20/index.m3u8
 http://175.20.39.188:888/hls/36/index.m3u8
 http://183.221.211.20:808/hls/22/index.m3u8
@@ -567,17 +589,31 @@ http://ah2.sohu.blog:8000/hls/25/index.m3u8
 #EXTINF:-1 tvg-name="重温经典" group-title="其它频道",重温经典
 http://ah2.sohu.blog:8000/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="河南都市" group-title="其它频道",河南都市
+http://123.14.254.179:8888/hls/18/index.m3u8
 http://125.44.166.55:8888/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="河南民生" group-title="其它频道",河南民生
+http://123.14.254.179:8888/hls/19/index.m3u8
 http://125.44.166.55:8888/hls/25/index.m3u8
 #EXTINF:-1 tvg-name="河南法治" group-title="其它频道",河南法治
+http://123.14.254.179:8888/hls/20/index.m3u8
 http://125.44.166.55:8888/hls/26/index.m3u8
 #EXTINF:-1 tvg-name="河南电视剧" group-title="其它频道",河南电视剧
+http://123.14.254.179:8888/hls/21/index.m3u8
 http://125.44.166.55:8888/hls/27/index.m3u8
 #EXTINF:-1 tvg-name="河南新闻" group-title="其它频道",河南新闻
+http://123.14.254.179:8888/hls/22/index.m3u8
 http://125.44.166.55:8888/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="河南公共" group-title="其它频道",河南公共
+http://123.14.254.179:8888/hls/23/index.m3u8
 http://125.44.166.55:8888/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="河南新农村" group-title="其它频道",河南新农村
+http://123.14.254.179:8888/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="河南梨园" group-title="其它频道",河南梨园
+http://123.14.254.179:8888/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="河南文物宝库" group-title="其它频道",河南文物宝库
+http://123.14.254.179:8888/hls/26/index.m3u8
+#EXTINF:-1 tvg-name="河南武术世界" group-title="其它频道",河南武术世界
+http://123.14.254.179:8888/hls/27/index.m3u8
 #EXTINF:-1 tvg-name="河南国际" group-title="其它频道",河南国际
 http://125.44.166.55:8888/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="都市频道" group-title="其它频道",都市频道
