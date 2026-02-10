@@ -55,7 +55,7 @@ jobs:
             
     # --- ---
     - name: Process iptv Files
-      if: env.ONLY_UPDATE_MIGU != 'true'    
+      if: env.ONLY_UPDATE_MIGU != 'false'    
       continue-on-error: true
       run: |
             #无需频繁更新  # 与guovi源最多同时启用一个，都是处理源并输出iptv.m3u
