@@ -59,7 +59,8 @@ jobs:
       continue-on-error: true
       run: |
             #无需频繁更新  # 与guovi源最多同时启用一个，都是处理源并输出iptv.m3u
-            wget https://github.com/ioptu/migu_video/raw/refs/heads/main/iptv.txt -O ip.m3u  -t 2 --waitretry=5
+            wget https://github.com/ioptu/migu_video/raw/refs/heads/main/iptv.txt -O ip.txt  -t 2 --waitretry=5
+            node ./scripts/txt2m3u.js -i ip.txt -o ip.m3u
             python ./scripts/extract.py --input ip.m3u --output ip.m3u --eoru ',/dsdqca/' -n -r
             python ./scripts/m3u_merger.py -i ip.m3u -o ip_merged.m3u
             python ./scripts/url_sortergr.py -i ip_merged.m3u -o ip_merged.m3u -gr '央视,卫视,其他' -gs
