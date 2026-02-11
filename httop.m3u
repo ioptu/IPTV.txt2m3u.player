@@ -1,5 +1,181 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
+http://113.205.164.158:8082/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
+http://113.205.164.158:8082/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV-3 综艺
+http://113.205.164.158:8082/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
+http://113.205.164.158:8082/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道",CCTV-5 体育
+http://113.205.164.158:8082/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
+http://113.205.164.158:8082/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
+http://113.205.164.158:8082/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV-8 电视剧
+http://113.205.164.158:8082/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
+http://113.205.164.158:8082/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
+http://113.205.164.158:8082/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
+http://113.205.164.158:8082/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
+http://113.205.164.158:8082/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-新闻" group-title="其它频道",CCTV-新闻
+http://113.205.164.158:8082/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-少儿" group-title="其它频道",CCTV-少儿
+http://113.205.164.158:8082/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-音乐" group-title="其它频道",CCTV-音乐
+http://113.205.164.158:8082/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-NEWS" group-title="其它频道",CCTV-NEWS
+http://113.205.164.158:8082/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
+http://113.205.164.158:8082/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+http://113.205.164.158:8082/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+http://113.205.164.158:8082/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
+http://113.205.164.158:8082/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+http://113.205.164.158:8082/hls/21/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道",东南卫视
+http://113.205.164.158:8082/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道",云南卫视
+http://113.205.164.158:8082/hls/23/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
+http://113.205.164.158:8082/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
+http://113.205.164.158:8082/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
+http://113.205.164.158:8082/hls/26/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道",广东卫视
+http://113.205.164.158:8082/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
+http://113.205.164.158:8082/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
+http://113.205.164.158:8082/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
+http://113.205.164.158:8082/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
+http://113.205.164.158:8082/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
+http://113.205.164.158:8082/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
+http://113.205.164.158:8082/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
+http://113.205.164.158:8082/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
+http://113.205.164.158:8082/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视频道",西藏卫视
+http://113.205.164.158:8082/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
+http://113.205.164.158:8082/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
+http://113.205.164.158:8082/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://113.205.164.158:8082/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道",山西卫视
+http://113.205.164.158:8082/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道",青海卫视
+http://113.205.164.158:8082/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
+http://113.205.164.158:8082/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
+http://113.205.164.158:8082/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
+http://113.205.164.158:8082/hls/44/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
+http://113.205.164.158:8082/hls/45/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
+http://113.205.164.158:8082/hls/46/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
+http://113.205.164.158:8082/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道",海南卫视
+http://113.205.164.158:8082/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="卡酷动画" group-title="其它频道",卡酷动画
+http://113.205.164.158:8082/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="其它频道",金鹰卡通
+http://113.205.164.158:8082/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
+http://112.237.16.225:7001/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
+http://112.237.16.225:7001/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
+http://112.237.16.225:7001/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV-5+ 体育赛事
+http://112.237.16.225:7001/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
+http://112.237.16.225:7001/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
+http://112.237.16.225:7001/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
+http://112.237.16.225:7001/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
+http://112.237.16.225:7001/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
+http://112.237.16.225:7001/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV-14 少儿
+http://112.237.16.225:7001/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV-15 音乐
+http://112.237.16.225:7001/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
+http://112.237.16.225:7001/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+http://112.237.16.225:7001/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+http://112.237.16.225:7001/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+http://112.237.16.225:7001/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
+http://112.237.16.225:7001/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
+http://112.237.16.225:7001/hls/21/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道",广东卫视
+http://112.237.16.225:7001/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
+http://112.237.16.225:7001/hls/23/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
+http://112.237.16.225:7001/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
+http://112.237.16.225:7001/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
+http://112.237.16.225:7001/hls/26/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
+http://112.237.16.225:7001/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道",山西卫视
+http://112.237.16.225:7001/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道",云南卫视
+http://112.237.16.225:7001/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
+http://112.237.16.225:7001/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
+http://112.237.16.225:7001/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
+http://112.237.16.225:7001/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
+http://218.19.108.138:808/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
+http://218.19.108.138:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
+http://218.19.108.138:808/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
+http://218.19.108.138:808/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
+http://218.19.108.138:808/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
+http://218.19.108.138:808/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
+http://218.19.108.138:808/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://218.19.108.138:808/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV-5+ 体育赛事
+http://218.19.108.138:808/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV-5+ 体育赛事
+http://218.19.108.138:808/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
 http://114.252.114.191:8899/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
 http://114.252.114.191:8899/hls/2/index.m3u8
@@ -513,214 +689,6 @@ http://221.14.142.118:9003/hls/31/index.m3u8
 http://221.14.142.118:9003/hls/32/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
 http://221.14.142.118:9003/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
-http://124.129.139.77:9001/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
-http://124.129.139.77:9001/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV-3 综艺
-http://124.129.139.77:9001/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
-http://124.129.139.77:9001/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道",CCTV-5 体育
-http://124.129.139.77:9001/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV-5+ 体育赛事
-http://124.129.139.77:9001/hls/6/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
-http://124.129.139.77:9001/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
-http://124.129.139.77:9001/hls/8/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV-8 电视剧
-http://124.129.139.77:9001/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
-http://124.129.139.77:9001/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
-http://124.129.139.77:9001/hls/11/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
-http://124.129.139.77:9001/hls/12/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
-http://124.129.139.77:9001/hls/13/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
-http://124.129.139.77:9001/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://124.129.139.77:9001/hls/15/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://124.129.139.77:9001/hls/16/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://124.129.139.77:9001/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://124.129.139.77:9001/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://124.129.139.77:9001/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://124.129.139.77:9001/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://124.129.139.77:9001/hls/21/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://124.129.139.77:9001/hls/22/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://124.129.139.77:9001/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="少儿动画" group-title="其它频道",少儿动画
-http://124.129.139.77:9001/hls/24/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道",东南卫视
-http://124.129.139.77:9001/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://124.129.139.77:9001/hls/26/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道",广东卫视
-http://124.129.139.77:9001/hls/27/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://124.129.139.77:9001/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://124.129.139.77:9001/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://124.129.139.77:9001/hls/30/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://124.129.139.77:9001/hls/31/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://124.129.139.77:9001/hls/32/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://124.129.139.77:9001/hls/33/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://124.129.139.77:9001/hls/34/index.m3u8
-#EXTINF:-1 tvg-name="QTV-1高清" group-title="其它频道",QTV-1高清
-http://124.129.139.77:9001/hls/35/index.m3u8
-#EXTINF:-1 tvg-name="QTV-2高清" group-title="其它频道",QTV-2高清
-http://124.129.139.77:9001/hls/36/index.m3u8
-#EXTINF:-1 tvg-name="QTV-3高清" group-title="其它频道",QTV-3高清
-http://124.129.139.77:9001/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="QTV-4高清" group-title="其它频道",QTV-4高清
-http://124.129.139.77:9001/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" group-title="其它频道",CHC动作电影
-http://124.129.139.77:9001/hls/39/index.m3u8
-#EXTINF:-1 tvg-name="QTV-6教育" group-title="其它频道",QTV-6教育
-http://124.129.139.77:9001/hls/40/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
-http://122.114.131.154:4001/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
-http://122.114.131.154:4001/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV-3 综艺
-http://122.114.131.154:4001/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
-http://122.114.131.154:4001/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道",CCTV-5 体育
-http://122.114.131.154:4001/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
-http://122.114.131.154:4001/hls/6/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
-http://122.114.131.154:4001/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV-8 电视剧
-http://122.114.131.154:4001/hls/8/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
-http://122.114.131.154:4001/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
-http://122.114.131.154:4001/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
-http://122.114.131.154:4001/hls/11/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
-http://122.114.131.154:4001/hls/12/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
-http://122.114.131.154:4001/hls/13/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV-14 少儿
-http://122.114.131.154:4001/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV-15 音乐
-http://122.114.131.154:4001/hls/15/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV-5+ 体育赛事
-http://122.114.131.154:4001/hls/16/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://122.114.131.154:4001/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://122.114.131.154:4001/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://122.114.131.154:4001/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://122.114.131.154:4001/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://122.114.131.154:4001/hls/21/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://122.114.131.154:4001/hls/22/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://122.114.131.154:4001/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://122.114.131.154:4001/hls/24/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://122.114.131.154:4001/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://122.114.131.154:4001/hls/26/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://122.114.131.154:4001/hls/27/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://122.114.131.154:4001/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://122.114.131.154:4001/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://122.114.131.154:4001/hls/30/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://122.114.131.154:4001/hls/31/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道",云南卫视
-http://122.114.131.154:4001/hls/32/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
-http://222.140.17.192:8888/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
-http://222.140.17.192:8888/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV-3 综艺
-http://222.140.17.192:8888/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
-http://222.140.17.192:8888/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道",CCTV-5 体育
-http://222.140.17.192:8888/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
-http://222.140.17.192:8888/hls/6/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
-http://222.140.17.192:8888/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV-8 电视剧
-http://222.140.17.192:8888/hls/8/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
-http://222.140.17.192:8888/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
-http://222.140.17.192:8888/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
-http://222.140.17.192:8888/hls/11/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
-http://222.140.17.192:8888/hls/12/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
-http://222.140.17.192:8888/hls/13/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV-14 少儿
-http://222.140.17.192:8888/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV-15 音乐
-http://222.140.17.192:8888/hls/15/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV-5+ 体育赛事
-http://222.140.17.192:8888/hls/16/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://222.140.17.192:8888/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://222.140.17.192:8888/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://222.140.17.192:8888/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://222.140.17.192:8888/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://222.140.17.192:8888/hls/21/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://222.140.17.192:8888/hls/22/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://222.140.17.192:8888/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://222.140.17.192:8888/hls/24/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://222.140.17.192:8888/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://222.140.17.192:8888/hls/26/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://222.140.17.192:8888/hls/27/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://222.140.17.192:8888/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://222.140.17.192:8888/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://222.140.17.192:8888/hls/30/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://222.140.17.192:8888/hls/31/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道",云南卫视
-http://222.140.17.192:8888/hls/32/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
 http://222.88.207.98:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
