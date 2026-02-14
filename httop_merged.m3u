@@ -8,6 +8,7 @@ http://183.237.71.182:40000/hls/1/index.m3u8
 http://221.14.142.118:8000/hls/1/index.m3u8
 http://222.85.198.92:8000/hls/1/index.m3u8
 http://222.88.207.214:808/hls/1/index.m3u8
+http://223.95.198.3:8000/hls/1/index.m3u8
 http://27.41.245.32:801/hls/1/index.m3u8
 http://39.164.138.145:8899/hls/1/index.m3u8
 http://58.249.149.87:808/hls/1/index.m3u8
@@ -20,6 +21,7 @@ http://183.237.71.182:40000/hls/2/index.m3u8
 http://221.14.142.118:8000/hls/2/index.m3u8
 http://222.85.198.92:8000/hls/2/index.m3u8
 http://222.88.207.214:808/hls/2/index.m3u8
+http://223.95.198.3:8000/hls/2/index.m3u8
 http://27.41.245.32:801/hls/2/index.m3u8
 http://39.164.138.145:8899/hls/2/index.m3u8
 http://58.249.149.87:808/hls/2/index.m3u8
@@ -32,6 +34,7 @@ http://183.237.71.182:40000/hls/3/index.m3u8
 http://221.14.142.118:8000/hls/3/index.m3u8
 http://222.85.198.92:8000/hls/3/index.m3u8
 http://222.88.207.214:808/hls/3/index.m3u8
+http://223.95.198.3:8000/hls/3/index.m3u8
 http://27.41.245.32:801/hls/3/index.m3u8
 http://39.164.138.145:8899/hls/3/index.m3u8
 http://58.249.149.87:808/hls/3/index.m3u8
@@ -45,6 +48,8 @@ http://183.237.71.182:40000/hls/4/index.m3u8
 http://221.14.142.118:8000/hls/4/index.m3u8
 http://222.85.198.92:8000/hls/4/index.m3u8
 http://222.88.207.214:808/hls/4/index.m3u8
+http://223.95.198.3:8000/hls/18/index.m3u8
+http://223.95.198.3:8000/hls/4/index.m3u8
 http://27.41.245.32:801/hls/4/index.m3u8
 http://39.164.138.145:8899/hls/4/index.m3u8
 http://58.249.149.87:808/hls/4/index.m3u8
@@ -59,6 +64,7 @@ http://183.237.71.182:40000/hls/5/index.m3u8
 http://221.14.142.118:8000/hls/5/index.m3u8
 http://222.85.198.92:8000/hls/5/index.m3u8
 http://222.88.207.214:808/hls/5/index.m3u8
+http://223.95.198.3:8000/hls/5/index.m3u8
 http://27.41.245.32:801/hls/5/index.m3u8
 http://39.164.138.145:8899/hls/5/index.m3u8
 http://58.249.149.87:808/hls/5/index.m3u8
@@ -72,6 +78,7 @@ http://183.237.71.182:40000/hls/6/index.m3u8
 http://221.14.142.118:8000/hls/6/index.m3u8
 http://222.85.198.92:8000/hls/6/index.m3u8
 http://222.88.207.214:808/hls/6/index.m3u8
+http://223.95.198.3:8000/hls/6/index.m3u8
 http://27.41.245.32:801/hls/6/index.m3u8
 http://39.164.138.145:8899/hls/6/index.m3u8
 http://58.249.149.87:808/hls/6/index.m3u8
@@ -84,6 +91,7 @@ http://122.114.131.154:4007/hls/7/index.m3u8
 http://183.237.71.182:40000/hls/7/index.m3u8
 http://221.14.142.118:8000/hls/7/index.m3u8
 http://222.85.198.92:8000/hls/7/index.m3u8
+http://223.95.198.3:8000/hls/7/index.m3u8
 http://27.41.245.32:801/hls/7/index.m3u8
 http://39.164.138.145:8899/hls/7/index.m3u8
 http://58.249.149.87:808/hls/7/index.m3u8
@@ -97,6 +105,7 @@ http://183.237.71.182:40000/hls/8/index.m3u8
 http://221.14.142.118:8000/hls/8/index.m3u8
 http://222.85.198.92:8000/hls/8/index.m3u8
 http://222.88.207.214:808/hls/8/index.m3u8
+http://223.95.198.3:8000/hls/8/index.m3u8
 http://27.41.245.32:801/hls/8/index.m3u8
 http://39.164.138.145:8899/hls/8/index.m3u8
 http://58.249.149.87:808/hls/8/index.m3u8
@@ -108,6 +117,7 @@ http://122.114.131.154:4007/hls/9/index.m3u8
 http://183.237.71.182:40000/hls/9/index.m3u8
 http://221.14.142.118:8000/hls/9/index.m3u8
 http://222.88.207.214:808/hls/9/index.m3u8
+http://223.95.198.3:8000/hls/9/index.m3u8
 http://27.41.245.32:801/hls/9/index.m3u8
 http://39.164.138.145:8899/hls/9/index.m3u8
 http://58.249.149.87:808/hls/9/index.m3u8
@@ -120,6 +130,7 @@ http://183.237.71.182:40000/hls/10/index.m3u8
 http://221.14.142.118:8000/hls/10/index.m3u8
 http://222.85.198.92:8000/hls/9/index.m3u8
 http://222.88.207.214:808/hls/10/index.m3u8
+http://223.95.198.3:8000/hls/10/index.m3u8
 http://27.41.245.32:801/hls/10/index.m3u8
 http://39.164.138.145:8899/hls/10/index.m3u8
 http://58.249.149.87:808/hls/10/index.m3u8
@@ -132,6 +143,7 @@ http://183.237.71.182:40000/hls/11/index.m3u8
 http://221.14.142.118:8000/hls/11/index.m3u8
 http://222.85.198.92:8000/hls/10/index.m3u8
 http://222.88.207.214:808/hls/11/index.m3u8
+http://223.95.198.3:8000/hls/11/index.m3u8
 http://27.41.245.32:801/hls/11/index.m3u8
 http://39.164.138.145:8899/hls/11/index.m3u8
 http://58.249.149.87:808/hls/11/index.m3u8
@@ -144,6 +156,7 @@ http://183.237.71.182:40000/hls/12/index.m3u8
 http://221.14.142.118:8000/hls/12/index.m3u8
 http://222.85.198.92:8000/hls/11/index.m3u8
 http://222.88.207.214:808/hls/12/index.m3u8
+http://223.95.198.3:8000/hls/12/index.m3u8
 http://27.41.245.32:801/hls/12/index.m3u8
 http://39.164.138.145:8899/hls/12/index.m3u8
 http://58.249.149.87:808/hls/12/index.m3u8
@@ -156,6 +169,7 @@ http://183.237.71.182:40000/hls/13/index.m3u8
 http://221.14.142.118:8000/hls/33/index.m3u8
 http://222.85.198.92:8000/hls/12/index.m3u8
 http://222.88.207.214:808/hls/13/index.m3u8
+http://223.95.198.3:8000/hls/13/index.m3u8
 http://27.41.245.32:801/hls/13/index.m3u8
 http://39.164.138.145:8899/hls/13/index.m3u8
 http://58.249.149.87:808/hls/13/index.m3u8
@@ -168,6 +182,7 @@ http://183.237.71.182:40000/hls/14/index.m3u8
 http://221.14.142.118:8000/hls/14/index.m3u8
 http://222.85.198.92:8000/hls/13/index.m3u8
 http://222.88.207.214:808/hls/14/index.m3u8
+http://223.95.198.3:8000/hls/14/index.m3u8
 http://27.41.245.32:801/hls/14/index.m3u8
 http://39.164.138.145:8899/hls/14/index.m3u8
 http://58.249.149.87:808/hls/14/index.m3u8
@@ -180,14 +195,20 @@ http://183.237.71.182:40000/hls/15/index.m3u8
 http://221.14.142.118:8000/hls/15/index.m3u8
 http://222.85.198.92:8000/hls/14/index.m3u8
 http://222.88.207.214:808/hls/15/index.m3u8
+http://223.95.198.3:8000/hls/15/index.m3u8
 http://27.41.245.32:801/hls/15/index.m3u8
 http://39.164.138.145:8899/hls/15/index.m3u8
 http://58.249.149.87:808/hls/15/index.m3u8
 http://58.255.200.159:808/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" group-title="央视频道",CCTV-16 奥林匹克
+http://183.237.71.182:40000/hls/17/index.m3u8
+http://223.95.198.3:8000/hls/16/index.m3u8
+http://58.255.200.159:808/hls/16/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV-17 农业农村
 http://183.237.71.182:40000/hls/18/index.m3u8
 http://222.85.198.92:8000/hls/15/index.m3u8
 http://222.88.207.214:808/hls/7/index.m3u8
+http://223.95.198.3:8000/hls/17/index.m3u8
 http://27.41.245.32:801/hls/16/index.m3u8
 http://39.164.138.145:8899/hls/17/index.m3u8
 http://58.249.149.87:808/hls/16/index.m3u8
@@ -196,9 +217,52 @@ http://58.255.200.159:808/hls/17/index.m3u8
 http://112.27.235.94:8000/hls/6/index.m3u8
 http://122.114.131.154:4001/hls/16/index.m3u8
 http://39.164.138.145:8899/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" group-title="央视频道",CCTV-16 奥林匹克
-http://183.237.71.182:40000/hls/17/index.m3u8
-http://58.255.200.159:808/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
+http://112.27.235.94:8000/hls/27/index.m3u8
+http://122.114.131.154:4001/hls/26/index.m3u8
+http://122.114.131.154:4007/hls/27/index.m3u8
+http://183.237.71.182:40000/hls/24/index.m3u8
+http://221.14.142.118:8000/hls/25/index.m3u8
+http://222.85.198.92:8000/hls/29/index.m3u8
+http://223.95.198.3:8000/hls/21/index.m3u8
+http://27.41.245.32:801/hls/28/index.m3u8
+http://39.164.138.145:8899/hls/36/index.m3u8
+http://58.249.149.87:808/hls/29/index.m3u8
+http://58.255.200.159:808/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
+http://112.27.235.94:8000/hls/28/index.m3u8
+http://122.114.131.154:4001/hls/19/index.m3u8
+http://122.114.131.154:4007/hls/22/index.m3u8
+http://183.237.71.182:40000/hls/22/index.m3u8
+http://221.14.142.118:8000/hls/26/index.m3u8
+http://222.88.207.214:808/hls/26/index.m3u8
+http://223.95.198.3:8000/hls/22/index.m3u8
+http://39.164.138.145:8899/hls/34/index.m3u8
+http://58.249.149.87:808/hls/32/index.m3u8
+http://58.255.200.159:808/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
+http://112.27.235.94:8000/hls/33/index.m3u8
+http://122.114.131.154:4001/hls/24/index.m3u8
+http://122.114.131.154:4007/hls/35/index.m3u8
+http://183.237.71.182:40000/hls/28/index.m3u8
+http://221.14.142.118:8000/hls/30/index.m3u8
+http://223.95.198.3:8000/hls/23/index.m3u8
+http://39.164.138.145:8899/hls/47/index.m3u8
+http://58.249.149.87:808/hls/27/index.m3u8
+http://58.255.200.159:808/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+http://112.27.235.94:8000/hls/29/index.m3u8
+http://122.114.131.154:4001/hls/18/index.m3u8
+http://122.114.131.154:4007/hls/24/index.m3u8
+http://183.237.71.182:40000/hls/20/index.m3u8
+http://221.14.142.118:8000/hls/24/index.m3u8
+http://222.85.198.92:8000/hls/18/index.m3u8
+http://222.88.207.214:808/hls/25/index.m3u8
+http://223.95.198.3:8000/hls/24/index.m3u8
+http://27.41.245.32:801/hls/58/index.m3u8
+http://39.164.138.145:8899/hls/33/index.m3u8
+http://58.249.149.87:808/hls/52/index.m3u8
+http://58.255.200.159:808/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
 http://112.27.235.94:8000/hls/31/index.m3u8
 http://122.114.131.154:4001/hls/27/index.m3u8
@@ -207,21 +271,54 @@ http://183.237.71.182:40000/hls/19/index.m3u8
 http://221.14.142.118:8000/hls/22/index.m3u8
 http://222.85.198.92:8000/hls/17/index.m3u8
 http://222.88.207.214:808/hls/59/index.m3u8
+http://223.95.198.3:8000/hls/25/index.m3u8
 http://27.41.245.32:801/hls/27/index.m3u8
 http://39.164.138.145:8899/hls/46/index.m3u8
 http://58.249.149.87:808/hls/28/index.m3u8
 http://58.255.200.159:808/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://112.27.235.94:8000/hls/27/index.m3u8
-http://122.114.131.154:4001/hls/26/index.m3u8
-http://122.114.131.154:4007/hls/27/index.m3u8
-http://183.237.71.182:40000/hls/24/index.m3u8
-http://221.14.142.118:8000/hls/25/index.m3u8
-http://222.85.198.92:8000/hls/29/index.m3u8
-http://27.41.245.32:801/hls/28/index.m3u8
-http://39.164.138.145:8899/hls/36/index.m3u8
-http://58.249.149.87:808/hls/29/index.m3u8
-http://58.255.200.159:808/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
+http://112.27.235.94:8000/hls/42/index.m3u8
+http://122.114.131.154:4001/hls/20/index.m3u8
+http://122.114.131.154:4007/hls/44/index.m3u8
+http://183.237.71.182:40000/hls/25/index.m3u8
+http://221.14.142.118:8000/hls/27/index.m3u8
+http://223.95.198.3:8000/hls/26/index.m3u8
+http://27.41.245.32:801/hls/55/index.m3u8
+http://39.164.138.145:8899/hls/50/index.m3u8
+http://58.255.200.159:808/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
+http://112.27.235.94:8000/hls/39/index.m3u8
+http://183.237.71.182:40000/hls/37/index.m3u8
+http://222.85.198.92:8000/hls/41/index.m3u8
+http://223.95.198.3:8000/hls/27/index.m3u8
+http://27.41.245.32:801/hls/37/index.m3u8
+http://39.164.138.145:8899/hls/44/index.m3u8
+http://58.249.149.87:808/hls/38/index.m3u8
+http://58.255.200.159:808/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+http://112.27.235.94:8000/hls/32/index.m3u8
+http://122.114.131.154:4001/hls/28/index.m3u8
+http://122.114.131.154:4007/hls/26/index.m3u8
+http://183.237.71.182:40000/hls/21/index.m3u8
+http://221.14.142.118:8000/hls/23/index.m3u8
+http://222.85.198.92:8000/hls/19/index.m3u8
+http://222.88.207.214:808/hls/27/index.m3u8
+http://223.95.198.3:8000/hls/28/index.m3u8
+http://27.41.245.32:801/hls/42/index.m3u8
+http://39.164.138.145:8899/hls/35/index.m3u8
+http://58.249.149.87:808/hls/42/index.m3u8
+http://58.255.200.159:808/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
+http://112.27.235.94:8000/hls/34/index.m3u8
+http://122.114.131.154:4001/hls/22/index.m3u8
+http://122.114.131.154:4007/hls/39/index.m3u8
+http://183.237.71.182:40000/hls/26/index.m3u8
+http://221.14.142.118:8000/hls/28/index.m3u8
+http://222.85.198.92:8000/hls/43/index.m3u8
+http://223.95.198.3:8000/hls/29/index.m3u8
+http://27.41.245.32:801/hls/51/index.m3u8
+http://39.164.138.145:8899/hls/39/index.m3u8
+http://58.255.200.159:808/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
 http://112.27.235.94:8000/hls/26/index.m3u8
 http://122.114.131.154:4001/hls/21/index.m3u8
@@ -230,10 +327,158 @@ http://183.237.71.182:40000/hls/23/index.m3u8
 http://221.14.142.118:8000/hls/29/index.m3u8
 http://222.85.198.92:8000/hls/20/index.m3u8
 http://222.88.207.214:808/hls/28/index.m3u8
+http://223.95.198.3:8000/hls/30/index.m3u8
 http://27.41.245.32:801/hls/29/index.m3u8
 http://39.164.138.145:8899/hls/40/index.m3u8
 http://58.249.149.87:808/hls/30/index.m3u8
 http://58.255.200.159:808/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
+http://112.27.235.94:8000/hls/37/index.m3u8
+http://122.114.131.154:4001/hls/17/index.m3u8
+http://122.114.131.154:4007/hls/40/index.m3u8
+http://183.237.71.182:40000/hls/34/index.m3u8
+http://221.14.142.118:8000/hls/17/index.m3u8
+http://222.85.198.92:8000/hls/27/index.m3u8
+http://222.88.207.214:808/hls/32/index.m3u8
+http://223.95.198.3:8000/hls/31/index.m3u8
+http://27.41.245.32:801/hls/38/index.m3u8
+http://39.164.138.145:8899/hls/19/index.m3u8
+http://58.249.149.87:808/hls/39/index.m3u8
+http://58.255.200.159:808/hls/53/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
+http://112.27.235.94:8000/hls/41/index.m3u8
+http://122.114.131.154:4001/hls/23/index.m3u8
+http://122.114.131.154:4007/hls/37/index.m3u8
+http://183.237.71.182:40000/hls/29/index.m3u8
+http://221.14.142.118:8000/hls/32/index.m3u8
+http://223.95.198.3:8000/hls/32/index.m3u8
+http://39.164.138.145:8899/hls/49/index.m3u8
+http://58.255.200.159:808/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://112.27.235.94:8000/hls/48/index.m3u8
+http://122.114.131.154:4001/hls/25/index.m3u8
+http://122.114.131.154:4007/hls/36/index.m3u8
+http://183.237.71.182:40000/hls/31/index.m3u8
+http://222.85.198.92:8000/hls/45/index.m3u8
+http://223.95.198.3:8000/hls/33/index.m3u8
+http://27.41.245.32:801/hls/39/index.m3u8
+http://39.164.138.145:8899/hls/38/index.m3u8
+http://58.249.149.87:808/hls/40/index.m3u8
+http://58.255.200.159:808/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
+http://112.27.235.94:8000/hls/47/index.m3u8
+http://122.114.131.154:4001/hls/29/index.m3u8
+http://122.114.131.154:4007/hls/23/index.m3u8
+http://183.237.71.182:40000/hls/30/index.m3u8
+http://221.14.142.118:8000/hls/37/index.m3u8
+http://223.95.198.3:8000/hls/34/index.m3u8
+http://39.164.138.145:8899/hls/41/index.m3u8
+http://58.255.200.159:808/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
+http://122.114.131.154:4007/hls/45/index.m3u8
+http://183.237.71.182:40000/hls/40/index.m3u8
+http://223.95.198.3:8000/hls/35/index.m3u8
+http://27.41.245.32:801/hls/40/index.m3u8
+http://39.164.138.145:8899/hls/53/index.m3u8
+http://58.249.149.87:808/hls/41/index.m3u8
+http://58.255.200.159:808/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
+http://112.27.235.94:8000/hls/36/index.m3u8
+http://122.114.131.154:4007/hls/38/index.m3u8
+http://183.237.71.182:40000/hls/36/index.m3u8
+http://223.95.198.3:8000/hls/36/index.m3u8
+http://27.41.245.32:801/hls/59/index.m3u8
+http://39.164.138.145:8899/hls/52/index.m3u8
+http://58.249.149.87:808/hls/53/index.m3u8
+http://58.255.200.159:808/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
+http://112.27.235.94:8000/hls/35/index.m3u8
+http://122.114.131.154:4001/hls/31/index.m3u8
+http://122.114.131.154:4007/hls/30/index.m3u8
+http://183.237.71.182:40000/hls/33/index.m3u8
+http://222.85.198.92:8000/hls/46/index.m3u8
+http://223.95.198.3:8000/hls/37/index.m3u8
+http://27.41.245.32:801/hls/54/index.m3u8
+http://39.164.138.145:8899/hls/48/index.m3u8
+http://58.249.149.87:808/hls/49/index.m3u8
+http://58.255.200.159:808/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道",广东卫视
+http://112.27.235.94:8000/hls/30/index.m3u8
+http://122.114.131.154:4007/hls/33/index.m3u8
+http://183.237.71.182:40000/hls/63/index.m3u8
+http://222.85.198.92:8000/hls/47/index.m3u8
+http://223.95.198.3:8000/hls/38/index.m3u8
+http://39.164.138.145:8899/hls/37/index.m3u8
+http://58.249.149.87:808/hls/25/index.m3u8
+http://58.255.200.159:808/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
+http://122.114.131.154:4007/hls/34/index.m3u8
+http://183.237.71.182:40000/hls/39/index.m3u8
+http://221.14.142.118:8000/hls/31/index.m3u8
+http://223.95.198.3:8000/hls/39/index.m3u8
+http://27.41.245.32:801/hls/34/index.m3u8
+http://39.164.138.145:8899/hls/57/index.m3u8
+http://58.249.149.87:808/hls/35/index.m3u8
+http://58.255.200.159:808/hls/51/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
+http://112.27.235.94:8000/hls/44/index.m3u8
+http://122.114.131.154:4001/hls/30/index.m3u8
+http://122.114.131.154:4007/hls/42/index.m3u8
+http://183.237.71.182:40000/hls/27/index.m3u8
+http://223.95.198.3:8000/hls/40/index.m3u8
+http://27.41.245.32:801/hls/43/index.m3u8
+http://39.164.138.145:8899/hls/45/index.m3u8
+http://58.255.200.159:808/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道",海南卫视
+http://183.237.71.182:40000/hls/45/index.m3u8
+http://222.85.198.92:8000/hls/42/index.m3u8
+http://223.95.198.3:8000/hls/41/index.m3u8
+http://27.41.245.32:801/hls/36/index.m3u8
+http://39.164.138.145:8899/hls/59/index.m3u8
+http://58.249.149.87:808/hls/37/index.m3u8
+http://58.255.200.159:808/hls/55/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
+http://122.114.131.154:4007/hls/43/index.m3u8
+http://183.237.71.182:40000/hls/49/index.m3u8
+http://223.95.198.3:8000/hls/42/index.m3u8
+http://27.41.245.32:801/hls/33/index.m3u8
+http://39.164.138.145:8899/hls/60/index.m3u8
+http://58.249.149.87:808/hls/34/index.m3u8
+http://58.255.200.159:808/hls/52/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
+http://112.27.235.94:8000/hls/43/index.m3u8
+http://122.114.131.154:4007/hls/41/index.m3u8
+http://183.237.71.182:40000/hls/41/index.m3u8
+http://223.95.198.3:8000/hls/43/index.m3u8
+http://27.41.245.32:801/hls/53/index.m3u8
+http://39.164.138.145:8899/hls/42/index.m3u8
+http://58.249.149.87:808/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道",云南卫视
+http://112.27.235.94:8000/hls/40/index.m3u8
+http://122.114.131.154:4001/hls/32/index.m3u8
+http://183.237.71.182:40000/hls/35/index.m3u8
+http://222.85.198.92:8000/hls/35/index.m3u8
+http://223.95.198.3:8000/hls/44/index.m3u8
+http://223.95.198.3:8000/hls/45/index.m3u8
+http://39.164.138.145:8899/hls/51/index.m3u8
+http://58.255.200.159:808/hls/54/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
+http://112.27.235.94:8000/hls/46/index.m3u8
+http://122.114.131.154:4007/hls/31/index.m3u8
+http://183.237.71.182:40000/hls/32/index.m3u8
+http://222.85.198.92:8000/hls/16/index.m3u8
+http://223.95.198.3:8000/hls/46/index.m3u8
+http://27.41.245.32:801/hls/35/index.m3u8
+http://39.164.138.145:8899/hls/43/index.m3u8
+http://58.249.149.87:808/hls/36/index.m3u8
+http://58.255.200.159:808/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道",青海卫视
+http://183.237.71.182:40000/hls/44/index.m3u8
+http://222.88.207.214:808/hls/50/index.m3u8
+http://223.95.198.3:8000/hls/47/index.m3u8
+http://27.41.245.32:801/hls/49/index.m3u8
+http://39.164.138.145:8899/hls/61/index.m3u8
+http://58.249.149.87:808/hls/45/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道",东南卫视
 http://112.27.235.94:8000/hls/38/index.m3u8
 http://122.114.131.154:4007/hls/28/index.m3u8
@@ -243,94 +488,6 @@ http://27.41.245.32:801/hls/32/index.m3u8
 http://39.164.138.145:8899/hls/55/index.m3u8
 http://58.249.149.87:808/hls/33/index.m3u8
 http://58.255.200.159:808/hls/46/index.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
-http://122.114.131.154:4007/hls/43/index.m3u8
-http://183.237.71.182:40000/hls/49/index.m3u8
-http://27.41.245.32:801/hls/33/index.m3u8
-http://39.164.138.145:8899/hls/60/index.m3u8
-http://58.249.149.87:808/hls/34/index.m3u8
-http://58.255.200.159:808/hls/52/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://122.114.131.154:4007/hls/34/index.m3u8
-http://183.237.71.182:40000/hls/39/index.m3u8
-http://221.14.142.118:8000/hls/31/index.m3u8
-http://27.41.245.32:801/hls/34/index.m3u8
-http://39.164.138.145:8899/hls/57/index.m3u8
-http://58.249.149.87:808/hls/35/index.m3u8
-http://58.255.200.159:808/hls/51/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
-http://112.27.235.94:8000/hls/46/index.m3u8
-http://122.114.131.154:4007/hls/31/index.m3u8
-http://183.237.71.182:40000/hls/32/index.m3u8
-http://222.85.198.92:8000/hls/16/index.m3u8
-http://27.41.245.32:801/hls/35/index.m3u8
-http://39.164.138.145:8899/hls/43/index.m3u8
-http://58.249.149.87:808/hls/36/index.m3u8
-http://58.255.200.159:808/hls/43/index.m3u8
-#EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://183.237.71.182:40000/hls/45/index.m3u8
-http://222.85.198.92:8000/hls/42/index.m3u8
-http://27.41.245.32:801/hls/36/index.m3u8
-http://39.164.138.145:8899/hls/59/index.m3u8
-http://58.249.149.87:808/hls/37/index.m3u8
-http://58.255.200.159:808/hls/55/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://112.27.235.94:8000/hls/39/index.m3u8
-http://183.237.71.182:40000/hls/37/index.m3u8
-http://222.85.198.92:8000/hls/41/index.m3u8
-http://27.41.245.32:801/hls/37/index.m3u8
-http://39.164.138.145:8899/hls/44/index.m3u8
-http://58.249.149.87:808/hls/38/index.m3u8
-http://58.255.200.159:808/hls/48/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://112.27.235.94:8000/hls/37/index.m3u8
-http://122.114.131.154:4001/hls/17/index.m3u8
-http://122.114.131.154:4007/hls/40/index.m3u8
-http://183.237.71.182:40000/hls/34/index.m3u8
-http://221.14.142.118:8000/hls/17/index.m3u8
-http://222.85.198.92:8000/hls/27/index.m3u8
-http://222.88.207.214:808/hls/32/index.m3u8
-http://27.41.245.32:801/hls/38/index.m3u8
-http://39.164.138.145:8899/hls/19/index.m3u8
-http://58.249.149.87:808/hls/39/index.m3u8
-http://58.255.200.159:808/hls/53/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://112.27.235.94:8000/hls/48/index.m3u8
-http://122.114.131.154:4001/hls/25/index.m3u8
-http://122.114.131.154:4007/hls/36/index.m3u8
-http://183.237.71.182:40000/hls/31/index.m3u8
-http://222.85.198.92:8000/hls/45/index.m3u8
-http://27.41.245.32:801/hls/39/index.m3u8
-http://39.164.138.145:8899/hls/38/index.m3u8
-http://58.249.149.87:808/hls/40/index.m3u8
-http://58.255.200.159:808/hls/33/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://122.114.131.154:4007/hls/45/index.m3u8
-http://183.237.71.182:40000/hls/40/index.m3u8
-http://27.41.245.32:801/hls/40/index.m3u8
-http://39.164.138.145:8899/hls/53/index.m3u8
-http://58.249.149.87:808/hls/41/index.m3u8
-http://58.255.200.159:808/hls/50/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://112.27.235.94:8000/hls/32/index.m3u8
-http://122.114.131.154:4001/hls/28/index.m3u8
-http://122.114.131.154:4007/hls/26/index.m3u8
-http://183.237.71.182:40000/hls/21/index.m3u8
-http://221.14.142.118:8000/hls/23/index.m3u8
-http://222.85.198.92:8000/hls/19/index.m3u8
-http://222.88.207.214:808/hls/27/index.m3u8
-http://27.41.245.32:801/hls/42/index.m3u8
-http://39.164.138.145:8899/hls/35/index.m3u8
-http://58.249.149.87:808/hls/42/index.m3u8
-http://58.255.200.159:808/hls/30/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://112.27.235.94:8000/hls/44/index.m3u8
-http://122.114.131.154:4001/hls/30/index.m3u8
-http://122.114.131.154:4007/hls/42/index.m3u8
-http://183.237.71.182:40000/hls/27/index.m3u8
-http://27.41.245.32:801/hls/43/index.m3u8
-http://39.164.138.145:8899/hls/45/index.m3u8
-http://58.255.200.159:808/hls/49/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
 http://112.27.235.94:8000/hls/49/index.m3u8
 http://183.237.71.182:40000/hls/43/index.m3u8
@@ -343,56 +500,15 @@ http://183.237.71.182:40000/hls/46/index.m3u8
 http://27.41.245.32:801/hls/48/index.m3u8
 http://39.164.138.145:8899/hls/54/index.m3u8
 http://58.249.149.87:808/hls/44/index.m3u8
-#EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道",青海卫视
-http://183.237.71.182:40000/hls/44/index.m3u8
-http://222.88.207.214:808/hls/50/index.m3u8
-http://27.41.245.32:801/hls/49/index.m3u8
-http://39.164.138.145:8899/hls/61/index.m3u8
-http://58.249.149.87:808/hls/45/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://112.27.235.94:8000/hls/34/index.m3u8
-http://122.114.131.154:4001/hls/22/index.m3u8
-http://122.114.131.154:4007/hls/39/index.m3u8
-http://183.237.71.182:40000/hls/26/index.m3u8
-http://221.14.142.118:8000/hls/28/index.m3u8
-http://222.85.198.92:8000/hls/43/index.m3u8
-http://27.41.245.32:801/hls/51/index.m3u8
-http://39.164.138.145:8899/hls/39/index.m3u8
-http://58.255.200.159:808/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道",山西卫视
 http://112.27.235.94:8000/hls/45/index.m3u8
+http://122.114.131.154:4007/hls/32/index.m3u8
 http://183.237.71.182:40000/hls/42/index.m3u8
 http://222.85.198.92:8000/hls/44/index.m3u8
 http://222.88.207.214:808/hls/49/index.m3u8
 http://27.41.245.32:801/hls/52/index.m3u8
 http://39.164.138.145:8899/hls/58/index.m3u8
 http://58.249.149.87:808/hls/47/index.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
-http://112.27.235.94:8000/hls/43/index.m3u8
-http://122.114.131.154:4007/hls/41/index.m3u8
-http://183.237.71.182:40000/hls/41/index.m3u8
-http://27.41.245.32:801/hls/53/index.m3u8
-http://39.164.138.145:8899/hls/42/index.m3u8
-http://58.249.149.87:808/hls/48/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://112.27.235.94:8000/hls/42/index.m3u8
-http://122.114.131.154:4001/hls/20/index.m3u8
-http://122.114.131.154:4007/hls/44/index.m3u8
-http://183.237.71.182:40000/hls/25/index.m3u8
-http://221.14.142.118:8000/hls/27/index.m3u8
-http://27.41.245.32:801/hls/55/index.m3u8
-http://39.164.138.145:8899/hls/50/index.m3u8
-http://58.255.200.159:808/hls/35/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://112.27.235.94:8000/hls/35/index.m3u8
-http://122.114.131.154:4001/hls/31/index.m3u8
-http://122.114.131.154:4007/hls/30/index.m3u8
-http://183.237.71.182:40000/hls/33/index.m3u8
-http://222.85.198.92:8000/hls/46/index.m3u8
-http://27.41.245.32:801/hls/54/index.m3u8
-http://39.164.138.145:8899/hls/48/index.m3u8
-http://58.249.149.87:808/hls/49/index.m3u8
-http://58.255.200.159:808/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" group-title="卫视频道",西藏卫视
 http://183.237.71.182:40000/hls/47/index.m3u8
 http://222.88.207.214:808/hls/54/index.m3u8
@@ -404,76 +520,6 @@ http://183.237.71.182:40000/hls/48/index.m3u8
 http://222.88.207.214:808/hls/53/index.m3u8
 http://27.41.245.32:801/hls/57/index.m3u8
 http://58.249.149.87:808/hls/51/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://112.27.235.94:8000/hls/29/index.m3u8
-http://122.114.131.154:4001/hls/18/index.m3u8
-http://122.114.131.154:4007/hls/24/index.m3u8
-http://183.237.71.182:40000/hls/20/index.m3u8
-http://221.14.142.118:8000/hls/24/index.m3u8
-http://222.85.198.92:8000/hls/18/index.m3u8
-http://222.88.207.214:808/hls/25/index.m3u8
-http://27.41.245.32:801/hls/58/index.m3u8
-http://39.164.138.145:8899/hls/33/index.m3u8
-http://58.249.149.87:808/hls/52/index.m3u8
-http://58.255.200.159:808/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://112.27.235.94:8000/hls/36/index.m3u8
-http://122.114.131.154:4007/hls/38/index.m3u8
-http://183.237.71.182:40000/hls/36/index.m3u8
-http://27.41.245.32:801/hls/59/index.m3u8
-http://39.164.138.145:8899/hls/52/index.m3u8
-http://58.249.149.87:808/hls/53/index.m3u8
-http://58.255.200.159:808/hls/41/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://112.27.235.94:8000/hls/28/index.m3u8
-http://122.114.131.154:4001/hls/19/index.m3u8
-http://122.114.131.154:4007/hls/22/index.m3u8
-http://183.237.71.182:40000/hls/22/index.m3u8
-http://221.14.142.118:8000/hls/26/index.m3u8
-http://222.88.207.214:808/hls/26/index.m3u8
-http://39.164.138.145:8899/hls/34/index.m3u8
-http://58.249.149.87:808/hls/32/index.m3u8
-http://58.255.200.159:808/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://112.27.235.94:8000/hls/33/index.m3u8
-http://122.114.131.154:4001/hls/24/index.m3u8
-http://122.114.131.154:4007/hls/35/index.m3u8
-http://183.237.71.182:40000/hls/28/index.m3u8
-http://221.14.142.118:8000/hls/30/index.m3u8
-http://39.164.138.145:8899/hls/47/index.m3u8
-http://58.249.149.87:808/hls/27/index.m3u8
-http://58.255.200.159:808/hls/32/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://112.27.235.94:8000/hls/41/index.m3u8
-http://122.114.131.154:4001/hls/23/index.m3u8
-http://122.114.131.154:4007/hls/37/index.m3u8
-http://183.237.71.182:40000/hls/29/index.m3u8
-http://221.14.142.118:8000/hls/32/index.m3u8
-http://39.164.138.145:8899/hls/49/index.m3u8
-http://58.255.200.159:808/hls/34/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://112.27.235.94:8000/hls/47/index.m3u8
-http://122.114.131.154:4001/hls/29/index.m3u8
-http://122.114.131.154:4007/hls/23/index.m3u8
-http://183.237.71.182:40000/hls/30/index.m3u8
-http://221.14.142.118:8000/hls/37/index.m3u8
-http://39.164.138.145:8899/hls/41/index.m3u8
-http://58.255.200.159:808/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道",云南卫视
-http://112.27.235.94:8000/hls/40/index.m3u8
-http://122.114.131.154:4001/hls/32/index.m3u8
-http://183.237.71.182:40000/hls/35/index.m3u8
-http://222.85.198.92:8000/hls/35/index.m3u8
-http://39.164.138.145:8899/hls/51/index.m3u8
-http://58.255.200.159:808/hls/54/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道",广东卫视
-http://112.27.235.94:8000/hls/30/index.m3u8
-http://122.114.131.154:4007/hls/33/index.m3u8
-http://183.237.71.182:40000/hls/63/index.m3u8
-http://222.85.198.92:8000/hls/47/index.m3u8
-http://39.164.138.145:8899/hls/37/index.m3u8
-http://58.249.149.87:808/hls/25/index.m3u8
-http://58.255.200.159:808/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
 http://183.237.71.182:40000/hls/50/index.m3u8
 http://58.249.149.87:808/hls/31/index.m3u8
@@ -482,14 +528,27 @@ http://183.237.71.182:40000/hls/57/index.m3u8
 http://58.249.149.87:808/hls/46/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
 http://183.237.71.182:40000/hls/59/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-发现之旅" group-title="其它频道",CCTV-发现之旅
+http://223.95.198.3:8000/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" group-title="其它频道",凤凰中文
+http://223.95.198.3:8000/hls/20/index.m3u8
+http://27.41.245.32:801/hls/205/index.m3u8
+#EXTINF:-1 tvg-name="NBTV-1" group-title="其它频道",NBTV-1
+http://223.95.198.3:8000/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="NBTV-2" group-title="其它频道",NBTV-2
+http://223.95.198.3:8000/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="浙江新闻" group-title="其它频道",浙江新闻
+http://223.95.198.3:8000/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="浙江民生" group-title="其它频道",浙江民生
+http://223.95.198.3:8000/hls/51/index.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" group-title="其它频道",浙江少儿
+http://223.95.198.3:8000/hls/52/index.m3u8
 #EXTINF:-1 tvg-name="汕头新闻综合" group-title="其它频道",汕头新闻综合
 http://27.41.245.32:801/hls/901/index.m3u8
 #EXTINF:-1 tvg-name="汕头经济生活" group-title="其它频道",汕头经济生活
 http://27.41.245.32:801/hls/903/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭电影" group-title="其它频道",CHC家庭电影
 http://27.41.245.32:801/hls/905/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" group-title="其它频道",凤凰中文
-http://27.41.245.32:801/hls/205/index.m3u8
 #EXTINF:-1 tvg-name="潮州综合" group-title="其它频道",潮州综合
 http://27.41.245.32:801/hls/200/index.m3u8
 #EXTINF:-1 tvg-name="揭阳综合" group-title="其它频道",揭阳综合
@@ -614,7 +673,6 @@ http://112.27.235.94:8000/hls/50/index.m3u8
 http://183.237.71.182:40000/hls/51/index.m3u8
 http://39.164.138.145:8899/hls/63/index.m3u8
 #EXTINF:-1 tvg-name="炫动卡通" group-title="其它频道",炫动卡通
-http://122.114.131.154:4007/hls/32/index.m3u8
 http://183.237.71.182:40000/hls/53/index.m3u8
 #EXTINF:-1 tvg-name="CETV-1" group-title="其它频道",CETV-1
 http://183.237.71.182:40000/hls/54/index.m3u8
@@ -650,114 +708,90 @@ http://58.249.149.87:808/hls/21/index.m3u8
 http://112.255.145.243:8083/hls/1/index.m3u8
 http://120.224.84.170:8085/hls/1/index.m3u8
 http://144.0.23.104:8085/hls/1/index.m3u8
-http://144.0.23.37:8085/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="2" group-title="其它频道",2
 http://112.255.145.243:8083/hls/2/index.m3u8
 http://120.224.84.170:8085/hls/2/index.m3u8
 http://144.0.23.104:8085/hls/2/index.m3u8
-http://144.0.23.37:8085/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="3" group-title="其它频道",3
 http://112.255.145.243:8083/hls/3/index.m3u8
 http://120.224.84.170:8085/hls/3/index.m3u8
 http://144.0.23.104:8085/hls/3/index.m3u8
-http://144.0.23.37:8085/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="4" group-title="其它频道",4
 http://112.255.145.243:8083/hls/4/index.m3u8
 http://120.224.84.170:8085/hls/4/index.m3u8
 http://144.0.23.104:8085/hls/4/index.m3u8
-http://144.0.23.37:8085/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="5" group-title="其它频道",5
 http://112.255.145.243:8083/hls/5/index.m3u8
 http://120.224.84.170:8085/hls/5/index.m3u8
 http://144.0.23.104:8085/hls/5/index.m3u8
-http://144.0.23.37:8085/hls/5/index.m3u8
 #EXTINF:-1 tvg-name="6" group-title="其它频道",6
 http://112.255.145.243:8083/hls/6/index.m3u8
 http://120.224.84.170:8085/hls/6/index.m3u8
 http://144.0.23.104:8085/hls/6/index.m3u8
-http://144.0.23.37:8085/hls/6/index.m3u8
 #EXTINF:-1 tvg-name="7" group-title="其它频道",7
 http://112.255.145.243:8083/hls/7/index.m3u8
 http://120.224.84.170:8085/hls/7/index.m3u8
 http://144.0.23.104:8085/hls/7/index.m3u8
-http://144.0.23.37:8085/hls/7/index.m3u8
 #EXTINF:-1 tvg-name="8" group-title="其它频道",8
 http://112.255.145.243:8083/hls/8/index.m3u8
 http://120.224.84.170:8085/hls/8/index.m3u8
 http://144.0.23.104:8085/hls/8/index.m3u8
-http://144.0.23.37:8085/hls/8/index.m3u8
 #EXTINF:-1 tvg-name="9" group-title="其它频道",9
 http://112.255.145.243:8083/hls/9/index.m3u8
 http://120.224.84.170:8085/hls/9/index.m3u8
 http://144.0.23.104:8085/hls/9/index.m3u8
-http://144.0.23.37:8085/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="10" group-title="其它频道",10
 http://112.255.145.243:8083/hls/10/index.m3u8
 http://120.224.84.170:8085/hls/10/index.m3u8
 http://144.0.23.104:8085/hls/10/index.m3u8
-http://144.0.23.37:8085/hls/10/index.m3u8
 #EXTINF:-1 tvg-name="11" group-title="其它频道",11
 http://112.255.145.243:8083/hls/11/index.m3u8
 http://120.224.84.170:8085/hls/11/index.m3u8
 http://144.0.23.104:8085/hls/11/index.m3u8
-http://144.0.23.37:8085/hls/11/index.m3u8
 #EXTINF:-1 tvg-name="12" group-title="其它频道",12
 http://112.255.145.243:8083/hls/12/index.m3u8
 http://120.224.84.170:8085/hls/12/index.m3u8
 http://144.0.23.104:8085/hls/12/index.m3u8
-http://144.0.23.37:8085/hls/12/index.m3u8
 #EXTINF:-1 tvg-name="13" group-title="其它频道",13
 http://112.255.145.243:8083/hls/13/index.m3u8
 http://120.224.84.170:8085/hls/13/index.m3u8
 http://144.0.23.104:8085/hls/13/index.m3u8
-http://144.0.23.37:8085/hls/13/index.m3u8
 #EXTINF:-1 tvg-name="14" group-title="其它频道",14
 http://112.255.145.243:8083/hls/14/index.m3u8
 http://120.224.84.170:8085/hls/14/index.m3u8
 http://144.0.23.104:8085/hls/14/index.m3u8
-http://144.0.23.37:8085/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="15" group-title="其它频道",15
 http://112.255.145.243:8083/hls/15/index.m3u8
 http://120.224.84.170:8085/hls/15/index.m3u8
 http://144.0.23.104:8085/hls/15/index.m3u8
-http://144.0.23.37:8085/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="16" group-title="其它频道",16
 http://112.255.145.243:8083/hls/16/index.m3u8
 http://120.224.84.170:8085/hls/16/index.m3u8
 http://144.0.23.104:8085/hls/16/index.m3u8
-http://144.0.23.37:8085/hls/16/index.m3u8
 #EXTINF:-1 tvg-name="17" group-title="其它频道",17
 http://120.224.84.170:8085/hls/17/index.m3u8
 http://144.0.23.104:8085/hls/17/index.m3u8
-http://144.0.23.37:8085/hls/17/index.m3u8
 #EXTINF:-1 tvg-name="18" group-title="其它频道",18
 http://120.224.84.170:8085/hls/18/index.m3u8
 http://144.0.23.104:8085/hls/18/index.m3u8
-http://144.0.23.37:8085/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="19" group-title="其它频道",19
 http://120.224.84.170:8085/hls/19/index.m3u8
 http://144.0.23.104:8085/hls/19/index.m3u8
-http://144.0.23.37:8085/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="20" group-title="其它频道",20
 http://120.224.84.170:8085/hls/20/index.m3u8
 http://144.0.23.104:8085/hls/20/index.m3u8
-http://144.0.23.37:8085/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="21" group-title="其它频道",21
 http://120.224.84.170:8085/hls/21/index.m3u8
 http://144.0.23.104:8085/hls/21/index.m3u8
-http://144.0.23.37:8085/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="22" group-title="其它频道",22
 http://120.224.84.170:8085/hls/22/index.m3u8
 http://144.0.23.104:8085/hls/22/index.m3u8
-http://144.0.23.37:8085/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="23" group-title="其它频道",23
 http://120.224.84.170:8085/hls/23/index.m3u8
 http://144.0.23.104:8085/hls/23/index.m3u8
-http://144.0.23.37:8085/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="24" group-title="其它频道",24
 http://120.224.84.170:8085/hls/24/index.m3u8
 http://144.0.23.104:8085/hls/24/index.m3u8
-http://144.0.23.37:8085/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="纪实人文" group-title="其它频道",纪实人文
 http://58.249.149.87:808/hls/54/index.m3u8
 #EXTINF:-1 tvg-name="IPTV6+" group-title="其它频道",IPTV6+
