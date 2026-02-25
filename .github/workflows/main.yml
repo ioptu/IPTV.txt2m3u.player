@@ -47,12 +47,24 @@ jobs:
             
     # --- httop 源处理  ---
     - name: Process httop Files
-      if: env.ONLY_UPDATE_MIGU != 'true'    
+      if: env.ONLY_UPDATE_MIGU != 'false'    
       continue-on-error: true
       run: |
+            #地址失效
             wget https://httop.top/hotel.m3u -O hp.m3u  -t 2 --waitretry=5
             python ./scripts/m3u_merger.py -i hp.m3u -o hp_merged.m3u
             python ./scripts/url_sortergr.py -i hp_merged.m3u -o hp_merged.m3u -gr '央视,卫视,其它' -gs
+            
+    # --- hotel 源处理 ---
+    - name: Process hotel Files
+      if: env.ONLY_UPDATE_MIGU != 'true'    
+      continue-on-error: true
+      run: |
+            #与httop同样输出httop.m3u,最多同时启用一个
+            wget http://120.27.21.75:20085/sub?biWVtPA3=txt -O htl.txt  -t 2 --waitretry=5
+            node ./scripts/txt2m3u.js -i htl.txt -o htl.m3u
+            python ./scripts/m3u_merger.py -i htl.m3u -o htl_merged.m3u
+            python ./scripts/url_sortergr.py -i htl_merged.m3u -o htl_merged.m3u -gr '央视,卫视,其他' -gs            
             
     # --- ---
     - name: Process iptv Files
@@ -206,6 +218,8 @@ jobs:
           [ -f ../tv5op_merged.m3u ] && mv ../tv5op_merged.m3u ./港澳_merged.m3u || true
           [ -f ../hp.m3u ] && mv ../hp.m3u ./httop.m3u || true
           [ -f ../hp_merged.m3u ] && mv ../hp_merged.m3u ./httop_merged.m3u || true 
+          [ -f ../htl.m3u ] && mv ../htl.m3u ./httop.m3u || true
+          [ -f ../htl_merged.m3u ] && mv ../htl_merged.m3u ./httop_merged.m3u || true          
           [ -f ../gop.m3u ] && mv ../gop.m3u ./iptv.m3u || true
           [ -f ../gop_merged.m3u ] && mv ../gop_merged.m3u ./iptv_merged.m3u || true
           [ -f ../ip.m3u ] && mv ../ip.m3u ./iptv.m3u || true
