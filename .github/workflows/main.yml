@@ -64,7 +64,18 @@ jobs:
             wget http://120.27.21.75:20085/sub?biWVtPA3=txt -O htl.txt  -t 2 --waitretry=5
             node ./scripts/txt2m3u.js -i htl.txt -o htl.m3u
             python ./scripts/m3u_merger.py -i htl.m3u -o htl_merged.m3u
-            python ./scripts/url_sortergr.py -i htl_merged.m3u -o htl_merged.m3u -gr '央视,卫视,其他' -gs            
+            python ./scripts/url_sortergr.py -i htl_merged.m3u -o htl_merged.m3u -gr '央视,卫视,其他' -gs  
+
+    # --- hotel 源处理 2 ---
+    - name: Process hotel Files 2
+      if: env.ONLY_UPDATE_MIGU != 'true'    
+      continue-on-error: true
+      run: |
+            wget https://github.com/zhlshrimp/Hotel_m3u/raw/refs/heads/main/lt.txt -O hlt.txt -t 2 --waitretry=5
+            node ./scripts/txt2m3u.js -i hlt.txt -o hlt.m3u
+            python ./scripts/extract.py --input hlt.m3u --output hlt.m3u --eoru ',?' -n -r
+            python ./scripts/m3u_merger.py -i hlt.m3u -o hlt_merged.m3u
+            python ./scripts/url_sortergr.py -i hlt_merged.m3u -o hlt_merged.m3u -gr '央视,卫视,其他' -gs              
             
     # --- ---
     - name: Process iptv Files
@@ -219,7 +230,9 @@ jobs:
           [ -f ../hp.m3u ] && mv ../hp.m3u ./httop.m3u || true
           [ -f ../hp_merged.m3u ] && mv ../hp_merged.m3u ./httop_merged.m3u || true 
           [ -f ../htl.m3u ] && mv ../htl.m3u ./httop.m3u || true
-          [ -f ../htl_merged.m3u ] && mv ../htl_merged.m3u ./httop_merged.m3u || true          
+          [ -f ../htl_merged.m3u ] && mv ../htl_merged.m3u ./httop_merged.m3u || true 
+          [ -f ../hlt.m3u ] && mv ../hlt.m3u ./htllt.m3u || true
+          [ -f ../hlt_merged.m3u ] && mv ../hlt_merged.m3u ./htllt_merged.m3u || true           
           [ -f ../gop.m3u ] && mv ../gop.m3u ./iptv.m3u || true
           [ -f ../gop_merged.m3u ] && mv ../gop_merged.m3u ./iptv_merged.m3u || true
           [ -f ../ip.m3u ] && mv ../ip.m3u ./iptv.m3u || true
