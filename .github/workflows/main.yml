@@ -74,7 +74,7 @@ jobs:
       run: |
             wget https://github.com/zhlshrimp/Hotel_m3u/raw/refs/heads/main/lt.txt -O hlt.txt -t 2 --waitretry=5
             node ./scripts/txt2m3u.js -i hlt.txt -o hlt.m3u
-            python ./scripts/extract.py --input hlt.m3u --output hlt.m3u --eoru ',?' -n -r
+            python ./scripts/extract.py --input hlt.m3u --output hlt.m3u --eoru '卫视高清,?' -n -r
             python ./scripts/m3u_merger.py -i hlt.m3u -o hlt_merged.m3u
             python ./scripts/url_sortergr.py -i hlt_merged.m3u -o hlt_merged.m3u -gr '央视,卫视,其他' -gs  
             
