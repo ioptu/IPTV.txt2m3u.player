@@ -467,8 +467,6 @@ http://183.191.48.31:9003/hls/26/index.m3u8
 http://183.191.51.232:9003/hls/26/index.m3u8
 http://183.191.51.41:9003/hls/26/index.m3u8
 http://42.48.45.143:808/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视高清" group-title="卫视",广东卫视高清
-http://171.38.150.222:9003/hls/134/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" group-title="卫视",广西卫视
 http://124.93.18.239:9003/hls/37/index.m3u8
 http://171.120.249.236:9003/hls/27/index.m3u8
@@ -485,8 +483,6 @@ http://183.191.48.31:9003/hls/27/index.m3u8
 http://183.191.51.232:9003/hls/27/index.m3u8
 http://183.191.51.41:9003/hls/27/index.m3u8
 http://42.48.45.143:808/hls/50/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视高清" group-title="卫视",广西卫视高清
-http://171.38.150.222:9003/hls/135/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视" group-title="卫视",延边卫视
 http://124.93.18.239:9003/hls/60/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" group-title="卫视",新疆卫视
@@ -559,8 +555,6 @@ http://42.227.89.129:9003/hls/100/index.m3u8
 http://124.93.18.239:9003/hls/29/index.m3u8
 http://171.120.94.112:9003/hls/49/index.m3u8
 http://42.48.45.143:808/hls/43/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视高清" group-title="卫视",浙江卫视高清
-http://171.38.150.222:9003/hls/132/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" group-title="卫视",海南卫视
 http://124.93.18.239:9003/hls/43/index.m3u8
 http://171.120.249.236:9003/hls/28/index.m3u8
