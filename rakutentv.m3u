@@ -156,7 +156,7 @@ https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-chno=409 tvg-id="travelxp-eng" tvg-name="Travelxp" group-title="lifestyle",Travelxp
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-chno=410 tvg-id="med-tv" tvg-name="Med.TV" group-title="lifestyle",Med.TV
-https://med-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiMzI4YWMxODMtZGMzNS00MjE2LTljYjctNmIzMTg1MTM3MDIwIiwibWt0IjoidWsiLCJjaCI6IjEiLCJwdGYiOiJ1bmtub3duIn0%3D/hls/main.m3u8
+https://med-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiZDczZDk2N2EtMzJjNi00ZjEyLTk3ZDMtMDNhOGZlMDI3YzIwIiwibWt0IjoidWsiLCJjaCI6IjEiLCJwdGYiOiJ1bmtub3duIn0%3D/hls/main.m3u8
 #EXTINF:-1 tvg-chno=411 tvg-id="myzen-fit-uk" tvg-name="Wellbeing TV" group-title="lifestyle",Wellbeing TV
 https://amg01255-secomcofites-my-myzen-en-rakuten-cyxqh.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-en-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-chno=413 tvg-id="cgtn-china-travel" tvg-name="China Travel" group-title="lifestyle",China Travel
@@ -322,7 +322,7 @@ https://aftershock-msa-mco-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b7
 #EXTINF:-1 tvg-chno=846 tvg-id="mayday-air-disaster" tvg-name="Mayday: Air Disaster" group-title="docs_&_factual",Mayday: Air Disaster
 https://c5424e34.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX01heWRheUFpckRpc2FzdGVyX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-chno=877 tvg-id="euronews-live-eng" tvg-name="Euronews LIVE" group-title="news",Euronews LIVE
-https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503-restreaming/bitok/eyJzdGlkIjoiZGE0OTYyODUtZDVjMy00YzRkLTg1YjAtNDMwNTFiNDJlYmJmIiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/live/eds/euronews-en/26031/euronews-en.m3u8
+https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503-restreaming/bitok/eyJzdGlkIjoiNWYyNmVlMTYtOWMzYy00ODUwLWIyZWQtOTFiZTE1YmYzMzA5IiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/live/eds/euronews-en/26031/euronews-en.m3u8
 #EXTINF:-1 tvg-chno=880 tvg-id="ntd-tv" tvg-name="NTD News" group-title="news",NTD News
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=881 tvg-id="the-reuters-60" tvg-name="The Reuters 60" group-title="news",The Reuters 60
@@ -332,7 +332,7 @@ https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-chno=888 tvg-id="bloomberg-tv-plus" tvg-name="Bloomberg TV+" group-title="news",Bloomberg TV+
 https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-chno=892 tvg-id="africanews-eng" tvg-name="Africanews" group-title="news",Africanews
-https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiZmZlNjExODktYTE1My00ZGI4LWJiMTMtODA5ZjU3YzM4MjYxIiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiYjg5ODAzZjAtM2FjZC00YmE0LWE3M2ItYThiOTQwOGMwYzA1IiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-chno=893 tvg-id="cgtn" tvg-name="CGTN" group-title="news",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-chno=894 tvg-id="newsworld" tvg-name="NewsWorld" group-title="news",NewsWorld
