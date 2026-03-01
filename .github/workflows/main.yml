@@ -1,7 +1,7 @@
 name: M3u Fetch And Modify
 on: 
-  #schedule: 
-    #- cron: 51 * * * *
+  schedule: 
+    - cron: 51 * * * *
   workflow_dispatch:
   repository_dispatch: #允许外部触发,cf worker定时任务延迟在1分钟以内
     types: [tvcron]
