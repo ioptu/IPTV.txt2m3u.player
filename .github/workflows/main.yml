@@ -11,16 +11,28 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write    # 允许推送代码
-    env:
-      ONLY_UPDATE_MIGU: false    # 在这里修改：true 表示只更新 migu_merged.m3u，false 表示更新所有文件
-    
+    #env:
+    #  ONLY_UPDATE_MIGU: false    # 在这里修改：true 表示只更新 migu_merged.m3u，false 表示更新所有文件
     steps: 
+
     - name: Checkout code
       uses: actions/checkout@v5
 
     - name: Install Dependencies
       run: pip install requests
-
+      
+    - name: Set Environment
+      run: |
+        # 获取当前 UTC 小时
+        CURRENT_HOUR=$(date -u +%H)
+        
+        # 如果是 09 点或者是手动触发，则为设置为 false
+        if [[ "$CURRENT_HOUR" == "09" || "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+          echo "ONLY_UPDATE_MIGU=false" >> $GITHUB_ENV
+        else
+          echo "ONLY_UPDATE_MIGU=true" >> $GITHUB_ENV
+        fi
+        
     # ---  Migu 处理---
     - name: Process Migu Files
       continue-on-error: true     # 即使失败也会继续执行后续块 
@@ -47,7 +59,7 @@ jobs:
             
     # --- httop 源处理  ---
     - name: Process httop Files
-      if: env.ONLY_UPDATE_MIGU != 'false'    
+      if: false # env.ONLY_UPDATE_MIGU != 'false'    
       continue-on-error: true
       run: |
             #地址失效
@@ -93,7 +105,7 @@ jobs:
             
     # --- ---
     - name: Process iptv Files
-      if: env.ONLY_UPDATE_MIGU != 'false'    
+      if: false # env.ONLY_UPDATE_MIGU != 'false'    
       continue-on-error: true
       run: |
             #无需频繁更新  # 与guovi源最多同时启用一个，都是处理源并输出iptv.m3u
@@ -105,7 +117,7 @@ jobs:
 
     # --- guovin 源处理  ---
     - name: Process guovin Files
-      if: env.ONLY_UPDATE_MIGU != 'false'    
+      if: false # env.ONLY_UPDATE_MIGU != 'false'    
       continue-on-error: true
       run: |
             wget https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.m3u -O gop.m3u  -t 2 --waitretry=5
@@ -118,7 +130,7 @@ jobs:
 
     # ---  huuc 源处理  ---
     - name: Process luuc Files
-      if: env.ONLY_UPDATE_MIGU != 'false'    
+      if: false # env.ONLY_UPDATE_MIGU != 'false'    
       continue-on-error: true
       run: |
             #无需频繁更新
@@ -128,7 +140,7 @@ jobs:
             
     # ---  lnott 源处理  ---
     - name: Process lnott Files
-      if: env.ONLY_UPDATE_MIGU != 'false'
+      if: false # env.ONLY_UPDATE_MIGU != 'false'
       continue-on-error: true
       run: |
             #无需频繁更新
@@ -139,7 +151,7 @@ jobs:
 
     # ---  101.qzz.io 源处理  ---
     - name: Process 101.qzz.io Files
-      if: env.ONLY_UPDATE_MIGU != 'false'
+      if: false # env.ONLY_UPDATE_MIGU != 'false'
       continue-on-error: true
       run: |
             #无需频繁更新
@@ -150,7 +162,7 @@ jobs:
             
     # --- ---       
     - name: Process 港澳频道 Files
-      if: env.ONLY_UPDATE_MIGU != 'false'
+      if: false # env.ONLY_UPDATE_MIGU != 'false'
       continue-on-error: true
       run: |
             #无需频繁更新
@@ -160,7 +172,7 @@ jobs:
             
     # --- qqqtv 源处理  ---
     - name: Process Lite Files
-      if: env.ONLY_UPDATE_MIGU != 'false'
+      if: false # env.ONLY_UPDATE_MIGU != 'false'
       continue-on-error: true
       run: |
             #
@@ -184,7 +196,7 @@ jobs:
 
     # --- Catvod 处理 ---
     - name: Process Catvod Files
-      if: env.ONLY_UPDATE_MIGU != 'false'
+      if: false # env.ONLY_UPDATE_MIGU != 'false'
       continue-on-error: true
       run: |
         wget https://github.com/xiaoran29/core/raw/refs/heads/main/output/lite.m3u -O lite.m3u -t 2 --waitretry=5
@@ -194,7 +206,7 @@ jobs:
         
     # ---  汇总处理 ---
     - name: Final Merge 1
-      if: env.ONLY_UPDATE_MIGU != 'false'
+      if: false # env.ONLY_UPDATE_MIGU != 'false'
       continue-on-error: true
       run: |
         python ./scripts/m3u_merger.py -i t3op2_ms.m3u mg_m.m3u huuc_ipv6.m3u sh.lnott.top.m3u cdn6.101.qzz.io.m3u -o t0op_m.m3u
@@ -203,7 +215,7 @@ jobs:
         #python ./scripts/m3u_header_tool.py -i t0op_ms.m3u -c -E "https://gh-proxy.org/github.com/ioptu/migu_video/raw/refs/heads/main/e.xml"
         
     - name: Final Merge 2
-      if: env.ONLY_UPDATE_MIGU != 'false'
+      if: false # env.ONLY_UPDATE_MIGU != 'false'
       continue-on-error: true
       run: |       
         python ./scripts/url_sortergr.py -i t0op_m.m3u -o ttvop_m.m3u -gr "央视" -rg "央视" 
