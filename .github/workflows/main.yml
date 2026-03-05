@@ -55,6 +55,7 @@ jobs:
             #wget https://iptv-org.github.io/iptv/index.m3u -O io.m3u  -t 2 --waitretry=5
             #python ./scripts/extract.py --input io.m3u --output io.m3u --eoru 'pluto,pluto' -n
             #python ./scripts/m3u_merger.py -i io.m3u -o io_merged.m3u
+            wget https://github.com/KerabuTogee/Pluto-TV-US/raw/refs/heads/main/output/plutotv_us.m3u8 -O io.m3u  -t 2 --waitretry=5
             wget https://github.com/482349841209/rakuten-m3u-generator/raw/refs/heads/master/output/rakuten.m3u -O rkt.m3u  -t 2 --waitretry=5
             
     # --- httop 源处理  ---
