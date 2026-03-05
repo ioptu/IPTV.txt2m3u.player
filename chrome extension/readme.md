@@ -7,17 +7,10 @@
 - URL过滤黑名单 
 - 自定义Headers
 - 多码率、音轨、字幕切换(需直播源支持)，以及字幕翻译(使用chrome内置离线AI翻译接口)
+
 ## 使用方法:
 - 打开"开发者模式"，"加载已解压的扩展程序"即可。
 ---
-
-## .m3u8
-> Chrome 已原生支持 .m3u8 链接，但若链接不含 .m3u8 关键字且 Content-Type 非标准 HLS MIME，Chrome 亦无法播放。 相比之下，本扩展程序（基于 [hls.js-v1.6.15](https://github.com/video-dev/hls.js/blob/master/README.md)）兼容性更强，可规避上述问题。
->
-
-## http
-> 在浏览器地址栏输入的某些http开头的源播放失败可能与浏览器开启了自动https有关
-
 
 ## 离线安装crx
 > [利用组策略启用离线安装的crx（edge示例）](https://learn.microsoft.com/zh-cn/deployedge/microsoft-edge-manage-extensions-policies#allow-or-block-extensions-in-group-policy)
@@ -30,4 +23,9 @@
 >
 > ["打包扩展"获得crx（edge示例）](https://learn.microsoft.com/zh-cn/deployedge/microsoft-edge-manage-extensions-webstore#publish-an-extension)
 
+
+## 其它
+> Chrome 已原生支持 .m3u8 链接，但若链接不含 .m3u8 关键字且 Content-Type 非标准 HLS MIME，Chrome 亦无法播放。 相比之下，本扩展程序（基于 [hls.js-v1.6.15](https://github.com/video-dev/hls.js/blob/master/README.md)）兼容性更强，可规避上述问题。
+>
+> 在浏览器地址栏输入的某些http开头的源播放失败可能与浏览器开启了自动https有关
 
