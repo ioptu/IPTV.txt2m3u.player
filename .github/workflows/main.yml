@@ -26,8 +26,8 @@ jobs:
         # 获取当前 UTC 小时
         CURRENT_HOUR=$(date -u +%H)
         
-        # 如果是 09 点或者是手动触发，则为设置为 false
-        if [[ "$CURRENT_HOUR" == "09" || "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+        # 如果是 09、21 点或者是手动触发，则为设置为 false
+        if [[ "$CURRENT_HOUR" == "09" || "$CURRENT_HOUR" == "21" || "${{ github.event_name }}" == "workflow_dispatch" ]]; then
           echo "ONLY_UPDATE_MIGU=false" >> $GITHUB_ENV
         else
           echo "ONLY_UPDATE_MIGU=true" >> $GITHUB_ENV
