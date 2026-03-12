@@ -1,7 +1,7 @@
 name: M3u Fetch And Modify
 on: 
   schedule: 
-    - cron: 26 * * * *
+    - cron: 10 * * * *
   workflow_dispatch:
   repository_dispatch: #允许外部触发,cf worker定时任务延迟在1分钟以内
     types: [tvcron]
@@ -48,42 +48,8 @@ jobs:
       if: env.ONLY_UPDATE_MIGU != 'true'    
       continue-on-error: true
       run: |
-            wget https://github.com/Afiq0/Pluto-TV-Playlists/raw/refs/heads/main/output/plutotv_us.m3u8 -O io.m3u  -t 2 --waitretry=5
-            wget https://github.com/482349841209/rakuten-m3u-generator/raw/refs/heads/master/output/rakuten.m3u -O rkt.m3u  -t 2 --waitretry=5
-            
-    # --- hotel 源处理 ---
-    - name: Process hotel Files
-      if: false # env.ONLY_UPDATE_MIGU != 'true'    
-      continue-on-error: true
-      run: |
-            wget http://120.27.21.75:20085/sub?biWVtPA3=txt -O htl.txt  -t 2 --waitretry=5 -T 30
-            node ./scripts/txt2m3u.js -i htl.txt -o htl.m3u
-            python ./scripts/m3u_purifier.py -i htl.m3u -n -mt 10
-            python ./scripts/m3u_merger.py -i htl.m3u -o htl_merged.m3u
-            python ./scripts/url_sortergr.py -i htl_merged.m3u -o htl_merged.m3u -gr '央视,卫视,其他' -gs  
-            
-
-    # --- hotel 源处理 2 ---
-    - name: Process hotel Files 2
-      if: false # env.ONLY_UPDATE_MIGU != 'true'    
-      continue-on-error: true
-      run: |
-            wget https://github.com/zhlshrimp/Hotel_m3u/raw/refs/heads/main/lt.txt -O hlt.txt -t 2 --waitretry=5
-            node ./scripts/txt2m3u.js -i hlt.txt -o hlt.m3u
-            python ./scripts/extract.py --input hlt.m3u --output hlt.m3u --eoru '卫视高清,?' -n -r
-            python ./scripts/m3u_purifier.py -i hlt.m3u -n -mt 10
-            python ./scripts/m3u_merger.py -i hlt.m3u -o hlt_merged.m3u
-            python ./scripts/url_sortergr.py -i hlt_merged.m3u -o hlt_merged.m3u -gr '央视,卫视,其他' -gs  
-            
-            wget https://github.com/zhlshrimp/Hotel_m3u/raw/refs/heads/main/dx.txt -O hdx.txt -t 2 --waitretry=5
-            node ./scripts/txt2m3u.js -i hdx.txt -o hdx.m3u
-            python ./scripts/m3u_purifier.py -i hdx.m3u -n -mt 10
-            python ./scripts/m3u_merger.py -i hdx.m3u -o hdx_merged.m3u
-
-            wget https://github.com/zhlshrimp/Hotel_m3u/raw/refs/heads/main/yd.txt -O hyd.txt -t 2 --waitretry=5
-            node ./scripts/txt2m3u.js -i hyd.txt -o hyd.m3u
-            python ./scripts/m3u_purifier.py -i hyd.m3u -n -mt 10
-            python ./scripts/m3u_merger.py -i hyd.m3u -o hyd_merged.m3u
+        wget https://github.com/Afiq0/Pluto-TV-Playlists/raw/refs/heads/main/output/plutotv_us.m3u8 -O io.m3u  -t 2 --waitretry=5
+        wget https://github.com/482349841209/rakuten-m3u-generator/raw/refs/heads/master/output/rakuten.m3u -O rkt.m3u  -t 2 --waitretry=5
 
     # ---  提交推送 (这个步骤不建议加 continue-on-error，因为它是最终目标) ---
     - name: CommitAndPush
@@ -99,12 +65,6 @@ jobs:
         [ -f ../mig_d.m3u ] && mv ../mig_d.m3u ./migu.m3u || echo "migu skip"
         
         if [ "$ONLY_UPDATE_MIGU" != "true" ]; then
-          
-          [ -f ../htl.m3u ] && mv ../htl.m3u ./httop.m3u || true
-          [ -f ../htl_merged.m3u ] && mv ../htl_merged.m3u ./httop_merged.m3u || true 
-          [ -f ../hlt_merged.m3u ] && mv ../hlt_merged.m3u ./htllt_merged.m3u || true   
-          [ -f ../hdx_merged.m3u ] && mv ../hdx_merged.m3u ./htldx_merged.m3u || true  
-          [ -f ../hyd_merged.m3u ] && mv ../hyd_merged.m3u ./htlyd_merged.m3u || true            
           [ -f ../io.m3u ] && mv ../io.m3u ./plutotv.m3u || true
           [ -f ../rkt.m3u ] && mv ../rkt.m3u ./rakutentv.m3u || true
         fi
