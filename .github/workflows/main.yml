@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write    # 允许推送代码
-    #env:
-    #  ONLY_UPDATE_MIGU: false    # 在这里修改：true 表示只更新 migu_merged.m3u，false 表示更新所有文件
+    env:
+      ONLY_UPDATE_MIGU: false    # 在这里修改：true 表示只更新 migu_merged.m3u，false 表示更新所有文件
     steps: 
 
     - name: Checkout code
@@ -20,19 +20,7 @@ jobs:
 
     - name: Install Dependencies
       run: pip install requests
-      
-    - name: Set Environment
-      run: |
-        # 获取当前 UTC 小时
-        CURRENT_HOUR=$(date -u +%H)
-        
-        # 如果是 09、21 点或者是手动触发，则为设置为 false
-        if [[ "$CURRENT_HOUR" == "09" || "$CURRENT_HOUR" == "21" || "${{ github.event_name }}" == "workflow_dispatch" ]]; then
-          echo "ONLY_UPDATE_MIGU=false" >> $GITHUB_ENV
-        else
-          echo "ONLY_UPDATE_MIGU=true" >> $GITHUB_ENV
-        fi
-        
+  
     # ---  Migu 处理---
     - name: Process Migu Files
       continue-on-error: true     # 即使失败也会继续执行后续块 
