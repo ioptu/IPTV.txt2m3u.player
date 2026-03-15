@@ -26,7 +26,6 @@ jobs:
       continue-on-error: true     # 即使失败也会继续执行后续块 
       run: |
         python ./scripts/migu.py
-        mv migu.txt mig.m3u
         python ./scripts/deduplicate.py -i mig.m3u -o mig_d.m3u
         python ./scripts/m3u_mergerng.py -i mig_d.m3u -o mig_d.m3u
         python ./scripts/m3u_merger.py -i mig_d.m3u -o mig_d.m3u
