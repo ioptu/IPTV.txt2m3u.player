@@ -8,9 +8,6 @@
 https://gh-proxy.org/github.com/ioptu/migu_video/raw/refs/heads/main/migu.m3u
 ```
 ```
-https://gh-proxy.org/github.com/ioptu/migu_video/raw/refs/heads/main/cctv.migu.m3u
-```
-```
 https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/plutotv.m3u
 ```
 ```
