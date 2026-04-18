@@ -8,10 +8,7 @@
 https://gh-proxy.org/github.com/ioptu/migu_video/raw/refs/heads/main/migu.m3u
 ```
 ```
-https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/plutotv.m3u
-```
-```
-https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/rakutentv.m3u
+https://gh-proxy.org/github.com/482349841209/rakuten-m3u-generator/raw/refs/heads/master/output/rakuten.m3u
 ```
 
 
