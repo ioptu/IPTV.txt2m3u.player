@@ -1,316 +1,301 @@
 #EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/develop202/migu_video/playback.xml,https://ghfast.top/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://hk.gh-proxy.org/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontents.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" group-title="央视",CCTV1综合
-https://d1t.alwaysdata.net/mgvt/CCTV1综合
+https://d1t.alwaysdata.net/mgvt/CCTV1%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" group-title="央视",CCTV2财经
-https://d1t.alwaysdata.net/mgvt/CCTV2财经
+https://d1t.alwaysdata.net/mgvt/CCTV2%E8%B4%A2%E7%BB%8F
 
 #EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" group-title="央视",CCTV3综艺
-https://d1t.alwaysdata.net/mgvt/CCTV3综艺
+https://d1t.alwaysdata.net/mgvt/CCTV3%E7%BB%BC%E8%89%BA
 
 #EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" group-title="央视",CCTV4中文国际
-https://d1t.alwaysdata.net/mgvt/CCTV4中文国际
+https://d1t.alwaysdata.net/mgvt/CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85
 
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" group-title="央视",CCTV4欧洲
-https://d1t.alwaysdata.net/mgvt/CCTV4欧洲
+https://d1t.alwaysdata.net/mgvt/CCTV4%E6%AC%A7%E6%B4%B2
 
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" group-title="央视",CCTV4美洲
-https://d1t.alwaysdata.net/mgvt/CCTV4美洲
+https://d1t.alwaysdata.net/mgvt/CCTV4%E7%BE%8E%E6%B4%B2
 
 #EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" group-title="央视",CCTV5体育
-https://d1t.alwaysdata.net/mgvt/CCTV5体育
+https://d1t.alwaysdata.net/mgvt/CCTV5%E4%BD%93%E8%82%B2
 
 #EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" group-title="央视",CCTV5+体育赛事
-https://d1t.alwaysdata.net/mgvt/CCTV5+体育赛事
+https://d1t.alwaysdata.net/mgvt/CCTV5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B
 
 #EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" group-title="央视",CCTV6电影
-https://d1t.alwaysdata.net/mgvt/CCTV6电影
+https://d1t.alwaysdata.net/mgvt/CCTV6%E7%94%B5%E5%BD%B1
 
 #EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" group-title="央视",CCTV7国防军事
-https://d1t.alwaysdata.net/mgvt/CCTV7国防军事
+https://d1t.alwaysdata.net/mgvt/CCTV7%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B
 
 #EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" group-title="央视",CCTV8电视剧
-https://d1t.alwaysdata.net/mgvt/CCTV8电视剧
+https://d1t.alwaysdata.net/mgvt/CCTV8%E7%94%B5%E8%A7%86%E5%89%A7
 
 #EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" group-title="央视",CCTV9纪录
-https://d1t.alwaysdata.net/mgvt/CCTV9纪录
+https://d1t.alwaysdata.net/mgvt/CCTV9%E7%BA%AA%E5%BD%95
 
 #EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" group-title="央视",CCTV10科教
-https://d1t.alwaysdata.net/mgvt/CCTV10科教
+https://d1t.alwaysdata.net/mgvt/CCTV10%E7%A7%91%E6%95%99
 
 #EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" group-title="央视",CCTV11戏曲
-https://d1t.alwaysdata.net/mgvt/CCTV11戏曲
+https://d1t.alwaysdata.net/mgvt/CCTV11%E6%88%8F%E6%9B%B2
 
 #EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" group-title="央视",CCTV12社会与法
-https://d1t.alwaysdata.net/mgvt/CCTV12社会与法
+https://d1t.alwaysdata.net/mgvt/CCTV12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95
 
 #EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" group-title="央视",CCTV13新闻
-https://d1t.alwaysdata.net/mgvt/CCTV13新闻
+https://d1t.alwaysdata.net/mgvt/CCTV13%E6%96%B0%E9%97%BB
 
 #EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" group-title="央视",CCTV14少儿
-https://d1t.alwaysdata.net/mgvt/CCTV14少儿
+https://d1t.alwaysdata.net/mgvt/CCTV14%E5%B0%91%E5%84%BF
 
 #EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" group-title="央视",CCTV15音乐
-https://d1t.alwaysdata.net/mgvt/CCTV15音乐
+https://d1t.alwaysdata.net/mgvt/CCTV15%E9%9F%B3%E4%B9%90
 
 #EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" group-title="央视",CCTV17农业农村
-https://d1t.alwaysdata.net/mgvt/CCTV17农业农村
+https://d1t.alwaysdata.net/mgvt/CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="央视",CGTN
 https://d1t.alwaysdata.net/mgvt/CGTN
 
 #EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" group-title="央视",CGTN外语纪录
-https://d1t.alwaysdata.net/mgvt/CGTN外语纪录
+https://d1t.alwaysdata.net/mgvt/CGTN%E5%A4%96%E8%AF%AD%E7%BA%AA%E5%BD%95
 
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" group-title="央视",CGTN西班牙语
-https://d1t.alwaysdata.net/mgvt/CGTN西班牙语
+https://d1t.alwaysdata.net/mgvt/CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD
 
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" group-title="央视",CGTN俄语
-https://d1t.alwaysdata.net/mgvt/CGTN俄语
+https://d1t.alwaysdata.net/mgvt/CGTN%E4%BF%84%E8%AF%AD
 
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" group-title="央视",CGTN法语
-https://d1t.alwaysdata.net/mgvt/CGTN法语
+https://d1t.alwaysdata.net/mgvt/CGTN%E6%B3%95%E8%AF%AD
 
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" group-title="央视",CGTN阿拉伯语
-https://d1t.alwaysdata.net/mgvt/CGTN阿拉伯语
+https://d1t.alwaysdata.net/mgvt/CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD
 
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" group-title="央视",中学生
-https://d1t.alwaysdata.net/mgvt/中学生
+https://d1t.alwaysdata.net/mgvt/%E4%B8%AD%E5%AD%A6%E7%94%9F
 
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" group-title="央视",老故事
-https://d1t.alwaysdata.net/mgvt/老故事
+https://d1t.alwaysdata.net/mgvt/%E8%80%81%E6%95%85%E4%BA%8B
 
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" group-title="央视",发现之旅
-https://d1t.alwaysdata.net/mgvt/发现之旅
+https://d1t.alwaysdata.net/mgvt/%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视",广东卫视
-https://d1t.alwaysdata.net/mgvt/广东卫视
+https://d1t.alwaysdata.net/mgvt/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视",东方卫视
-https://d1t.alwaysdata.net/mgvt/东方卫视
+https://d1t.alwaysdata.net/mgvt/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视",大湾区卫视
-https://d1t.alwaysdata.net/mgvt/大湾区卫视
+https://d1t.alwaysdata.net/mgvt/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
-https://d1t.alwaysdata.net/mgvt/江苏卫视
+https://d1t.alwaysdata.net/mgvt/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视",陕西卫视
-https://d1t.alwaysdata.net/mgvt/陕西卫视
+https://d1t.alwaysdata.net/mgvt/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
-https://d1t.alwaysdata.net/mgvt/辽宁卫视
+https://d1t.alwaysdata.net/mgvt/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视",河南卫视
-https://d1t.alwaysdata.net/mgvt/河南卫视
+https://d1t.alwaysdata.net/mgvt/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
-https://d1t.alwaysdata.net/mgvt/北京卫视
+https://d1t.alwaysdata.net/mgvt/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视",河北卫视
-https://d1t.alwaysdata.net/mgvt/河北卫视
+https://d1t.alwaysdata.net/mgvt/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视",江西卫视
-https://d1t.alwaysdata.net/mgvt/江西卫视
+https://d1t.alwaysdata.net/mgvt/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视",青海卫视
-https://d1t.alwaysdata.net/mgvt/青海卫视
+https://d1t.alwaysdata.net/mgvt/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
-https://d1t.alwaysdata.net/mgvt/湖北卫视
+https://d1t.alwaysdata.net/mgvt/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视",东南卫视
-https://d1t.alwaysdata.net/mgvt/东南卫视
+https://d1t.alwaysdata.net/mgvt/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视",重庆卫视
-https://d1t.alwaysdata.net/mgvt/重庆卫视
+https://d1t.alwaysdata.net/mgvt/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视",海南卫视
-https://d1t.alwaysdata.net/mgvt/海南卫视
+https://d1t.alwaysdata.net/mgvt/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
-https://d1t.alwaysdata.net/mgvt/宁夏卫视
+https://d1t.alwaysdata.net/mgvt/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视",吉林卫视
-https://d1t.alwaysdata.net/mgvt/吉林卫视
+https://d1t.alwaysdata.net/mgvt/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="中国农林卫视" tvg-name="中国农林卫视" group-title="卫视",中国农林卫视
-https://d1t.alwaysdata.net/mgvt/中国农林卫视
+https://d1t.alwaysdata.net/mgvt/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="卫视",海峡卫视
-https://d1t.alwaysdata.net/mgvt/海峡卫视
+https://d1t.alwaysdata.net/mgvt/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视",兵团卫视
-https://d1t.alwaysdata.net/mgvt/兵团卫视
+https://d1t.alwaysdata.net/mgvt/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视",三沙卫视
-https://d1t.alwaysdata.net/mgvt/三沙卫视
+https://d1t.alwaysdata.net/mgvt/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="南京新闻综合频道" tvg-name="南京新闻综合频道" group-title="其它",南京新闻综合频道
-https://d1t.alwaysdata.net/mgvt/南京新闻综合频道
+https://d1t.alwaysdata.net/mgvt/%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="江苏城市频道" tvg-name="江苏城市频道" group-title="其它",江苏城市频道
-https://d1t.alwaysdata.net/mgvt/江苏城市频道
+https://d1t.alwaysdata.net/mgvt/%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="南京教科频道" tvg-name="南京教科频道" group-title="其它",南京教科频道
-https://d1t.alwaysdata.net/mgvt/南京教科频道
+https://d1t.alwaysdata.net/mgvt/%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="体育休闲频道" tvg-name="体育休闲频道" group-title="其它",体育休闲频道
-https://d1t.alwaysdata.net/mgvt/体育休闲频道
+https://d1t.alwaysdata.net/mgvt/%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="江苏影视频道" tvg-name="江苏影视频道" group-title="其它",江苏影视频道
-https://d1t.alwaysdata.net/mgvt/江苏影视频道
+https://d1t.alwaysdata.net/mgvt/%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="公共新闻频道" tvg-name="公共新闻频道" group-title="其它",公共新闻频道
-https://d1t.alwaysdata.net/mgvt/公共新闻频道
+https://d1t.alwaysdata.net/mgvt/%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" group-title="其它",上海新闻综合
-https://d1t.alwaysdata.net/mgvt/上海新闻综合
+https://d1t.alwaysdata.net/mgvt/%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" group-title="其它",江苏教育
-https://d1t.alwaysdata.net/mgvt/江苏教育
+https://d1t.alwaysdata.net/mgvt/%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2
 
 #EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" group-title="其它",盐城新闻综合
-https://d1t.alwaysdata.net/mgvt/盐城新闻综合
+https://d1t.alwaysdata.net/mgvt/%E7%9B%90%E5%9F%8E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" group-title="其它",上视东方影视
-https://d1t.alwaysdata.net/mgvt/上视东方影视
+https://d1t.alwaysdata.net/mgvt/%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86
 
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" group-title="其它",上海第一财经
-https://d1t.alwaysdata.net/mgvt/上海第一财经
+https://d1t.alwaysdata.net/mgvt/%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F
 
 #EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" group-title="其它",江苏国际
-https://d1t.alwaysdata.net/mgvt/江苏国际
+https://d1t.alwaysdata.net/mgvt/%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85
 
 #EXTINF:-1 tvg-id="南京十八频道" tvg-name="南京十八频道" group-title="其它",南京十八频道
-https://d1t.alwaysdata.net/mgvt/南京十八频道
+https://d1t.alwaysdata.net/mgvt/%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="江苏综艺频道" tvg-name="江苏综艺频道" group-title="其它",江苏综艺频道
-https://d1t.alwaysdata.net/mgvt/江苏综艺频道
+https://d1t.alwaysdata.net/mgvt/%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" group-title="其它",江阴新闻综合
-https://d1t.alwaysdata.net/mgvt/江阴新闻综合
+https://d1t.alwaysdata.net/mgvt/%E6%B1%9F%E9%98%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" group-title="其它",徐州新闻综合
-https://d1t.alwaysdata.net/mgvt/徐州新闻综合
+https://d1t.alwaysdata.net/mgvt/%E5%BE%90%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 tvg-id="宜兴新闻综合" tvg-name="宜兴新闻综合" group-title="其它",宜兴新闻综合
-https://d1t.alwaysdata.net/mgvt/宜兴新闻综合
+https://d1t.alwaysdata.net/mgvt/%E5%AE%9C%E5%85%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" group-title="其它",连云港新闻综合
-https://d1t.alwaysdata.net/mgvt/连云港新闻综合
+https://d1t.alwaysdata.net/mgvt/%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" group-title="其它",淮安新闻综合
-https://d1t.alwaysdata.net/mgvt/淮安新闻综合
+https://d1t.alwaysdata.net/mgvt/%E6%B7%AE%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 tvg-id="泰州新闻综合" tvg-name="泰州新闻综合" group-title="其它",泰州新闻综合
-https://d1t.alwaysdata.net/mgvt/泰州新闻综合
+https://d1t.alwaysdata.net/mgvt/%E6%B3%B0%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" group-title="其它",南通新闻综合
-https://d1t.alwaysdata.net/mgvt/南通新闻综合
+https://d1t.alwaysdata.net/mgvt/%E5%8D%97%E9%80%9A%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 tvg-id="宿迁新闻综合" tvg-name="宿迁新闻综合" group-title="其它",宿迁新闻综合
-https://d1t.alwaysdata.net/mgvt/宿迁新闻综合
+https://d1t.alwaysdata.net/mgvt/%E5%AE%BF%E8%BF%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 tvg-id="优漫卡通频道" tvg-name="优漫卡通频道" group-title="其它",优漫卡通频道
-https://d1t.alwaysdata.net/mgvt/优漫卡通频道
+https://d1t.alwaysdata.net/mgvt/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="溧水新闻综合" tvg-name="溧水新闻综合" group-title="其它",溧水新闻综合
-https://d1t.alwaysdata.net/mgvt/溧水新闻综合
+https://d1t.alwaysdata.net/mgvt/%E6%BA%A7%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" group-title="其它",镇江新闻综合
-https://d1t.alwaysdata.net/mgvt/镇江新闻综合
+https://d1t.alwaysdata.net/mgvt/%E9%95%87%E6%B1%9F%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 tvg-id="陕西银龄频道" tvg-name="陕西银龄频道" group-title="其它",陕西银龄频道
-https://d1t.alwaysdata.net/mgvt/陕西银龄频道
+https://d1t.alwaysdata.net/mgvt/%E9%99%95%E8%A5%BF%E9%93%B6%E9%BE%84%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="陕西体育休闲频道" tvg-name="陕西体育休闲频道" group-title="其它",陕西体育休闲频道
-https://d1t.alwaysdata.net/mgvt/陕西体育休闲频道
+https://d1t.alwaysdata.net/mgvt/%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="陕西都市青春频道" tvg-name="陕西都市青春频道" group-title="其它",陕西都市青春频道
-https://d1t.alwaysdata.net/mgvt/陕西都市青春频道
+https://d1t.alwaysdata.net/mgvt/%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="陕西新闻资讯频道" tvg-name="陕西新闻资讯频道" group-title="其它",陕西新闻资讯频道
-https://d1t.alwaysdata.net/mgvt/陕西新闻资讯频道
+https://d1t.alwaysdata.net/mgvt/%E9%99%95%E8%A5%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="陕西秦腔频道" tvg-name="陕西秦腔频道" group-title="其它",陕西秦腔频道
-https://d1t.alwaysdata.net/mgvt/陕西秦腔频道
-
-#EXTINF:-1 tvg-id="海南广播电视总台新闻频道" tvg-name="海南广播电视总台新闻频道" group-title="其它",海南广播电视总台新闻频道
-https://d1t.alwaysdata.net/mgvt/海南广播电视总台新闻频道
-
-#EXTINF:-1 tvg-id="海南广播电视总台自贸频道" tvg-name="海南广播电视总台自贸频道" group-title="其它",海南广播电视总台自贸频道
-https://d1t.alwaysdata.net/mgvt/海南广播电视总台自贸频道
-
-#EXTINF:-1 tvg-id="海南广播电视总台社会与法频道" tvg-name="海南广播电视总台社会与法频道" group-title="其它",海南广播电视总台社会与法频道
-https://d1t.alwaysdata.net/mgvt/海南广播电视总台社会与法频道
-
-#EXTINF:-1 tvg-id="海南广播电视总台文旅频道" tvg-name="海南广播电视总台文旅频道" group-title="其它",海南广播电视总台文旅频道
-https://d1t.alwaysdata.net/mgvt/海南广播电视总台文旅频道
-
-#EXTINF:-1 tvg-id="海南广播电视总台少儿频道" tvg-name="海南广播电视总台少儿频道" group-title="其它",海南广播电视总台少儿频道
-https://d1t.alwaysdata.net/mgvt/海南广播电视总台少儿频道
+https://d1t.alwaysdata.net/mgvt/%E9%99%95%E8%A5%BF%E7%A7%A6%E8%85%94%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" group-title="其它",财富天下
-https://d1t.alwaysdata.net/mgvt/财富天下
+https://d1t.alwaysdata.net/mgvt/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B
 
 #EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" group-title="其它",赛事最经典
-https://d1t.alwaysdata.net/mgvt/赛事最经典
+https://d1t.alwaysdata.net/mgvt/%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8
 
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" group-title="其它",武术世界
-https://d1t.alwaysdata.net/mgvt/武术世界
+https://d1t.alwaysdata.net/mgvt/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C
 
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="其它",快乐垂钓
-https://d1t.alwaysdata.net/mgvt/快乐垂钓
+https://d1t.alwaysdata.net/mgvt/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93
 
 #EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" group-title="其它",24小时城市联赛轮播台
-https://d1t.alwaysdata.net/mgvt/24小时城市联赛轮播台
+https://d1t.alwaysdata.net/mgvt/24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0
 
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" group-title="其它",四海钓鱼
-https://d1t.alwaysdata.net/mgvt/四海钓鱼
+https://d1t.alwaysdata.net/mgvt/%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC
 
 #EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" group-title="其它",体坛名栏汇
-https://d1t.alwaysdata.net/mgvt/体坛名栏汇
+https://d1t.alwaysdata.net/mgvt/%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87
 
 #EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" group-title="其它",新片放映厅
-https://d1t.alwaysdata.net/mgvt/新片放映厅
+https://d1t.alwaysdata.net/mgvt/%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85
 
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" group-title="其它",抗战经典影片
-https://d1t.alwaysdata.net/mgvt/抗战经典影片
+https://d1t.alwaysdata.net/mgvt/%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87
 
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="其它",CHC影迷电影
-https://d1t.alwaysdata.net/mgvt/CHC影迷电影
+https://d1t.alwaysdata.net/mgvt/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
 
 #EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" group-title="其它",经典香港电影
-https://d1t.alwaysdata.net/mgvt/经典香港电影
+https://d1t.alwaysdata.net/mgvt/%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1
 
 #EXTINF:-1 tvg-id="南方影视" tvg-name="南方影视" group-title="其它",南方影视
-https://d1t.alwaysdata.net/mgvt/南方影视
+https://d1t.alwaysdata.net/mgvt/%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86
 
 #EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" group-title="其它",和美乡途轮播台
-https://d1t.alwaysdata.net/mgvt/和美乡途轮播台
+https://d1t.alwaysdata.net/mgvt/%E5%92%8C%E7%BE%8E%E4%B9%A1%E9%80%94%E8%BD%AE%E6%92%AD%E5%8F%B0
 
 #EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" group-title="其它",经典动画大集合
-https://d1t.alwaysdata.net/mgvt/经典动画大集合
+https://d1t.alwaysdata.net/mgvt/%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88
 
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" group-title="其它",嘉佳卡通
-https://d1t.alwaysdata.net/mgvt/嘉佳卡通
+https://d1t.alwaysdata.net/mgvt/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A
 
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" group-title="其它",新动漫
-https://d1t.alwaysdata.net/mgvt/新动漫
+https://d1t.alwaysdata.net/mgvt/%E6%96%B0%E5%8A%A8%E6%BC%AB
 
 #EXTINF:-1 tvg-id="中国航天“逆袭”之路" tvg-name="中国航天“逆袭”之路" group-title="其它",中国航天“逆袭”之路
-https://d1t.alwaysdata.net/mgvt/中国航天“逆袭”之路
+https://d1t.alwaysdata.net/mgvt/%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E2%80%9C%E9%80%86%E8%A2%AD%E2%80%9D%E4%B9%8B%E8%B7%AF
 
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" group-title="其它",中国天气
-https://d1t.alwaysdata.net/mgvt/中国天气
+https://d1t.alwaysdata.net/mgvt/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94
 
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" group-title="其它",CETV1
 https://d1t.alwaysdata.net/mgvt/CETV1
 
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" group-title="其它",山东教育
-https://d1t.alwaysdata.net/山东教育
+https://d1t.alwaysdata.net/mgvt/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2
 
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" group-title="其它",CETV4
 https://d1t.alwaysdata.net/mgvt/CETV4
@@ -319,13 +304,13 @@ https://d1t.alwaysdata.net/mgvt/CETV4
 https://d1t.alwaysdata.net/mgvt/CETV2
 
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" group-title="其它",中华特产
-https://d1t.alwaysdata.net/mgvt/中华特产
+https://d1t.alwaysdata.net/mgvt/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7
 
 #EXTINF:-1 tvg-id="新动力量创一流" tvg-name="新动力量创一流" group-title="其它",新动力量创一流
-https://d1t.alwaysdata.net/mgvt/新动力量创一流
+https://d1t.alwaysdata.net/mgvt/%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81
 
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" group-title="其它",环球旅游
-https://d1t.alwaysdata.net/mgvt/环球旅游
+https://d1t.alwaysdata.net/mgvt/%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8
 
 #EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" group-title="其它",梨园频道
-https://d1t.alwaysdata.net/mgvt/梨园频道
+https://d1t.alwaysdata.net/mgvt/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93
