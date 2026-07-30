@@ -23,13 +23,13 @@ jobs:
 
           # 开启 nullglob，确保未匹配到文件时 mv 不报错
           shopt -s nullglob
-          files=(./chrome-extension/*.zip)
+          files=(./chrome extension/*.zip)
 
           if [ ${#files[@]} -gt 0 ]; then
-            mkdir -p ./chrome-extension/archived
-            mv "${files[@]}" ./chrome-extension/archived/
+            mkdir -p ./chrome extension/archived
+            mv "${files[@]}" ./chrome extension/archived/
           else
-            echo "No matching sszm files found."
+            echo "No matching .zip files found."
           fi
 
           git add .
