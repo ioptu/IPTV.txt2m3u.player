@@ -1,0 +1,41 @@
+name: Archive Files
+
+on:
+  # schedule:
+  #   - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  main:
+    name: Archive Files
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+
+      - name: Move and Commit
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+
+          # 开启 nullglob，确保未匹配到文件时 mv 不报错
+          shopt -s nullglob
+          files=(./chrome-extension/*.zip)
+
+          if [ ${#files[@]} -gt 0 ]; then
+            mkdir -p ./chrome-extension/archived
+            mv "${files[@]}" ./chrome-extension/archived/
+          else
+            echo "No matching sszm files found."
+          fi
+
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update: $(date +'%Y-%m-%d %H:%M:%S') UTC"
+            git push
+          fi
