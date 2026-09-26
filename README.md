@@ -5,10 +5,7 @@
 https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/migu.m3u
 ```
 ```
-https://www.apsattv.com/rakutentv-uk.m3u
-```
-```
-https://www.apsattv.com/uslg.m3u
+https://www.apsattv.com/freelivesports.m3u
 ```
 ```
 https://www.apsattv.com/xumo.m3u
